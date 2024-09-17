@@ -1,31 +1,25 @@
-# DIF Working Group Repo Template
+# DID Method Working Group
 
-## About
-Use this repository template for DIF Working Groups. It does the following:
+This is the operating repository for the DID Method Working Group.
 
-- Contains the group's common files (such as license and contributing instructions) in the `main` branch
-- Establishes the group's processes
+## Setup Instructions
 
-## Template Instructions
-- Find/replace "template-for-WGs" with working group name
+TODO: finish the following setup once the group is approved.
+
 - Update all of the links in AGENDA.md and [set up hackmd integration](https://hackmd.io/s/link-with-github)
-- Update CODEOWNERS
+- ~~Update CODEOWNERS~~
 - Update the README. This includes
-   - All content and links in this file
-   - Any other group processes
+  - All content and links in this file
+  - Any other group processes
 - Link to the group's charter and operating addendum (if used). A standard place to do this is in the "Resources" section below
 - Update CONTRIBUTING.md with any group-specific processes
 - Add any starting point work items
 - Update github repo settings
 
-## Example README.md content is below
-
-## About this group
-We are a group!
-
 ## Resources
-- [Website](https://identity.foundation/working-groups/template-for-WGs.html)
-- [Meeting minutes/agenda](https://github.com/decentralized-identity/template-for-WGs/blob/main/AGENDA.md)
+
+- [Website](https://identity.foundation/working-groups/did-method.html)
+- [Meeting minutes/agenda](https://github.com/decentralized-identity/did-method/blob/main/AGENDA.md)
 - [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=1252135265)
 - The group's [Charter]() and [Operating Addendum]()
 - All ongoing and prior work item repos on GitHub can be browsed [here](https://github.com/topics/wg-cc)
@@ -41,7 +35,7 @@ We are a group!
 3. In the project directory on your local machine, copy
    `templates/work_item.md` into lowercase snakecase "short name" for your work
    item in `work_items/`. For example, `cp templates/work_item.md
-   work_items/credential_revocation.md`. Add your work item to the list of
+work_items/credential_revocation.md`. Add your work item to the list of
    active work items in `work_items/README.md`.
 4. Populate your work item by completing all the sections in the template,
    including answering all the questions.
@@ -53,7 +47,7 @@ We are a group!
    **must** express in the Pull Request via GitHub comment that they accept the
    responsbilities of work item ownership.
 7. Upon approval via merging, chairs will create 1 or more repos and assign
-   code-owner status to applicants, then begin an email thread with the chairs. 
+   code-owner status to applicants, then begin an email thread with the chairs.
    discuss asynchronously if you require any administrative resources from DIF,
    such as a regularly scheduled Zoom meeting link, inclusion on the
    [DIF calendar](mailto:decentralized.identity@gmail.com), help configuring
@@ -61,7 +55,9 @@ We are a group!
    item.
 
 ## Work item ownership responsibilities
+
 As a work item owner, you will have the following responsibilities:
+
 - Timely response to questions and status check-ins about the work item by the
   chairs and other DIF members.
 - Commitment to designating and sending a work item representative for all C&C
@@ -74,8 +70,10 @@ As a work item owner, you will have the following responsibilities:
   work item markdown file instead of adding a new one.
 
 ## Types of working items
+
 We informally recognize a few main formats for work items and recommend the
 following conduct for each:
+
 - A **Standards-Track Specification** is meant to describe curated lists or
   data formats that will enable interoperability across systems. It should have
   a destination in mind, such as the W3C Credentials Community Group.

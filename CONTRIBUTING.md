@@ -7,10 +7,12 @@ Thank you for your interest in contributing to our project! This document provid
 Before you contribute, there are a few important steps you need to follow:
 
 1. **License Agreement**:
+
    - All contributions are subject to the project’s license as outlined in the [LICENSE](/LICENSE.md) file. Please review this to understand how your contributions will be used.
 
 2. **DIF Agreements**:
-   - If you are contributing to components governed by the Decentralized Identity Foundation (DIF), you must sign the relevant DIF agreements. This is essential to comply with legal standards and community policies. Please visit [DIF's site](https://identity.foundation/join/) to complete this process.
+
+   - If you are contributing to components governed by the Decentralized Identity Foundation (DIF), you must sign the relevant DIF agreements or be a member of a liaison organization. This is essential to comply with legal standards and community policies. Please visit [DIF's site](https://identity.foundation/join/) to complete this process.
 
 3. **Code of Conduct**:
    - We are committed to providing a welcoming and inspiring community for all. Please read and understand our [Code of Conduct](https://github.com/decentralized-identity/org/blob/master/code-of-conduct.md) before participating in this project.
@@ -20,6 +22,7 @@ Before you contribute, there are a few important steps you need to follow:
 ### Reporting Issues
 
 Please follow these guidelines for reporting bugs:
+
 - Use our issue tracker to report bugs.
 - Include a clear description of the issue with as much detail as possible.
 - Attach screenshots if possible to clarify the problem.
@@ -27,6 +30,7 @@ Please follow these guidelines for reporting bugs:
 ### Submitting Changes
 
 Here’s how you can submit your changes:
+
 - Fork the repository on GitHub.
 - Create a new branch for your changes.
 - Make your modifications and write clear, concise commit messages.
