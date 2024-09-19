@@ -19,7 +19,9 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 
 ## Meeting - 20 Sep 2024 - (1200 ET)
 
-Attendees: 
+Attendees: Kim, ...
+
+[Slide deck](https://docs.google.com/presentation/d/1isciKwqiLPZij_B30noNsL71Edjc9hkdowjihhvUMGw/edit#slide=id.p11)
 
 1. Welcome and Introductions
 2. Intro to DID Method Working Group
