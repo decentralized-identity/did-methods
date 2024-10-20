@@ -2,28 +2,19 @@
 
 This is the operating repository for the DID Method Working Group.
 
-## Setup Instructions
+TODO:
 
-TODO: finish the following setup once the group is approved.
-
-- Update all of the links in AGENDA.md and [set up hackmd integration](https://hackmd.io/s/link-with-github)
-- ~~Update CODEOWNERS~~
-- Update the README. This includes
-  - All content and links in this file
-  - Any other group processes
-- Link to the group's charter and operating addendum (if used). A standard place to do this is in the "Resources" section below
-- Update CONTRIBUTING.md with any group-specific processes
-- Add any starting point work items
-- Update github repo settings
+- Update mailing list
+- Set up hackmd integration
 
 ## Resources
 
-- [Website](https://identity.foundation/working-groups/did-method.html)
-- [Meeting minutes/agenda](https://github.com/decentralized-identity/did-method/blob/main/AGENDA.md)
-- [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=1252135265)
-- The group's [Charter]() and [Operating Addendum]()
-- All ongoing and prior work item repos on GitHub can be browsed [here](https://github.com/topics/wg-cc)
-- [Mailing List](https://lists.identity.foundation/g/cc-wg): Receive the latest updates here.
+- [Website](https://identity.foundation/working-groups/did-methods.html)
+- [Meeting minutes/agenda](https://github.com/decentralized-identity/did-methods/blob/main/AGENDA.md)
+- [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit?gid=242845701#gid=242845701)
+- The group's [Charter](https://github.com/decentralized-identity/org/blob/main/Org%20documents/WG%20documents/DIF_DID_Methods_WG_Charter_v1.pdf) and [Operating Addendum](https://github.com/decentralized-identity/org/blob/main/Org%20documents/WG%20documents/DIF_DID_Methods_Operating_Addendum_v1.pdf)
+- All ongoing and prior work item repos on GitHub can be browsed [here](https://github.com/topics/wg-dm)
+- [Mailing List](https://lists.identity.foundation/g/TODO): TODO: Receive the latest updates here.
 
 ## Creating a new work item
 

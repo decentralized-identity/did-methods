@@ -12,7 +12,14 @@ Before you contribute, there are a few important steps you need to follow:
 
 2. **DIF Agreements**:
 
-   - If you are contributing to components governed by the Decentralized Identity Foundation (DIF), you must sign the relevant DIF agreements or be a member of a liaison organization. This is essential to comply with legal standards and community policies. Please visit [DIF's site](https://identity.foundation/join/) to complete this process.
+- **If you're already a DIF Member**, sign the DID Methods WG agreement: Select "DID Methods" WG on the [Joint WG selector form](https://bit.ly/DIF_Joint_WG_select)
+- **If you're an Unaffiliated Individual**: Sign the [DIF Feedback Agreement](https://bit.ly/DIF-feedback-agreement) and select "DID Methods" WG
+- **Not a DIF Member, participating on behalf of an Organization**:
+  - If you'd like to join DIF, [start here](https://identity.foundation/join/) or contact us at membership@identity.foundation
+  - If you're a member of ToIP, W3C CCG, W3C DID Method WG, or INATBA (see 5.1 in the [Operating Addendum](https://github.com/decentralized-identity/org/blob/main/Org%20documents/WG%20documents/DIF_DID_Methods_Operating_Addendum_v1.pdf) for the latest list of organizations):
+    - Sign the [DIF Contributor Agreement](https://bit.ly/DIF-contributor)
+    - Sign the DID Methods WG agreement: Select "DID Methods" WG on the [Joint WG selector form](https://bit.ly/DIF_Joint_WG_select)
+  - If you have questions, including if you'd like to request organization's inclusion in the participation agreement, email membership@identity.foundation
 
 3. **Code of Conduct**:
    - We are committed to providing a welcoming and inspiring community for all. Please read and understand our [Code of Conduct](https://github.com/decentralized-identity/org/blob/master/code-of-conduct.md) before participating in this project.
