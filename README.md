@@ -5,7 +5,6 @@ This is the operating repository for the DID Method Working Group.
 TODO:
 
 - Update mailing list
-- Set up hackmd integration
 
 ## Resources
 
