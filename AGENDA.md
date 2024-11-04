@@ -18,7 +18,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
     - Ensure your organization has signed the IPR release. See CONTRIBUTING.md, Prerequisites #2 for details.
     - Sign the DID Methods WG agreement: Select "DID Methods" WG on the [Joint WG selector form](https://bit.ly/DIF_Joint_WG_select)
 - Time: Every other Wednesday, noon ET / 18:00 CET
-- [Add to calendar](https://calendar.app.google/h5sMifqRBHdt9Qjq7)
+- [Add to calendar](https://calendar.app.google/zSNbC5nVAF8Fy4ti9)
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 </details>
 
