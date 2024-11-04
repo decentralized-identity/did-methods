@@ -2,10 +2,9 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/1aWygeLKT1GRKx-dAeFl3w/badge)](https://hackmd.io/1aWygeLKT1GRKx-dAeFl3w)
 
-
 [**WG projects** ](https://github.com/decentralized-identity?q=wg-cc&type=&language=) | [ DIF page ](https://identity.foundation/working-groups/did-methods.html) | [Mailing list and Wiki](https://lists.identity.foundation/g/cc-wg) | [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit#gid=1252135265)
 
-_For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large, disparate group._
+_For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large group._
 
 _This document is live-edited DURING each call, and stable/authoritative copies live on our github repo under agenda.md .
 Please note that we might not notice a pullrequest in time, but you are free to propose agenda items for future meetings via hackmd._
@@ -19,11 +18,11 @@ Please note that we might not notice a pullrequest in time, but you are free to 
     - Ensure your organization has signed the IPR release. See CONTRIBUTING.md, Prerequisites #2 for details.
     - Sign the DID Methods WG agreement: Select "DID Methods" WG on the [Joint WG selector form](https://bit.ly/DIF_Joint_WG_select)
 - Time: Every other Wednesday, noon ET / 18:00 CET
-- [Add to calendar](https://calendar.app.google/qRSnst49AEZ9dLUo6)
+- [Add to calendar](https://calendar.app.google/h5sMifqRBHdt9Qjq7)
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 </details>
 
-## Meeting - 6 Nov 2024 - (1200 ET)
+## Meeting - 13 Nov 2024 - (1200 ET)
 
 ## Meeting - 20 Sept 2024 - (1200 ET)
 
