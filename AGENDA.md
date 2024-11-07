@@ -6,7 +6,7 @@
 
 _For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large group._
 
-_This document is live-edited DURING each call, and stable/authoritative copies live on our github repo under agenda.md .
+_This document is live-edited DURING each call, and stable/authoritative copies live on our github repo under agenda.md.
 Please note that we might not notice a pullrequest in time, but you are free to propose agenda items for future meetings via hackmd._
 
 <details>
@@ -16,7 +16,6 @@ Please note that we might not notice a pullrequest in time, but you are free to 
   - **Unaffiliated Individuals**: Sign the [DIF Feedback Agreement](https://bit.ly/DIF-feedback-agreement) and select "DID Methods" WG
   - **Participating on behalf of an Organization**:
     - Ensure your organization has signed the IPR release. See CONTRIBUTING.md, Prerequisites #2 for details.
-    - Sign the DID Methods WG agreement: Select "DID Methods" WG on the [Joint WG selector form](https://bit.ly/DIF_Joint_WG_select)
 - Time: Every other Wednesday, noon ET / 18:00 CET
 - [Add to calendar](https://calendar.app.google/zSNbC5nVAF8Fy4ti9)
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
