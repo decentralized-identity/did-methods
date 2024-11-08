@@ -14,7 +14,7 @@ Before you contribute, there are a few important steps you need to follow:
 
 - **If you're already a DIF Member**, you're in!
 - **If you're an Unaffiliated Individual**: Sign the [DIF Feedback Agreement](https://bit.ly/DIF-feedback-agreement) and select "DID Methods" WG
-- **Not a DIF Member, participating on behalf of an Organization**:
+- **If you're not a DIF Member, participating on behalf of an Organization**:
     - If you'd like to join DIF, [start here](https://identity.foundation/join/) or contact us at membership@identity.foundation
     - If you're a member of ToIP, W3C CCG, W3C DID Method WG, or INATBA (see 5.1 in the [Operating Addendum](https://github.com/decentralized-identity/org/blob/main/Org%20documents/WG%20documents/DIF_DID_Methods_Operating_Addendum_v1.pdf) for the latest list of organizations):
         - Sign the [DIF Contributor Agreement](https://bit.ly/DIF-contributor)
