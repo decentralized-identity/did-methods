@@ -18,7 +18,7 @@ Before you contribute, there are a few important steps you need to follow:
     - If you'd like to join DIF, [start here](https://identity.foundation/join/) or contact us at membership@identity.foundation
     - If you're a member of ToIP, W3C CCG, W3C DID Method WG, or INATBA (see 5.1 in the [Operating Addendum](https://github.com/decentralized-identity/org/blob/main/Org%20documents/WG%20documents/DIF_DID_Methods_Operating_Addendum_v1.pdf) for the latest list of organizations):
         - Sign the [DIF Contributor Agreement](https://bit.ly/DIF-contributor)
-  - If you have questions, including if you'd like to request organization's inclusion in the participation agreement, email membership@identity.foundation
+    - If you have questions, including if you'd like to request organization's inclusion in the participation agreement, email membership@identity.foundation
 
 3. **Code of Conduct**:
    - We are committed to providing a welcoming and inspiring community for all. Please read and understand our [Code of Conduct](https://github.com/decentralized-identity/org/blob/master/code-of-conduct.md) before participating in this project.
