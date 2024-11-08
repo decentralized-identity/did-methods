@@ -20,7 +20,7 @@ Before you contribute, there are a few important steps you need to follow:
         - Sign the [DIF Contributor Agreement](https://bit.ly/DIF-contributor)
   - If you have questions, including if you'd like to request organization's inclusion in the participation agreement, email membership@identity.foundation
 
-1. **Code of Conduct**:
+3. **Code of Conduct**:
    - We are committed to providing a welcoming and inspiring community for all. Please read and understand our [Code of Conduct](https://github.com/decentralized-identity/org/blob/master/code-of-conduct.md) before participating in this project.
 
 ## How to Contribute
