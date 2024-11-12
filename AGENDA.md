@@ -29,6 +29,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - Code of Conduct
 3. Quick review of scope, if needed
    - [Slide deck](https://docs.google.com/presentation/d/1isciKwqiLPZij_B30noNsL71Edjc9hkdowjihhvUMGw/edit)
+4. Call for chairs
 5. Discussion
 
 
