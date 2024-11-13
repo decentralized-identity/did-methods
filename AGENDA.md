@@ -28,8 +28,15 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
 3. [Review of Working Group Mission & Goals](https://docs.google.com/presentation/d/1isciKwqiLPZij_B30noNsL71Edjc9hkdowjihhvUMGw/edit)
-4. Call for chairs
-5. Discussion
+4. WG item: Call for chairs
+5. WG item: Deciding categories/criteria for DID method selection.
+    - Options:
+        - Use current 3 proposed
+        - Propose alternatives (as github issue*)
+    - WG will discuss/decide
+    - Focus of next meeting
+    - *Ensure you've signed IP agreements before
+6. Next steps: ensure you're a member
 
 
 ## Meeting - 20 Sept 2024 - (1200 ET)
