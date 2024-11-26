@@ -17,7 +17,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
   - **Participating on behalf of an Organization**:
     - Ensure your organization has signed the IPR release. See CONTRIBUTING.md, Prerequisites #2 for details.
 - Time: Every other Wednesday, noon ET / 18:00 CET
-- [Add to calendar](https://calendar.app.google/zSNbC5nVAF8Fy4ti9)
+- [Add to calendar](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmE3aXNpZHYzamFuYXJlZ2Z2bmtkNjZmYXZfMjAyNDExMjdUMTcwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 </details>
 
