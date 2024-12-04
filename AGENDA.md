@@ -27,9 +27,14 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 2. Logistics
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. [Review of Working Group Mission & Goals](https://docs.google.com/presentation/d/1isciKwqiLPZij_B30noNsL71Edjc9hkdowjihhvUMGw/edit)
+    - Discussion around goals of group: standardization readiness, group is maturing standards for exemplary or representative methods
+    - Importance of getting feedback from implementors 
 4. WG item: Call for chairs
 5. WG item: Deciding categories/criteria for DID method selection.
+    - Discussion: prefer to timebox the preparatory "criteria" work
+    - Outcome: iterate list of requirements in github document 
 
 ## Meeting - 13 Nov 2024 - (1200 ET)
 
