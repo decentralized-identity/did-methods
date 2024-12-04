@@ -30,7 +30,6 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 3. [Review of Working Group Mission & Goals](https://docs.google.com/presentation/d/1isciKwqiLPZij_B30noNsL71Edjc9hkdowjihhvUMGw/edit)
 4. WG item: Call for chairs
 5. WG item: Deciding categories/criteria for DID method selection.
-6. TBD
 
 ## Meeting - 13 Nov 2024 - (1200 ET)
 
