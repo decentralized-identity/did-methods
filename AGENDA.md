@@ -21,7 +21,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 </details>
 
-## Meeting - 04 Dec 2024 - (1200 ET)
+## Meeting - 04 Dec 2024 - (1200 ET) [recording](https://us02web.zoom.us/rec/share/6xEkf9jvzld-63M93LRy-7cHDKsIYFH5XkSKBTGiV0Q_LKyqnExyIBli5d4sUuA.EepoLMtKkUuTQAHW) [slides](https://github.com/decentralized-identity/did-methods/tree/main/meeting_materials/2024-12-04)
 
 1. Welcome and Introductions
 2. Logistics
@@ -36,7 +36,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
     - Discussion: prefer to timebox the preparatory "criteria" work
     - Outcome: iterate list of requirements in github document 
 
-## Meeting - 13 Nov 2024 - (1200 ET)
+## Meeting - 13 Nov 2024 - (1200 ET) [recording](https://us02web.zoom.us/rec/share/_KUk8HiwBYwQI7hmHmQ89EEybAgqh1fO3keaseHXKzzCPBc4HAZTVsUGKnYORZF1.OjINYvhyBvzlX__i)
 
 1. Welcome and Introductions
 2. Logistics
