@@ -13,3 +13,7 @@ Document here any existing draft specifications, implementations, deployments, t
 ## Meeting the selection criteria
 
 Document here how this DID method meets the [DID method selection criteria](../selection-criteria/).
+
+## Supporting use cases
+
+Document here how this DID method supports concrete use cases.
