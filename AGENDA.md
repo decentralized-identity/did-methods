@@ -28,10 +28,11 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. WG item: WG chairs
-4. WG item: Deciding categories/criteria for DID method selection.
+3. Introduction of new proposed WG chairs
+4. Iterating on categories/criteria for DID method selection.
+5. Proposals for DID methods
 
-## Meeting - 04 Dec 2024 - (1200 ET) [recording](https://us02web.zoom.us/rec/share/6xEkf9jvzld-63M93LRy-7cHDKsIYFH5XkSKBTGiV0Q_LKyqnExyIBli5d4sUuA.EepoLMtKkUuTQAHW) [slides](https://github.com/decentralized-identity/did-methods/tree/main/meeting_materials/2024-12-04)
+## Meeting - 04 Dec 2024 - (1200 ET) [recording](https://us02web.zoom.us/rec/share/6xEkf9jvzld-63M93LRy-7cHDKsIYFH5XkSKBTGiV0Q_LKyqnExyIBli5d4sUuA.EepoLMtKkUuTQAHW) and [slides](https://github.com/decentralized-identity/did-methods/tree/main/meeting_materials/2024-12-04)
 
 1. Welcome and Introductions
 2. Logistics
