@@ -33,7 +33,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 
 ## ~~Meeting - 01 Jan 2025 - (1800 CET)~~ no meeting due to holidays
 
-## Meeting - 18 Dec 2024 - (1800 CET)
+## Meeting - 18 Dec 2024 - (1800 CET) [recording](https://us02web.zoom.us/rec/share/tRAGb7hDogbBuBjKg2VUPvOZHBnTS0sPdQumHN1_GPtKCZjqqc-PJGj2jqhhnFEq.5tZGLEEh3x33J-4c)
 
 1. Welcome and Introductions
 2. Logistics
