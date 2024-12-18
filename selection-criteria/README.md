@@ -36,7 +36,7 @@ Feel free to create issues and pull requests on this repository to discuss and p
 | Emerging Markets: Offline-friendly, low-bandwidth                                     |
 | Long-lived DIDs needed for long-lived VCs                                             |
 | Low and predictable marginal cost at scale (millions of accounts)                     |
-| Ability to create and update identifiers rapidly (within seconds                      |
+| Ability to create and update identifiers rapidly (within seconds)                     |
 | Support for key rotation                                                              |
 | Reliable and predictable-latency operation, for updating and resolving                |
 | Resolution should not require additional state or context                             |
