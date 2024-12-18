@@ -26,7 +26,7 @@ Feel free to create issues and pull requests on this repository to discuss and p
 | Specification with multiple implementers                                              |
 | Scope/domain of the types of entities/subjects addressed/named by a particular method |
 | Estimate of the daily transaction volume of each scope/domain                         |
-| DID Methods that do notfile serve the needs of a particular company or government         |
+| DID Methods that do notfile serve the needs of a particular company or government     |
 | Governance: Clear frameworks for updates, dispute resolution, and decision-making     |
 | Usability: Simple implementation for developers                                       |
 | Sustainability: Energy efficiency and eco-friendly infrastructure                     |
@@ -35,13 +35,19 @@ Feel free to create issues and pull requests on this repository to discuss and p
 | Revocation and Recovery: Decentralized mechanisms for key rotation and DID recovery   |
 | Emerging Markets: Offline-friendly, low-bandwidth                                     |
 | Long-lived DIDs needed for long-lived VCs                                             |
+| Low and predictable marginal cost at scale (millions of accounts)                     |
+| Ability to create and update identifiers rapidly (within seconds                      |
+| Support for key rotation                                                              |
+| Reliable and predictable-latency operation, for updating and resolving                |
+| Resolution should not require additional state or context                             |
+| DIDs are permanent and immutable account identifiers                                  |
 | Consider support for various DID Traits: https://identity.foundation/did-traits/      |
 | Consider categories defined by DID Rubric: https://www.w3.org/TR/did-rubric/          |
 
 | Meta-Criteria                                                                  |
 |--------------------------------------------------------------------------------|
 | Who WANTS to standardize the DID method and commits to doing the work?         |
-| Are there AT LEAST two WG members who support standardization of a DID method? |                                                                       
+| Are there AT LEAST two WG members who support standardization of a DID method? |
 | Are there no trademark or IP issues?                                           |
 | Diversity of the set of selected DID methods                                   |
 | At least one ephemeral DID method                                              |
