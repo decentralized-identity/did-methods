@@ -26,7 +26,7 @@ Feel free to create issues and pull requests on this repository to discuss and p
 | Specification with multiple implementers                                              |
 | Scope/domain of the types of entities/subjects addressed/named by a particular method |
 | Estimate of the daily transaction volume of each scope/domain                         |
-| DID Methods that do not serve the needs of a particular company or government         |
+| DID Methods that do notfile serve the needs of a particular company or government         |
 | Governance: Clear frameworks for updates, dispute resolution, and decision-making     |
 | Usability: Simple implementation for developers                                       |
 | Sustainability: Energy efficiency and eco-friendly infrastructure                     |

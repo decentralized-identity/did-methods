@@ -11,6 +11,7 @@ This is the operating repository for the DID Method Working Group.
 - All ongoing and prior work item repos on GitHub can be browsed [here](https://github.com/topics/wg-dm)
 - [Mailing List](https://lists.identity.foundation/g/did-methods-wg): Join the mailing list
 
-## Work Items
+## Activities
 
-- [DID method selection criteria](./selection-criteria/CRITERIA.md)
+- [DID method selection criteria](./selection-criteria/)
+- [DID method standardization proposals](./method-proposals/)
