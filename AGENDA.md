@@ -16,12 +16,12 @@ Please note that we might not notice a pullrequest in time, but you are free to 
   - **Unaffiliated Individuals**: Sign the [DIF Feedback Agreement](https://bit.ly/DIF-feedback-agreement) and select "DID Methods" WG
   - **Participating on behalf of an Organization**:
     - Ensure your organization has signed the IPR release. See CONTRIBUTING.md, Prerequisites #2 for details.
-- Time: Every other Wednesday, noon ET / 18:00 CET
+- Time: Every other Wednesday, 18:00 CET
 - [Subscribe to DIF's calendar](https://calendar.google.com/calendar/u/0?cid=ZGVjZW50cmFsaXplZC5pZGVudGl0eUBnbWFpbC5jb20)
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 </details>
 
-## Meeting - 18 Dec 2024 - (1200 ET)
+## Meeting - 18 Dec 2024 - (1800 CET)
 
 1. Welcome and Introductions
 2. Logistics
@@ -32,7 +32,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 4. Iterating on categories/criteria for DID method selection.
 5. Proposals for DID methods
 
-## Meeting - 04 Dec 2024 - (1200 ET) [recording](https://us02web.zoom.us/rec/share/6xEkf9jvzld-63M93LRy-7cHDKsIYFH5XkSKBTGiV0Q_LKyqnExyIBli5d4sUuA.EepoLMtKkUuTQAHW) and [slides](https://github.com/decentralized-identity/did-methods/tree/main/meeting_materials/2024-12-04)
+## Meeting - 04 Dec 2024 - (1800 CET) [recording](https://us02web.zoom.us/rec/share/6xEkf9jvzld-63M93LRy-7cHDKsIYFH5XkSKBTGiV0Q_LKyqnExyIBli5d4sUuA.EepoLMtKkUuTQAHW) and [slides](https://github.com/decentralized-identity/did-methods/tree/main/meeting_materials/2024-12-04)
 
 1. Welcome and Introductions
 2. Logistics
@@ -47,7 +47,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
     - Discussion: prefer to timebox the preparatory "criteria" work
     - Outcome: iterate list of requirements in github document 
 
-## Meeting - 13 Nov 2024 - (1200 ET) [recording](https://us02web.zoom.us/rec/share/_KUk8HiwBYwQI7hmHmQ89EEybAgqh1fO3keaseHXKzzCPBc4HAZTVsUGKnYORZF1.OjINYvhyBvzlX__i)
+## Meeting - 13 Nov 2024 - (1800 CET) [recording](https://us02web.zoom.us/rec/share/_KUk8HiwBYwQI7hmHmQ89EEybAgqh1fO3keaseHXKzzCPBc4HAZTVsUGKnYORZF1.OjINYvhyBvzlX__i)
 
 1. Welcome and Introductions
 2. Logistics
@@ -65,7 +65,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 6. Next steps: ensure you're a member
 
 
-## Meeting - 20 Sept 2024 - (1200 ET)
+## Meeting - 20 Sept 2024 - (1800 CET)
 
 Attendees:
 
