@@ -10,3 +10,7 @@ This is the operating repository for the DID Method Working Group.
 - The group's [Charter](https://github.com/decentralized-identity/org/blob/main/Org%20documents/WG%20documents/DIF_DID_Methods_WG_Charter_v1.pdf) and [Operating Addendum](https://github.com/decentralized-identity/org/blob/main/Org%20documents/WG%20documents/DIF_DID_Methods_Operating_Addendum_v1.pdf)
 - All ongoing and prior work item repos on GitHub can be browsed [here](https://github.com/topics/wg-dm)
 - [Mailing List](https://lists.identity.foundation/g/did-methods-wg): Join the mailing list
+
+## Work Items
+
+- [DID method selection criteria](./selection-criteria/CRITERIA.md)
