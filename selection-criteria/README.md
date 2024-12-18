@@ -43,13 +43,10 @@ Feel free to create issues and pull requests on this repository to discuss and p
 | DIDs are permanent and immutable account identifiers                                  |
 | Consider support for various DID Traits: https://identity.foundation/did-traits/      |
 | Consider categories defined by DID Rubric: https://www.w3.org/TR/did-rubric/          |
-
-| Meta-Criteria                                                                  |
-|--------------------------------------------------------------------------------|
-| Who WANTS to standardize the DID method and commits to doing the work?         |
-| Are there AT LEAST two WG members who support standardization of a DID method? |
-| Are there no trademark or IP issues?                                           |
-| Diversity of the set of selected DID methods                                   |
-| At least one ephemeral DID method                                              |
-| At least one web-based DID method                                              |
-| At least one fully decentralized DID method                                    |
+| Who WANTS to standardize the DID method and commits to doing the work?                |
+| Are there AT LEAST two WG members who support standardization of a DID method?        |
+| Are there no trademark or IP issues?                                                  |
+| Diversity of the set of selected DID methods                                          |
+| At least one ephemeral DID method                                                     |
+| At least one web-based DID method                                                     |
+| At least one fully decentralized DID method                                           |
