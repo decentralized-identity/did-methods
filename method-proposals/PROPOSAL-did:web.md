@@ -8,13 +8,13 @@ will be standardized by the DID Methods WG.
 The `did:web` method is a DID Method that leverages DNS and HTTP to provide a
 web-based DID Document that supports the entire lifecycle of a Decentralized
 Identifier. The DID Method consists of serving a DID Document from a website
-domain. It is relatively easy to understand, implement, and is flexible with
+domain. It is relatively easy to understand and implement, and is flexible with
 respect to key formats and service descriptions. There are a number of
-independent implementations of the DID Method with a variety of security-related
-extensions being created for it.
+independent implementations of the DID Method, and a variety of security-related
+extensions are being created for it.
 
 > NOTE: Standardizing `did:web` alone is not sufficient. It is expected that
-> many aspects of `did:webvh` and DNS-based multi-factor security would be added
+> many aspects of `did:webvh` and DNS-based multi-factor security will be added
 > to `did:web` to make it a more secure DID Method than it is today.
 
 ### Benefits
@@ -33,7 +33,7 @@ extensions being created for it.
 * No key pre-rotation
 * Centrally hosted
 * Dependent on DNS
-* Domain and website is leased
+* Domain and website are leased
 
 ## Existing materials
 
@@ -52,15 +52,15 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Security and privacy features** |
 | INEFFECTIVE CRITERIA: Every DID Method will probably state: Yes, has security and privacy features. |
 | **Scalability and performance** |
-| Good scalability performance. Limits are based on CPU and memory performance (ECDSA generation: ~1,000 keys per second per core) |
+| Good scalability. Limits are tied to CPU and memory speeds (ECDSA generation: ~1,000 keys per second per core) |
 | **Ease of implementation and use** |
-| Relatively easy to implement and use. Development effort for a single developer creating an initial implementation is between 1-3 days. A complete production-ready implementation might take 2-3 weeks. |
+| Relatively easy to implement and use. Development effort for a single developer creating an initial implementation is one to three days. A complete production-ready implementation might take two to three weeks. |
 | **Community adoption and support** |
-| Implemented by at least 6 independent software systems. |
+| Implemented by at least six independent software systems. |
 | **Compliance with relevant regulations and best practices** |
 | INEFFECTIVE CRITERIA: Every DID Method will probably state: Yes, for the regulations and best practices that apply. |
 | **Global government-approved crypto** |
-| Uses latest approved NIST and FIPS cryptography (ECDSA and EdDSA) used by many Western nation states with ability to support other Eastern nation-state backed government cryptography. |
+| Uses latest approved NIST and FIPS cryptography (ECDSA and EdDSA) used by many Western nation-states with ability to support cryptography backed by other Eastern nation-state governments. |
 | **Privacy-preserving crypto** |
 | Yes, supports BBS privacy-preserving cryptographic key formats. |
 | **Digitally signed cryptographic log of changes to the DID Document** |
@@ -70,31 +70,31 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Specification with multiple implementers** |
 | Yes, although the specification needs further work and updating. |
 | **Scope/domain of the types of entities/subjects addressed/named by a particular method** |
-| INEFFECTIVE CRITERIA: Debatably, this seems like a privacy-harming anti-pattern to claim that specific types of entities require specific types of DIDs. |
+| INEFFECTIVE CRITERIA: Debatably. Claiming that specific types of entities require specific types of DIDs seems like a privacy-harming anti-pattern. |
 | **Estimate of the daily transaction volume of each scope/domain** |
-| INEFFECTIVE CRITERIA: Debatably, this seems like a privacy harming anti-pattern to be able to count transaction volume of DID usage. Estimating seems fraught as well without hard data. Getting these sorts of counts in decentralized systems is difficult. |
+| INEFFECTIVE CRITERIA: Debatably. Being able to count transaction volume of DID usage seems like a privacy harming anti-pattern. Estimating without hard data seems fraught as well. It is difficult to get these sorts of counts from decentralized systems. |
 | **DID Methods that do not serve the needs of a particular company or government** |
-| INEFFECTIVE CRITERIA: What "do not serve" means is unclear. |
+| INEFFECTIVE CRITERIA: The meaning of "do not serve" is unclear. |
 | **Governance: Clear frameworks for updates, dispute resolution, and decision-making** |
-| Framework for updates and dispute resolution is based on domain hosting the document. Disputes on domain are processed through IANA's [dispute resolution procedures](https://www.icann.org/resources/pages/help/dndr/udrp-en). |
+| Framework for updates and dispute resolution is based on the domain hosting the document. Disputes regarding domain names are processed through IANA's [dispute resolution procedures](https://www.icann.org/resources/pages/help/dndr/udrp-en). |
 | **Usability: Simple implementation for developers** |
 | Yes, as evidenced by the number of implementations and positive developer feedback. |
 | **Sustainability: Energy efficiency and eco-friendly infrastructure** |
-| Yes, keys take milliseconds to create and a few hundred bytes to store. DID Documents are a few kilobytes in size and are easily served using standard HTTP server software. |
+| Yes, keys take milliseconds to create and a few hundred bytes to store. DID Documents are typically a few kilobytes in size and are easily served using standard HTTP server software. |
 | **Economic Feasibility: DIDs costs of use must be reasonable** |
-| Yes, costs are a fraction of the smallest denomination of mainstream currencies (less than $0.0000004 USD for an ECDSA create operation and pennies per year for storage). |
+| Yes, costs are a fraction of the smallest denomination of mainstream currencies (less than `USD 0.0000004` for an ECDSA create operation and pennies (multiples of USD 0.01) per year for storage). |
 | **Legal Recognition: Cross-border frameworks for DID acceptance** |
 | Yes, supports key types approved by multiple national governments. |
 | **Revocation and Recovery: Decentralized mechanisms for key rotation and DID recovery** |
-| Revocation is supported and recovery is a matter of the administrator of a website domain. |
+| Revocation is supported, and recovery is a matter for the administrator of a website domain. |
 | **Emerging Markets: Offline-friendly, low-bandwidth** |
 | Not offline-friendly except through caching. Low-bandwidth friendly for simple DID Documents. |
 | **Long-lived DIDs needed for long-lived VCs** |
-| Yes, lifetime of DIDs match the lifetime of domains, which are counted in decades for long-lived institutions. |
+| Yes, lifetimes of DIDs match the lifetimes of domains, which are counted in decades for long-lived institutions. |
 | **Low and predictable marginal cost at scale (millions of accounts)** |
 | Yes. |
 | **Ability to create and update identifiers rapidly (within seconds)** |
-| Yes, within hundreds of milliseconds for creation to serving the file from a website domain. |
+| Yes, within hundreds of milliseconds for creation and for serving the file from a website domain. |
 | **Support for key rotation** |
 | Yes. |
 | **Reliable and predictable-latency operation, for updating and resolving** |
