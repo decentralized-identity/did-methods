@@ -28,8 +28,11 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Iterating on categories/criteria for DID method selection.
-4. Proposals for DID methods
+3. Review of current status of WG activities:
+   - Selection criteria: https://github.com/decentralized-identity/did-methods/tree/main/selection-criteria
+   - Method proposals: https://github.com/decentralized-identity/did-methods/tree/main/method-proposals
+4. Issues: https://github.com/decentralized-identity/did-methods/issues
+5. Ranking of selection criteria
 
 ## ~~Meeting - 01 Jan 2025 - (1800 CET)~~ no meeting due to holidays
 
