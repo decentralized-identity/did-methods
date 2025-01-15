@@ -94,4 +94,4 @@ Document here how this DID method meets the [DID method selection criteria](../s
 
 ## Supporting use cases
 
-The `did:webs` method supports any use case supported by other web-based identifiers (like `did:webs`). It is highly discoverable but also highly secure.
+The `did:webs` method supports any use case supported by other web-based identifiers (like `did:web`). It is highly discoverable but also highly secure.
