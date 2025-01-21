@@ -48,13 +48,13 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Governance: Clear frameworks for updates, dispute resolution, and decision-making** |
 | Yes. The current standardization body is Trust-Over-IP (TOIP) |
 | **Usability: Simple implementation for developers** |
-| Moderately complicated. Current reference implementations might be outdated and/or incomplete. |
+| Most aspects of the reference implementation are complete with active development of missing capabilities actively underway. |
 | **Sustainability: Energy efficiency and eco-friendly infrastructure** |
-| Unkown. |
+| Highly energy efficient since creation of identifiers is inexpensive and infrastructure can be selected according to the desired scale or economic footprint of each identity holder. |
 | **Economic Feasibility: DIDs costs of use must be reasonable** |
-| Unknown. |
+| Individual `did:webs` cost is trivial as creation of each decentralized identifier is inexpensive and the cost of running bare minimum witness, mailbox, and watcher infrastructure is low. |
 | **Legal Recognition: Cross-border frameworks for DID acceptance** |
-| Presumably good. |
+| The `did:webs` method leverages KERI and the vLEI ecosystem is built on KERI. The increasing legal recognition of the vLEI ecosystem bodes well for the legal prospects of KERI concepts like `did:webs`. |
 | **Revocation and Recovery: Decentralized mechanisms for key rotation and DID recovery** |
 | Absolutely. |
 | **Emerging Markets: Offline-friendly, low-bandwidth** |
@@ -62,7 +62,7 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Long-lived DIDs needed for long-lived VCs** |
 | Yes. |
 | **Low and predictable marginal cost at scale (millions of accounts)** |
-| Unkown. |
+| As creation of each individual `did:webs` DID is trivially inexpensive, marginal cost at scale is also inexpensive. The cost is very predictable as many thousands of identifiers can leverage a common witness, mailbox, and watcher infrastructure. Infrastructure providers are emerging that are commoditizing each of these kinds of infrastructure (healthKERI, KERIon, GLEIF). |
 | **Ability to create and update identifiers rapidly (within seconds)** |
 | Yes. |
 | **Support for key rotation** |
@@ -70,9 +70,9 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Reliable and predictable-latency operation, for updating and resolving** |
 | Yes. |
 | **Resolution should not require additional state or context** |
-| Unkown. |
+| Resolution of keys requires only the Key Event Log (KEL) stream and Transaction Event Log (TEL) data used in a `did:webs` DID. When a `did:webs` DID is resolved, this is supplied as a CESR stream from the host. |
 | **DIDs are permanent and immutable account identifiers** |
-| UNCLEAR CRITERION |
+| Yes. The point of a KERI identifier at the core of a did:webs DID is a stable, long-term identifier that is immutable. The key state can change while the identifier remains the same. |
 | **Consider support for various DID Traits: https://identity.foundation/did-traits/** |
 | Updateable, Updateable Service Endpoints, Deactivatable, Deletable, Self-Certifying, Rotatable Verification Methods, Pre-rotation of Keys, Multi-Signature Verification Method, Globally Resolvable, Centrally Hosted, United States of America NIST-approved Cryptography |
 | **Consider categories defined by DID Rubric: https://www.w3.org/TR/did-rubric/** |
