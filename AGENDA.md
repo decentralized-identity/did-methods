@@ -31,10 +31,12 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 3. Review of current status of WG activities:
    - Selection criteria: https://github.com/decentralized-identity/did-methods/tree/main/selection-criteria
    - Method proposals: https://github.com/decentralized-identity/did-methods/tree/main/method-proposals
-4. Issues: https://github.com/decentralized-identity/did-methods/issues
-5. Ranking of selection criteria
+4. Ranking of selection criteria
+5. Ledger-based DID methods? E.g. did:cheqd, did:ethr, did:indy, did:btc1, etc.
+6. Fully decentralized DID methods? E.g. did:dht, did:keri, did:scid, did:ion, etc.
+7. Issues: https://github.com/decentralized-identity/did-methods/issues
 
-## Meeting - 15 Jan 2025 - (1800 CET)
+## Meeting - 15 Jan 2025 - (1800 CET) [recording](https://us02web.zoom.us/rec/share/P_IuJFNb1JhsfDPYiNO5xAN3JIuQRYf6dI1prlIPDLNd1FakO_1kUamDwo8hRb_W.yiNmrrgOdmeQKOHr)
 
 1. Welcome and Introductions
 2. Logistics
