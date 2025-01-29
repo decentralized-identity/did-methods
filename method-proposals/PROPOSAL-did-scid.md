@@ -1,6 +1,6 @@
-# DID method standardization proposal: did:example
+# DID method standardization proposal: did:scid
 
-This is a proposal to include `did:example` in the initial set of DID methods that will be standardized by the DID Methods WG.
+This is a proposal to include `did:scid` in the initial set of DID methods that will be standardized by the DID Methods WG.
 
 ## Description
 
