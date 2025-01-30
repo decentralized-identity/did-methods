@@ -1,6 +1,6 @@
-# DID method standardization proposal: did:webhv
+# DID method standardization proposal: did:webvh
 
-This is a proposal to include `did:webhv` (`did:web` + Verifiable History) in
+This is a proposal to include `did:webvh` (`did:web` + Verifiable History) in
 the initial set of DID methods that will be standardized by the DID Methods WG.
 
 ## Description
