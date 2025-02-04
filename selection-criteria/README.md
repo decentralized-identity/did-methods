@@ -50,3 +50,4 @@ Feel free to create issues and pull requests on this repository to discuss and p
 | At least one ephemeral DID method                                                     |
 | At least one web-based DID method                                                     |
 | At least one fully decentralized DID method                                           |
+| At least one peer DID method                                           |
