@@ -50,10 +50,7 @@ Documenting how this DID method meets the [DID method selection criteria](../sel
 | **Support for standardization by interested parties** | ToIP, GLEIF, and other private entities are committed to standardization. Financial subsidies are likely. |
 | **Support from at least two WG members** | Yes. |
 | **No trademark or IP issues** | None. |
-| **Diversity of selected DID methods** | N/A. |
-| **Ephemeral DID method** | Yes. |
-| **Web-based DID method** | Yes. |
-| **Fully decentralized DID method** | No. |
+| **What type of DID method is this?** | Ephemeral, Web-based |
 
 ## Supporting Use Cases
 

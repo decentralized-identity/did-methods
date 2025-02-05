@@ -85,10 +85,7 @@ How this DID method meets the [DID method selection criteria](../selection-crite
 | **Who WANTS to standardize the DID method and commits to doing the work?** | LedgerDomain and Open Credentialing Initiative. |
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | LedgerDomain and Open Credentialing Initiative. |
 | **Are there no trademark or IP issues?** | To the best of our knowledge, `did:webplus` does not infringe upon any existing intellectual property rights, patents, or trademarks.  If any unforeseen intellectual property or trademark concerns arise, LedgerDomain is committed to addressing them transparently and in good faith.  In the event that a legitimate claim is identified, LedgerDomain will assess the matter and, where appropriate, make a voluntary donation or take other reasonable actions to ensure continued open and equitable access. |
-| **Diversity of the set of selected DID methods** | Not applicable for evaluation of a single DID method. |
-| **At least one ephemeral DID method** | `did:webplus` is not an ephemeral DID method. |
-| **At least one web-based DID method** | `did:webplus` should be considered a web-based DID method. |
-| **At least one fully decentralized DID method** | `did:webplus` should be considered as decentralized as the set of VDRs and VDGs in use, which could be structured to have any degree of decentralization.  However, it's not a "purely decentralized" DID method such as one based on a peer-to-peer network. |
+| **What type of DID method is this?** | Web-based. `did:webplus` should also be considered as decentralized as the set of VDRs and VDGs in use, which could be structured to have any degree of decentralization.  However, it's not a "purely decentralized" DID method such as one based on a peer-to-peer network. |
 
 ## Supporting Use Cases
 

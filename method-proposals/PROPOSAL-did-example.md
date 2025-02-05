@@ -49,7 +49,6 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Who WANTS to standardize the DID method and commits to doing the work?** | Lorem ipsum... |
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | LLorem ipsum... |
 | **Are there no trademark or IP issues?** | Lorem ipsum... |
-| **Diversity of the set of selected DID methods** | Lorem ipsum... |
 | **What type of DID method is this?** | Ephemeral / Web-based / Decentralized / Other (please choose one/specify) |
 
 ## Supporting use cases
