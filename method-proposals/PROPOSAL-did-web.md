@@ -80,10 +80,7 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Who WANTS to standardize the DID method and commits to doing the work?** | Digital Bazaar will commit to doing the base spec work through the entire standardization process but will rely on other teams, such as `did:webvh` to add additional features. |
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | Yes, Digital Bazaar and Province of BC. |
 | **Are there no trademark or IP issues?** | None. |
-| **Diversity of the set of selected DID methods** | BAD CRITERIA: Should be removed as this is a meta-question about the set of selected methods. |
-| **At least one ephemeral DID method** | This is not an ephemeral DID Method. |
-| **At least one web-based DID method** | This could be considered one of the Web-based DID Methods. |
-| **At least one fully decentralized DID method** | While it is debatable that this is a fully decentralized DID Method, the reliance on DNS and the centralized hosting on a website probably disqualifies it from what people typically mean by "fully decentralized". |
+| **What type of DID method is this?** | Web-based.  While it is debatable that this is a fully decentralized DID Method, the reliance on DNS and the centralized hosting on a website probably disqualifies it from what people typically mean by "fully decentralized". |
 
 ## Supporting use cases
 
