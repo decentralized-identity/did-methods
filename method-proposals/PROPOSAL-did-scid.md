@@ -4,7 +4,7 @@ This is a proposal to include `did:scid` in the initial set of DID methods that 
 
 ## Description
 
-The `did:scid` method is designed to maximize the security, privacy, and portability benefits of self-certifying identifiers (SCIDs) independent of the specific type of SCID. It potentially augments a number of existing DID methods such as `did:webvh`, `did:webs`, and `did:peer` by specifying the location of the verification metatdata in the identifier.
+The `did:scid` method is designed to maximize the security, privacy, and portability benefits of self-certifying identifiers (SCIDs) independent of the specific type of SCID. It potentially augments a number of existing DID methods such as `did:webvh`, `did:webs`, and `did:peer` by specifying the location of the verification metatdata as a URI query parameter.
 
 ## Existing materials
 
