@@ -71,10 +71,7 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Who WANTS to standardize the DID method and commits to doing the work?** | Digital Bazaar will commit to doing the work through the entire standardization process. |
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | TBD. |
 | **Are there no trademark or IP issues?** | None. |
-| **Diversity of the set of selected DID methods** | BAD CRITERIA: Should be removed as this is a meta-question about the set of selected methods. |
-| **At least one ephemeral DID method** | This could be considered one of the ephemeral DID Methods. |
-| **At least one web-based DID method** | This is not a web-based DID Method. |
-| **At least one fully decentralized DID method** | While it is debatable that this is a fully decentralized DID Method, the lack of update and deactivate features probably disqualify it from what people typically mean by "fully decentralized". |
+| **What type of DID method is this?** | Ephemeral. While it is debatable that this is a fully decentralized DID Method, the lack of update and deactivate features probably disqualify it from what people typically mean by "fully decentralized". |
 
 ## Supporting use cases
 
