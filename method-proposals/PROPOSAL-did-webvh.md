@@ -96,10 +96,7 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Who WANTS to standardize the DID method and commits to doing the work?** | BC Gov is willing to continue its work on the base spec and implementations. |
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | Yes, Digital Bazaar and Province of BC. |
 | **Are there no trademark or IP issues?** | None. |
-| **Diversity of the set of selected DID methods** | Unsure how to answer |
-| **At least one ephemeral DID method** | This is not an ephemeral DID Method. |
-| **At least one web-based DID method** | This could be considered one of the Web-based DID Methods. |
-| **At least one fully decentralized DID method** | This is arguably a fully decentralized DID Method. While there is reliance on DNS to locate the DID Log, the DID, its self-certifying identifier and its history chained and fully verifiable. Optionally, the DID can be "witnessed" to add verifications of DID updates by outside parties. Even if the DIDDoc is found elsewhere (such as in a Trust Registry or DID archive) it can be verified across versions. |
+| **What type of DID method is this?** | Web-based, Decentralized. This is arguably a fully decentralized DID Method. While there is reliance on DNS to locate the DID Log, the DID, its self-certifying identifier and its history chained and fully verifiable. Optionally, the DID can be "witnessed" to add verifications of DID updates by outside parties. Even if the DIDDoc is found elsewhere (such as in a Trust Registry or DID archive) it can be verified across versions. |
 
 ## Supporting use cases
 
