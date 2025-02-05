@@ -47,10 +47,7 @@ The `did:scid` method is designed to maximize the security, privacy, and portabi
 | **Who WANTS to standardize the DID method and commits to doing the work?** | Trust-Over-IP. |
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | Yes. |
 | **Are there no trademark or IP issues?** | None. |
-| **Diversity of the set of selected DID methods** | n/a |
-| **At least one ephemeral DID method** | Yes. |
-| **At least one web-based DID method** | Yes. |
-| **At least one fully decentralized DID method** | Yes. |
+| **What type of DID method is this?** | Other. Based on the underlying method used to refer to verification material. |
 
 ## Supporting use cases
 
