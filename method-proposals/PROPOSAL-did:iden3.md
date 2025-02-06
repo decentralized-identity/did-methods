@@ -30,6 +30,7 @@ The `did:iden3` method specification [is available here](https://github.com/iden
 A few major components and libraries related to the did method are listed here:
 - Credential issuance methods supported: [BJJSignature2021](https://iden3-communication.io/w3c/proofs/bjj/) and [Iden3SparseMerkleTreeProof](https://iden3-communication.io/w3c/proofs/smt/).
 - [iden3comm](https://iden3-communication.io/) didcomm based communication protocol
+- [Universal Resolver Driver](https://github.com/decentralized-identity/universal-resolver?tab=readme-ov-file#drivers)
 - [Developer documentation for the Iden3 Protocol](https://docs.iden3.io/)
 
 In addition [Privado ID](https://docs.privado.id/) has implemented a few components utilizing the iden3 protocol which might be helpful for implementers such as the issuer node, verifier libraries, wallet SDKs, and developer tools (schema explorer, schema builder, and query builder).
