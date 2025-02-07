@@ -8,12 +8,12 @@ the initial set of DID methods that will be standardized by the DID Methods WG.
 The `did:peer` DID Method was developed to enable DIDs that are only shared with
 the other parties in a relationship. Core features include:
 
-- **Ledgerless**: Does not use any ledger or hosted asset of any form.
+- **Ledgerless**: Does not use any ledger or hosted asset of any form
 - **Multiple Keys**: Allows multiple keys in the DID Document
-- **Supports Service Endpoints**: Allows service endpoints to be resolved from the identifier.
-- **All DID Document Features Supported**: All DID Document features are supported. 
+- **Supports Service Endpoints**: Allows service endpoints to be resolved from the identifier
+- **All DID Document Features Supported**: All DID Document features are supported
 - **Simple Transformation**: Simple transformation into a DID Document
-- **Efficient Mode after Transfer**: After the initial DID is exchanged, a short DID may be used in place of the full DID.
+- **Efficient Mode after Transfer**: After the initial DID is exchanged, a short DID may be used in place of the full DID
 
 The `did:peer` method has developed over time, and contains multiple algorithms. Only the current non-deprecated form (numalgo 4) is part of this standardization proposal.
 
@@ -22,7 +22,7 @@ The `did:peer` method has developed over time, and contains multiple algorithms.
 * Extremely Lightweight
 * Free from external costs
 * Extremely Private
-* Enables communication via service endpoints.
+* Enables communication via service endpoints
 
 
 ### Drawbacks
@@ -43,14 +43,13 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Criteria** |
 | -------- |
 | **Alignment with DID Core specification** |
-| Yes, fully compliant with DID specification. |
+| Yes, fully compliant with DID specification, with the one exception being the ability to update. |
 | **Security and privacy features** |
 | Yes, the DID Method has security and privacy features. |
 | **Scalability and performance** |
 | Infinite scalability as a result of not being publicly recorded. Efficency of large DID is offset via the use of a short form, linked via `alsoKnownAs`. This short form may be used after initial exchange without loss of functionality. |
 | **Ease of implementation and use** |
-| Easy, as the only mechanisms are encoding related. As it is fully compliant with the DID Core specification, this DID should be compatible 
-with all spec complient implementations. |
+| Easy, as the only mechanisms are encoding related, and the encoding was deliberately designed to be as simple as possible. |
 | **Community adoption and support** |
 | Used heavily within the DIDComm community. |
 | **Compliance with relevant regulations and best practices** |
