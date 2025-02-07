@@ -109,7 +109,6 @@ Due to its privacy-first design the `did:iden3` method lends itself well to a va
 - Kaleido - [link with evidence](https://github.com/kaleido-io/kaleido-iden3-samples)
 - Targecy.xyz - [link with evidence](https://github.com/targecy/core/blob/ac327e79981eafffb580e39bb70d3dc3755b569e/packages/sdk/src/utils/tracking.ts#L106)
 - Tookey - [link with evidence](https://github.com/tookey-io/automation/blob/31fa5395a38020ec9ab782d836f14d62280ffcce/packages/pieces/polygon-id/src/lib/actions/waitForClaim.ts#L39)
-- WakeUpLabs - [link with evidence](https://github.com/wakeuplabs-io/opid-contracts/blob/6ac9c60f7d11c55b4f803bf2b9819652a4b0e020/scripts/setPaymentValue.ts#L81)
 - Privado ID - [link with evidence](https://github.com/0xPolygonID/docs/blob/810c9c5f818dbc44f9f9cf7818b9d8c5905f5df8/docs/privado-identity-chain.md?plain=1#L28)
 
 ### Web2 market:
