@@ -16,7 +16,7 @@ This is a proposal to include `did:cheqd` in the initial set of DID methods that
 - Hosted in a decentralized way, eliminating reliance on DNS, web servers, or other centralized storage
 - Blockchain-based validation of cryptographic keys referenced or embedded within the `authentication` section of DID Documents, ensuring that only the controller of those keys has the ability to update or deactivate the DID Document
 - Deactivation of DIDs supported
-- Full support for verification method relationships, whereby different key types can be specified for defined purposes within the DID Document, including `assertionMethod`, `keyAgreement` `capabilityInvocation` and `capabilityDelegation`, including both **referenced** and **embedded** keys as defined in [DID Core](https://www.w3.org/TR/did-1.0/)
+- Full support for verification method relationships, whereby different key types can be specified for defined purposes within the DID Document, including `assertionMethod`, `keyAgreement`, `capabilityInvocation`, and `capabilityDelegation`, including both **referenced** and **embedded** keys as defined in [DID Core](https://www.w3.org/TR/did-1.0/)
 - `alsoKnownAs` allows synonymous DIDs to be published in alternative locations, such as on a web server using `did:web` or `did:webvh`
 - [DID-Linked Resources](https://w3c-ccg.github.io/DID-Linked-Resources/) supported, with optional inclusion in the DID Document Metadata, to create searchable directories of DIDs and associated collections of resources
 - Support for multiple namespaces, including `did:cheqd:testnet` for testing, as well as for `did:cheqd:mainnet` mainnet for full, consensus-backed security
