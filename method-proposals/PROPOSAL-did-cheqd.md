@@ -30,7 +30,7 @@ This is a proposal to include `did:cheqd` in the initial set of DID methods that
 
 ### Drawbacks
 
-- Token used for underlying transactions ($CHEQ), which may limit adoption owing to lack of regulatory clarity in certain jurisdictions. Although this drawback is mitigated through the support for MiCA regulated stablecoins natively on the network.
+- Token used for underlying transactions ($CHEQ), which may limit adoption owing to lack of regulatory clarity in certain jurisdictions. This drawback is mitigated through the native support of MiCA regulated stablecoins on the network.
 - Volatile transaction pricing for DIDs, based on fluctuations in value of $CHEQ.
 - Immutability of DIDs, which may be problematic if sensistive data such as Personally Identifiable Information (PII) is pointed to within the `serviceEndpoint` or as a DID-Linked Resource.
 
