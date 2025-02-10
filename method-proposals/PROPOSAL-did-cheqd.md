@@ -46,7 +46,6 @@ This is a proposal to include `did:cheqd` in the initial set of DID methods that
   - [cheqd Studio](https://cheqd.io/solutions/cheqd-studio/)
   - [Universal Registrar Driver](https://github.com/decentralized-identity/universal-registrar)
   - [Universal Resolver Driver](https://github.com/decentralized-identity/universal-resolver)
-  - [Vidos Universal Resolver](https://vidos.id/docs/services/resolver)
 - Block Explorer (including ability to filter by DID transaction types)
   - [Mainnet transactions](https://explorer.cheqd.io/transactions)
   - [Testnet transactions](https://testnet-explorer.cheqd.io/transactions)
