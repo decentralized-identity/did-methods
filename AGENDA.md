@@ -21,6 +21,38 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 </details>
 
+## Meeting - 12 Mar 2025 - (1800 CET)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 26 Feb 2025 - (1800 CET)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 12 Feb 2025 - (1800 CET)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Results of the selection criteria survey
+4. Next steps in the WG process
+5. Review of current status of WG activities:
+   - Selection criteria: https://github.com/decentralized-identity/did-methods/tree/main/selection-criteria
+   - Method proposals: https://github.com/decentralized-identity/did-methods/tree/main/method-proposals
+6. Issues: https://github.com/decentralized-identity/did-methods/issues
+
 ## Meeting - 29 Jan 2025 - (1800 CET) [recording](https://us02web.zoom.us/rec/share/F2FVPCeQRZoSKElF79qesS2dDhM9qBhleDPMCns-h2vKjQ4PmaZVrRSd6YVB_ar9.OvGXmEKGVH-RPo6C)
 
 1. Welcome and Introductions
