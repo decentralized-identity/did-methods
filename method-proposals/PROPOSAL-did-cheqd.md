@@ -11,9 +11,9 @@ This is a proposal to include `did:cheqd` in the initial set of DID methods that
 ### Benefits
 
 - Immutable, cryptographically verifiable history of DID Documents and DID Document updates
-- Key rotation supported with fully indexed, chronologically ordered and searchable history of DID Documents and associated updates
+- Key rotation supported with fully indexed, chronologically ordered, and searchable history of DID Documents and associated updates
 - Multi-sig supported, with multiple DID Controllers able to be added, or multiple keys listed for `authentication`
-- Hosted in a decentralized way, eliminating reliance on DNS, web servers or other centralized storage
+- Hosted in a decentralized way, eliminating reliance on DNS, web servers, or other centralized storage
 - Blockchain-based validation of cryptographic keys referenced or embedded within the `authentication` section of DID Documents, ensuring that only the controller of those keys has the ability to update or deactivate the DID Document
 - Deactivation of DIDs supported
 - Full support for verification method relationships, whereby different key types can be specified for defined purposes within the DID Document, including `assertionMethod`, `keyAgreement` `capabilityInvocation` and `capabilityDelegation`, including both **referenced** and **embedded** keys as defined in [DID Core](https://www.w3.org/TR/did-1.0/)
