@@ -46,7 +46,8 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Results of the selection criteria survey
+2. DID methods comparison in GS1 report: https://ref.gs1.org/docs/2025/VCs-and-DIDs-tech-landscape#didMethodComparison     
+3. Results of the selection criteria survey: https://www.surveymonkey.com/results/SM-lCidOYEfoLATI8ok3Ewdpw_3D_3D/
 4. Next steps in the WG process
 5. Review of current status of WG activities:
    - Selection criteria: https://github.com/decentralized-identity/did-methods/tree/main/selection-criteria
