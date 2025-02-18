@@ -14,6 +14,10 @@ Document here any existing draft specifications, implementations, deployments, t
 
 Document here how this DID method meets the [DID method selection criteria](../selection-criteria/).
 
+## Is this DID method already involved in a standardization process? If so, where?
+
+Some DID Methods have or have had standardization working groups looking at them before. Please provide the relevant background for this method.
+
 | **Criteria** | **Details** |
 |----------|----------|
 | **Alignment with DID Core specification** | Lorem ipsum... |
@@ -44,8 +48,8 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Reliable and predictable-latency operation, for updating and resolving** | Lorem ipsum... |
 | **Resolution should not require additional state or context** | Lorem ipsum... |
 | **DIDs are permanent and immutable account identifiers** | Yes. |
-| **Consider support for various DID Traits: https://identity.foundation/did-traits/** | Lorem ipsum...  |
-| **Consider categories defined by DID Rubric: https://www.w3.org/TR/did-rubric/** | Lorem ipsum... |
+| **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | Lorem ipsum...  |
+| **Consider categories defined by DID Rubric: <https://www.w3.org/TR/did-rubric/>** | Lorem ipsum... |
 | **Who WANTS to standardize the DID method and commits to doing the work?** | Lorem ipsum... |
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | LLorem ipsum... |
 | **Are there no trademark or IP issues?** | Lorem ipsum... |

@@ -53,6 +53,10 @@ This is a proposal to include `did:cheqd` in the initial set of DID methods that
 - [Documentation and tutorials for use of SDKs or APIs](https://docs.cheqd.io/product)
 - No test suite exists as of Jan 2025
 
+## Is this DID method already involved in a standardization process? If so, where?
+
+PLEASE FILL IN.
+
 ## Meeting the selection criteria
 
 | **Criteria** | **Details** |
@@ -85,8 +89,8 @@ This is a proposal to include `did:cheqd` in the initial set of DID methods that
 | **Reliable and predictable-latency operation, for updating and resolving** | Yes. |
 | **Resolution should not require additional state or context** | Yes. |
 | **DIDs are permanent and immutable account identifiers** | Yes.   |
-| **Consider support for various DID Traits: https://identity.foundation/did-traits/** | Yes, full suite of [DID traits are identified and referenced here](https://github.com/decentralized-identity/did-traits/blob/main/methods/cheqd.json). |
-| **Consider categories defined by DID Rubric: https://www.w3.org/TR/did-rubric/** | Yes. |
+| **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | Yes, full suite of [DID traits are identified and referenced here](https://github.com/decentralized-identity/did-traits/blob/main/methods/cheqd.json). |
+| **Consider categories defined by DID Rubric: <https://www.w3.org/TR/did-rubric/>** | Yes. |
 | **Who WANTS to standardize the DID method and commits to doing the work?** | Cheqd Foundation Limited is able to fund the standardization of the method via its community pool, and the work will likely be carried out by the maintainers of the method |
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | Yes, cheqd and Danube Tech |
 | **Are there no trademark or IP issues?** | To the best of our knowledge, `did:cheqd` does not infringe upon any existing intellectual property rights, patents, or trademarks. If any unforeseen intellectual property or trademark concerns arise, Cheqd Foundation is committed to addressing them transparently and in good faith. In the event that a legitimate claim is identified, Cheqd Foundation will assess the matter and, where appropriate, make a voluntary donation or take other reasonable actions to ensure continued open and equitable access. |

@@ -34,28 +34,32 @@ method that complement `did:web` include:
 
 ### Benefits
 
-* Straight forward to understand -- with clear cryptographic processes for verifiability.
-* The cryptographically-verifiable history eliminates the reliance on the DNS system for other than DID Log discovery.
-* Formalized specification version handling and (optional) identifier portability enables long (decades) lasting, secure identifiers.
-* Can be used in conjunction with existing `did:web` implementations to provide a smooth security upgrade.
-* Optional features (pre-rotation, witnesses) allow the DID Controller to increase security at the cost of more complex key management on their part -- without increasing the complexity of resolvers.
-* Simple to implement, with few dependencies required for managing (registering, resolving) the DID.
-* Supports all cryptographic key types in the DIDDoc, as permitted by the DID Core specification, and as required by the DID Controller.
-* Familiar web server publishing of data, understood by website operations teams.
-* All operations scale linearly with CPU/memory resources.
-* Multiple (5+) implementations.
+- Straight forward to understand -- with clear cryptographic processes for verifiability.
+- The cryptographically-verifiable history eliminates the reliance on the DNS system for other than DID Log discovery.
+- Formalized specification version handling and (optional) identifier portability enables long (decades) lasting, secure identifiers.
+- Can be used in conjunction with existing `did:web` implementations to provide a smooth security upgrade.
+- Optional features (pre-rotation, witnesses) allow the DID Controller to increase security at the cost of more complex key management on their part -- without increasing the complexity of resolvers.
+- Simple to implement, with few dependencies required for managing (registering, resolving) the DID.
+- Supports all cryptographic key types in the DIDDoc, as permitted by the DID Core specification, and as required by the DID Controller.
+- Familiar web server publishing of data, understood by website operations teams.
+- All operations scale linearly with CPU/memory resources.
+- Multiple (5+) implementations.
 
 ### Drawbacks
 
-* Centrally hosted -- although the verifiability of the DID and DIDDoc content is independent of the DNS location of the DID Log file.
-* Dependent on DNS for DID discovery, but not for the security and verifiability of the DID and its history.
-* Domain and website are leased, although there is an (optional) portability capability that allows the history of the DID to move if Domain and website are lost.
+- Centrally hosted -- although the verifiability of the DID and DIDDoc content is independent of the DNS location of the DID Log file.
+- Dependent on DNS for DID discovery, but not for the security and verifiability of the DID and its history.
+- Domain and website are leased, although there is an (optional) portability capability that allows the history of the DID to move if Domain and website are lost.
 
 ## Existing materials
 
-* [DID Method Specification](https://identity.foundation/didwebvh/)
-* [Implementations](https://github.com/search?q=did%3Awebvh+did%3Atdw+implementation&type=code)
-* No test suite exists as of Jan 2025
+- [DID Method Specification](https://identity.foundation/didwebvh/)
+- [Implementations](https://github.com/search?q=did%3Awebvh+did%3Atdw+implementation&type=code)
+- No test suite exists as of Jan 2025
+
+## Is this DID method already involved in a standardization process? If so, where?
+
+PLEASE FILL IN.
 
 ## Meeting the selection criteria
 
@@ -91,8 +95,8 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Reliable and predictable-latency operation, for updating and resolving** | Yes. |
 | **Resolution should not require additional state or context** | Yes. |
 | **DIDs are permanent and immutable account identifiers** | Yes. Optionally, a DID **MAY** enable portability, where the location of the DID can change (ideally with an HTTPS redirection), while retaining the same immutable self-certifying ID (SCID) and the same verifiable history -- including the verifiable change of the DID's web location.  |
-| **Consider support for various DID Traits: https://identity.foundation/did-traits/** | TBD. |
-| **Consider categories defined by DID Rubric: https://www.w3.org/TR/did-rubric/** | TBD. |
+| **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | TBD. |
+| **Consider categories defined by DID Rubric: <https://www.w3.org/TR/did-rubric/>** | TBD. |
 | **Who WANTS to standardize the DID method and commits to doing the work?** | BC Gov is willing to continue its work on the base spec and implementations. |
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | Yes, Digital Bazaar and Province of BC. |
 | **Are there no trademark or IP issues?** | None. |
@@ -104,6 +108,6 @@ All [DID Use Cases](https://www.w3.org/TR/did-use-cases/) that do not require
 extended offline usage are supported by this DID Method. This DID Method is
 specifically beneficial for the following classes of use cases:
 
-* DIDs for governments or other large organizations
-* Enterprises, such as verifiable credential issuers, verifiers and participants in verifiable supply chains.
-* To Be Explored: Platforms might provide `did:webvh` DIDs as a service for individuals, where the individuals hold the private keys, and the service publishes the public information for the individuals, enabling the individual to control their participation in verifiable transactions.
+- DIDs for governments or other large organizations
+- Enterprises, such as verifiable credential issuers, verifiers and participants in verifiable supply chains.
+- To Be Explored: Platforms might provide `did:webvh` DIDs as a service for individuals, where the individuals hold the private keys, and the service publishes the public information for the individuals, enabling the individual to control their participation in verifiable transactions.

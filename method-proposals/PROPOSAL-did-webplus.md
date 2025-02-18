@@ -8,43 +8,48 @@ The `did:webplus` DID method is a natural extension of `did:web`, and its core r
 
 Documentation and reference implementation is found [here](https://github.com/LedgerDomain/did-webplus).  [Presentation](https://www.youtube.com/watch?v=Ws55MlDuUGI) and corresponding [slide deck](https://docs.google.com/presentation/d/1oZc4WABaG3zhw7gHclSIaQCgnchdWRJvqUDQLq4L-Ig/edit?usp=sharing).
 
-### Some Terminology:
+### Some Terminology
 
--   VDR: Verifiable Data Registry (this term is defined generally in the context of decentralized identity) -- a website/web service that hosts DID documents and is the origin (and therefore authority) on their content.  For example, given a DID `did:webplus:example.com:{self-hash}`, the DID document may be retrieved via HTTP GET of URL `https://example.com/{self-hash}/did.json`
--   VDG: Verifiable Data Gateway (this is a `did:webplus`-specific term) -- a witnessing and archival service which provides the benefits listed below.
--   CDN: Content Delivery Network (this is a standard web technology) -- a large network of proxy servers that service requests on behalf of the primary service, meant to short-cut many requests using cached data.  These servers are placed "near" the service's clients in order to drastically reduce network request latency.  They also provide a layer of defense against security threats such as DDoS attacks.
+- VDR: Verifiable Data Registry (this term is defined generally in the context of decentralized identity) -- a website/web service that hosts DID documents and is the origin (and therefore authority) on their content.  For example, given a DID `did:webplus:example.com:{self-hash}`, the DID document may be retrieved via HTTP GET of URL `https://example.com/{self-hash}/did.json`
+- VDG: Verifiable Data Gateway (this is a `did:webplus`-specific term) -- a witnessing and archival service which provides the benefits listed below.
+- CDN: Content Delivery Network (this is a standard web technology) -- a large network of proxy servers that service requests on behalf of the primary service, meant to short-cut many requests using cached data.  These servers are placed "near" the service's clients in order to drastically reduce network request latency.  They also provide a layer of defense against security threats such as DDoS attacks.
 
 ### Benefits
 
--   Uses standard web technologies.
--   Is a "strong" DID method, by which is meant:
-    -   Has cryptographically verifiable DID create/update operations
-    -   Provides historical DID resolution (resolve previous versions of DID document)
-    -   Prevents DID forking and alteration of DID history.
--   DID document is self-contained and fully self-verifiable; no auxiliary log files.
--   DID create and update are each `O(1)` operations.
--   VDG service allows:
-    -   Provide long-term DID resolution capabilities, even if VDRs go offline.
-    -   Expansion of the "scope of truth" in which verifiers can agree on which DID updates are valid.
-    -   Enable "thin" DID resolvers that outsource their DID verification responsibilities to a trusted VDG; DID resolution becomes simply HTTP GET with no verification, which is as simple as `did:web` DID resolution is.  This makes `did:webplus` friendly to browser-based verifiers.
--   "Thin" DID resolve is `O(1)` operation.
--   "Full" DID resolver keeps its own copy of all previously fetched-and-verified DID documents, and therefore can in many cases operate fully offline (and is therefore fast).
--   Its architecture is somewhat configurable, so is tunable to the specific use case.
+- Uses standard web technologies.
+- Is a "strong" DID method, by which is meant:
+  - Has cryptographically verifiable DID create/update operations
+  - Provides historical DID resolution (resolve previous versions of DID document)
+  - Prevents DID forking and alteration of DID history.
+- DID document is self-contained and fully self-verifiable; no auxiliary log files.
+- DID create and update are each `O(1)` operations.
+- VDG service allows:
+  - Provide long-term DID resolution capabilities, even if VDRs go offline.
+  - Expansion of the "scope of truth" in which verifiers can agree on which DID updates are valid.
+  - Enable "thin" DID resolvers that outsource their DID verification responsibilities to a trusted VDG; DID resolution becomes simply HTTP GET with no verification, which is as simple as `did:web` DID resolution is.  This makes `did:webplus` friendly to browser-based verifiers.
+- "Thin" DID resolve is `O(1)` operation.
+- "Full" DID resolver keeps its own copy of all previously fetched-and-verified DID documents, and therefore can in many cases operate fully offline (and is therefore fast).
+- Its architecture is somewhat configurable, so is tunable to the specific use case.
 
 ### Drawbacks
 
--   Resolving a given DID for the first time requires fetching and verifying its entire history, which could be arbitrarily long.  This is mitigated by the use of VDGs to which DID updates can be pre-emptively pushed.
--   VDGs are a point of centralization.  Ideally this should be offset by having VDGs be run by organizations whose interests/business model doesn't conflict with that of DID controllers and DID resolvers.
--   As in `did:web`, DID resolution depends on DNS, which is somewhat centralized.  However, verification is independent of DNS.
--   As in `did:web`, domains are leased, and a lapsed domain can be co-opted by an attacker.  However, the DIDs anchored to that domain can't be co-opted unless the attacker somehow compromises the DID controllers' private keys.
--   There is no formal, written specification yet.  However, there is a working reference implementation for each component.
+- Resolving a given DID for the first time requires fetching and verifying its entire history, which could be arbitrarily long.  This is mitigated by the use of VDGs to which DID updates can be pre-emptively pushed.
+- VDGs are a point of centralization.  Ideally this should be offset by having VDGs be run by organizations whose interests/business model doesn't conflict with that of DID controllers and DID resolvers.
+- As in `did:web`, DID resolution depends on DNS, which is somewhat centralized.  However, verification is independent of DNS.
+- As in `did:web`, domains are leased, and a lapsed domain can be co-opted by an attacker.  However, the DIDs anchored to that domain can't be co-opted unless the attacker somehow compromises the DID controllers' private keys.
+- There is no formal, written specification yet.  However, there is a working reference implementation for each component.
 
 ## Existing Materials
 
 Reference implementations of each component of `did:webplus` are available [on Github](https://github.com/LedgerDomain/did-webplus).  In particular:
--   [`did:webplus` Verifiable Data Registry (VDR) service](https://github.com/LedgerDomain/did-webplus/blob/main/did-webplus/vdr/README.md)
--   [`did:webplus` Verifiable Data Gateway (VDG) service](https://github.com/LedgerDomain/did-webplus/blob/main/did-webplus/vdg/README.md)
--   [`did-webplus` CLI tool](https://github.com/LedgerDomain/did-webplus/blob/main/did-webplus/cli/README.md)
+
+- [`did:webplus` Verifiable Data Registry (VDR) service](https://github.com/LedgerDomain/did-webplus/blob/main/did-webplus/vdr/README.md)
+- [`did:webplus` Verifiable Data Gateway (VDG) service](https://github.com/LedgerDomain/did-webplus/blob/main/did-webplus/vdg/README.md)
+- [`did-webplus` CLI tool](https://github.com/LedgerDomain/did-webplus/blob/main/did-webplus/cli/README.md)
+
+## Is this DID method already involved in a standardization process? If so, where?
+
+PLEASE FILL IN.
 
 ## Meeting the selection criteria
 
@@ -80,8 +85,8 @@ How this DID method meets the [DID method selection criteria](../selection-crite
 | **Reliable and predictable-latency operation, for updating and resolving** | Yes.  In particular, the "thin" DID resolution operation (which is expected to be by far the most common operation) was designed to have as low latency as possible (especially if a CDN is used with the VDG). |
 | **Resolution should not require additional state or context** | Correct. |
 | **DIDs are permanent and immutable account identifiers** | Yes. |
-| **Consider support for various DID Traits: https://identity.foundation/did-traits/** | Reference implementation currently supports Updateable, Self-Certifying, Rotatable Verification Methods, Globally Resolvable, DID Document History, Cryptographically Signed DID Document History, (Optionally) Centrally Hosted, (Optionally) Decentrally Hosted, ECDSA curve secp256k1, EdDSA curve ed25519.  |
-| **Consider categories defined by DID Rubric: https://www.w3.org/TR/did-rubric/** | This criterion is far too broadly-scoped to address in a line item.  Apropos governance, see description at the top of this document. |
+| **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | Reference implementation currently supports Updateable, Self-Certifying, Rotatable Verification Methods, Globally Resolvable, DID Document History, Cryptographically Signed DID Document History, (Optionally) Centrally Hosted, (Optionally) Decentrally Hosted, ECDSA curve secp256k1, EdDSA curve ed25519.  |
+| **Consider categories defined by DID Rubric: <https://www.w3.org/TR/did-rubric/>** | This criterion is far too broadly-scoped to address in a line item.  Apropos governance, see description at the top of this document. |
 | **Who WANTS to standardize the DID method and commits to doing the work?** | LedgerDomain and Open Credentialing Initiative. |
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | LedgerDomain and Open Credentialing Initiative. |
 | **Are there no trademark or IP issues?** | To the best of our knowledge, `did:webplus` does not infringe upon any existing intellectual property rights, patents, or trademarks.  If any unforeseen intellectual property or trademark concerns arise, LedgerDomain is committed to addressing them transparently and in good faith.  In the event that a legitimate claim is identified, LedgerDomain will assess the matter and, where appropriate, make a voluntary donation or take other reasonable actions to ensure continued open and equitable access. |
@@ -90,20 +95,21 @@ How this DID method meets the [DID method selection criteria](../selection-crite
 ## Supporting Use Cases
 
 `did:webplus` is meant to provide everything `did:web` does, and give additional guarantees.  Key use cases include, and are not limited to:
--   Omnidirectional, long-term identity for
-    -   Individuals
-    -   Devices
-    -   Servers
-    -   Companies
-    -   Entities within regulatory ecosystems
-    -   etc.
--   Use cases having long-term verification/audit requirements, such as
-    -   Pharmaceutical (and other) supply chain subject to government regulation
-    -   Academic institutions (digital credentials representing academic degrees)
-    -   Journalistic entities/institutions (verifiable authorship)
-    -   Governmental institutions
-    -   Institutions regarding public record
--   Keeping one's own copy of all retrieved DID documents (via "full" DID resolver), so that:
-    -   DID resolution can happen offline in many cases (and is therefore very fast).
-    -   One has direct custody of materials needed to conduct audit and historical verification.
-    -   There is no need to depend on an external service to resolve previously-resolved DIDs.
+
+- Omnidirectional, long-term identity for
+  - Individuals
+  - Devices
+  - Servers
+  - Companies
+  - Entities within regulatory ecosystems
+  - etc.
+- Use cases having long-term verification/audit requirements, such as
+  - Pharmaceutical (and other) supply chain subject to government regulation
+  - Academic institutions (digital credentials representing academic degrees)
+  - Journalistic entities/institutions (verifiable authorship)
+  - Governmental institutions
+  - Institutions regarding public record
+- Keeping one's own copy of all retrieved DID documents (via "full" DID resolver), so that:
+  - DID resolution can happen offline in many cases (and is therefore very fast).
+  - One has direct custody of materials needed to conduct audit and historical verification.
+  - There is no need to depend on an external service to resolve previously-resolved DIDs.
