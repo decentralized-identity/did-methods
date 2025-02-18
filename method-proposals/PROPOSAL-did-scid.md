@@ -10,6 +10,10 @@ The `did:scid` method is designed to maximize the security, privacy, and portabi
 
 [DID Method Specification](https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/88572360/DID+SCID+Method+Specification)
 
+## Is this DID method already involved in a standardization process? If so, where?
+
+PLEASE FILL IN.
+
 ## Meeting the selection criteria
 
 | **Criteria** | **Details** |
@@ -42,8 +46,8 @@ The `did:scid` method is designed to maximize the security, privacy, and portabi
 | **Reliable and predictable-latency operation, for updating and resolving** | Yes. |
 | **Resolution should not require additional state or context** | Yes. |
 | **DIDs are permanent and immutable account identifiers** | Unsure |
-| **Consider support for various DID Traits: https://identity.foundation/did-traits/** | Updateable, Updateable Service Endpoints, Deactivatable, Deletable, Self-Certifying, Rotatable Verification Methods, Pre-rotation of Keys, Multi-Signature Verification Method, Globally Resolvable, Centrally Hosted, United States of America NIST-approved Cryptography |
-| **Consider categories defined by DID Rubric: https://www.w3.org/TR/did-rubric/** | Not evaluated. |
+| **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | Updateable, Updateable Service Endpoints, Deactivatable, Deletable, Self-Certifying, Rotatable Verification Methods, Pre-rotation of Keys, Multi-Signature Verification Method, Globally Resolvable, Centrally Hosted, United States of America NIST-approved Cryptography |
+| **Consider categories defined by DID Rubric: <https://www.w3.org/TR/did-rubric/>** | Not evaluated. |
 | **Who WANTS to standardize the DID method and commits to doing the work?** | Trust-Over-IP. |
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | Yes. |
 | **Are there no trademark or IP issues?** | None. |

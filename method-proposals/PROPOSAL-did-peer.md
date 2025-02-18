@@ -34,6 +34,10 @@ The `did:peer` method has developed over time, and contains multiple algorithms.
 - [Implementations](https://github.com/decentralized-identity/did-peer-4)
 - Above implementation contains a test suite.
 
+## Is this DID method already involved in a standardization process? If so, where?
+
+PLEASE FILL IN.
+
 ## Meeting the selection criteria
 
 Document here how this DID method meets the [DID method selection criteria](../selection-criteria/).
@@ -68,8 +72,8 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Reliable and predictable-latency operation, for updating and resolving** | Yes. |
 | **Resolution should not require additional state or context** | Yes, except if the Short Form is used with parties already aware of the DID. |
 | **DIDs are permanent and immutable account identifiers** | Yes. |
-| **Consider support for various DID Traits: https://identity.foundation/did-traits/** | TBD. |
-| **Consider categories defined by DID Rubric: https://www.w3.org/TR/did-rubric/** | TBD. |
+| **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | TBD. |
+| **Consider categories defined by DID Rubric: <https://www.w3.org/TR/did-rubric/>** | TBD. |
 | **Who WANTS to standardize the DID method and commits to doing the work?** | Indicio and BCGov are willing to continue its work on the base spec and implementations. |
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | Yes, Indicio and Province of BC. |
 | **Are there no trademark or IP issues?** | None. |
@@ -79,5 +83,5 @@ Document here how this DID method meets the [DID method selection criteria](../s
 
 This method supports all [DID Use Cases](https://www.w3.org/TR/did-use-cases/) involving individuals.
 In these cases, the user's ability to use a unique idenfier until further disclosure is critical to their
-privacy in the interaction. The ability to create a new DID at will gives users the power to use as many 
+privacy in the interaction. The ability to create a new DID at will gives users the power to use as many
 as they want or need for their purposes.

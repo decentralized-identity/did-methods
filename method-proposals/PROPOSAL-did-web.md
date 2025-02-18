@@ -41,6 +41,10 @@ extensions are being created for it.
 * [Implementations](https://github.com/search?q=did%3Aweb%20implementation&type=repositories)
 * No test suite exists as of Jan 2025
 
+## Is this DID method already involved in a standardization process? If so, where?
+
+PLEASE FILL IN.
+
 ## Meeting the selection criteria
 
 Document here how this DID method meets the [DID method selection criteria](../selection-criteria/).
@@ -75,8 +79,8 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Reliable and predictable-latency operation, for updating and resolving** | Yes. |
 | **Resolution should not require additional state or context** | Yes. |
 | **DIDs are permanent and immutable account identifiers** | Yes. |
-| **Consider support for various DID Traits: https://identity.foundation/did-traits/** | BAD CRITERIA: Traits should be listed directly. |
-| **Consider categories defined by DID Rubric: https://www.w3.org/TR/did-rubric/** | BAD CRITERIA: Rubric categories should be listed directly. |
+| **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | BAD CRITERIA: Traits should be listed directly. |
+| **Consider categories defined by DID Rubric: <https://www.w3.org/TR/did-rubric/>** | BAD CRITERIA: Rubric categories should be listed directly. |
 | **Who WANTS to standardize the DID method and commits to doing the work?** | Digital Bazaar will commit to doing the base spec work through the entire standardization process but will rely on other teams, such as `did:webvh` to add additional features. |
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | Yes, Digital Bazaar and Province of BC. |
 | **Are there no trademark or IP issues?** | None. |
