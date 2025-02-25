@@ -37,7 +37,9 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. W3C DID Methods WG Charter proposal
+4. Chairs' proposal for next steps
+5. Meeting schedule
 
 ## Meeting - 12 Feb 2025 - (1800 CET)
 
