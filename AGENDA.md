@@ -55,6 +55,12 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - Selection criteria: https://github.com/decentralized-identity/did-methods/tree/main/selection-criteria
    - Method proposals: https://github.com/decentralized-identity/did-methods/tree/main/method-proposals
 6. Issues: https://github.com/decentralized-identity/did-methods/issues
+7. Suggestions for future topics:
+   - mtg 1: discuss key peer and web
+   - mtg 2: discuss scid, cel, other traits (maybe quick refresher on sidetree even tho it's not a candidate? maybe the webplus VDR/VDG terminology?)
+   - mtg 3: compare webvh, webplus, webs vis-a-vis last meeting's traits convo
+   - mtg 4: iden3, cheqd, hopefully ethr too
+   - mtg 5: start shortlisting and thinking about W3C deliverables...
 
 ## Meeting - 29 Jan 2025 - (1800 CET) [recording](https://us02web.zoom.us/rec/share/F2FVPCeQRZoSKElF79qesS2dDhM9qBhleDPMCns-h2vKjQ4PmaZVrRSd6YVB_ar9.OvGXmEKGVH-RPo6C)
 
