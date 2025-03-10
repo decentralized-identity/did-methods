@@ -28,8 +28,10 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Discussion/vote on W3C DID Methods WG Charter proposal: https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html
-4. Discussion about potential new DIF work items (e.g. for ledger-based DID methods)
+3. Discussion/vote on W3C DID Methods WG Charter proposal:
+   - https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html
+   - https://lists.identity.foundation/g/did-methods-wg/topic/did_methods_working_group/111557319
+4. Discussion about blockchain/ledger based DID methods
 5. Weekly meeting schedule?
 
 ## Meeting - 26 Feb 2025 - (1800 CET)
