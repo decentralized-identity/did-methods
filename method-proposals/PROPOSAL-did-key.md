@@ -28,13 +28,13 @@ support key revocation or key rotation. As of January 2025, it is implemented by
 
 ## Existing materials
 
-* [DID Method Specification](https://w3c-ccg.github.io/did-method-key/)
+* [DID Method Specification](https://w3c-ccg.github.io/did-key-spec/)
 * [Implementations](https://canivc.com/implementations/) (all test suite implementations use `did:key` for public keys)
 * [Preliminary Test Suite](https://w3c-ccg.github.io/did-key-test-suite/)
 
 ## Is this DID method already involved in a standardization process? If so, where?
 
-PLEASE FILL IN.
+No.
 
 ## Meeting the selection criteria
 
