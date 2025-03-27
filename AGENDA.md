@@ -31,7 +31,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. TBD
-4. Weekly meeting schedule?
+4. APAC-friendly meetings?
 
 ## Meeting - 26 Mar 2025 - (1800 CET)
 
