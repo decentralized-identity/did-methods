@@ -30,8 +30,9 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
-4. APAC-friendly meetings?
+3. Initial proposals and brainstorming for "DIF-approved methods"
+4. Schedule for next DID methods review meetings (after did:key last week)
+5. APAC-friendly meetings?
 
 ## Meeting - 26 Mar 2025 - (1800 CET)
 
