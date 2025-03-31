@@ -16,7 +16,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
   - **Unaffiliated Individuals**: Sign the [DIF Feedback Agreement](https://bit.ly/DIF-feedback-agreement) and select "DID Methods" WG
   - **Participating on behalf of an Organization**:
     - Ensure your organization has signed the IPR release. See CONTRIBUTING.md, Prerequisites #2 for details.
-- Time: Every other Wednesday, 18:00 CET
+- Time: Every Wednesday, 18:00 CET
 - [Subscribe to DIF's calendar](https://calendar.google.com/calendar/u/0?cid=ZGVjZW50cmFsaXplZC5pZGVudGl0eUBnbWFpbC5jb20)
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 </details>
