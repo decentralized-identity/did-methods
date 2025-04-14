@@ -33,7 +33,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 4. Next DID methods deep dives, every two weeks (after did:key)
 5. APAC-friendly meetings?
 
-## ~~Meeting - 09 Apr 2025 - (1800 CET)~~ canceled due to IIW conference
+## ~~Meeting - 09 Apr 2025 - (1800 CEST)~~ canceled due to IIW conference
 
 ## Meeting - 02 Apr 2025 - (1800 CEST)
 
