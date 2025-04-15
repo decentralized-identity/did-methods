@@ -35,7 +35,7 @@ The following table tracks DID methods that are currently participating in this 
 
 (7) See https://identity.foundation/did-traits/.
 
-(8) Include link to meeting recording/notes, e.g. at https://github.com/decentralized-identity/did-methods/blob/main/AGENDA.md. Deep
+(8) Include link to meeting recording/notes, e.g., at https://github.com/decentralized-identity/did-methods/blob/main/AGENDA.md. Deep
 dives can be scheduled multiple times per DID method depending on maturity and open issues, and can be held in any
 working group or meeting at DIF or associated groups (W3C CCG, ToIP, etc.).
 
