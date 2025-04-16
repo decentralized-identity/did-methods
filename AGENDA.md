@@ -21,6 +21,16 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 </details>
 
+## Meeting - 23 Apr 2025 - (1800 CEST)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+2. Continue to review "DIF-endorsed DID method" process: https://github.com/decentralized-identity/did-methods/pull/53
+3. DID method deep dive: `did:peer`
+
 ## Meeting - 16 Apr 2025 - (1800 CEST)
 
 1. Welcome and Introductions
@@ -31,7 +41,6 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 2. Support for blockchain/ledger based DID methods, potential pathway to ISO standardization
 3. Proposal for "DIF-endorsed DID methods" process: https://github.com/decentralized-identity/did-methods/pull/53
 4. Next DID methods deep dives, every two weeks (after did:key)
-5. APAC-friendly meetings?
 
 ## ~~Meeting - 09 Apr 2025 - (1800 CEST)~~ canceled due to IIW conference
 
