@@ -28,7 +28,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-2. Continue to review "DIF-endorsed DID method" process: https://github.com/decentralized-identity/did-methods/pull/53
+2. Review "DIF-endorsed DID method" process: https://github.com/decentralized-identity/did-methods/pull/53
 3. DID method deep dive: `did:peer`
 
 ## Meeting - 16 Apr 2025 - (1800 CEST)
