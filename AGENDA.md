@@ -30,9 +30,9 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 2. Continue discussion of "DIF-endorsed DID method" process: https://github.com/decentralized-identity/did-methods/pull/53
 3. DID method deep dive: `did:peer`
-   - (Method Spec)[https://identity.foundation/peer-did-method-spec/]
-   - (Slides)[https://docs.google.com/presentation/d/1f6q3ZAzTqlZyIRS6gpVfrDHIwiTdFCsCKQoQ5FnkDsw/edit?usp=sharing]
-   - (Browser Tool)[https://dbluhm.github.io/did-peer-4-ts/]
+   - [Method Spec](https://identity.foundation/peer-did-method-spec/)
+   - [Slides](https://docs.google.com/presentation/d/1f6q3ZAzTqlZyIRS6gpVfrDHIwiTdFCsCKQoQ5FnkDsw/edit?usp=sharing)
+   - [Browser Tool](https://dbluhm.github.io/did-peer-4-ts/)
 
 ## Meeting - 16 Apr 2025 - (1800 CEST)
 
