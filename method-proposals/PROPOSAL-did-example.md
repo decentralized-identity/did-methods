@@ -14,10 +14,6 @@ Document here any existing draft specifications, implementations, deployments, t
 
 Document here how this DID method meets the [DID method selection criteria](../selection-criteria/).
 
-## Is this DID method already involved in a standardization process? If so, where?
-
-Some DID Methods have or have had standardization working groups looking at them before. Please provide the relevant background for this method.
-
 | **Criteria** | **Details** |
 |----------|----------|
 | **Alignment with DID Core specification** | Lorem ipsum... |
@@ -54,6 +50,10 @@ Some DID Methods have or have had standardization working groups looking at them
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | LLorem ipsum... |
 | **Are there no trademark or IP issues?** | Lorem ipsum... |
 | **What type of DID method is this?** | Ephemeral / Web-based / Decentralized / Other (please choose one/specify) |
+
+## Is this DID method already involved in a standardization process? If so, where?
+
+Some DID Methods have or have had standardization working groups looking at them before. Please provide the relevant background for this method.
 
 ## Supporting use cases
 
