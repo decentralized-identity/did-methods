@@ -32,7 +32,8 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 2. Update on proposed W3C DID Methods Working Group
 3. Finalize "DIF-recommended DID method" process: https://github.com/decentralized-identity/did-methods/pull/53
-4. No meeting next week due to EIC conference
+4. Scheduling next DID method deep dives
+5. No meeting next week due to EIC conference
 
 ## Meeting - 23 Apr 2025 - (1800 CEST)
 
