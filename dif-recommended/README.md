@@ -1,7 +1,7 @@
 # DIF-recommended DID Methods
 
 This page describes a process for DID methods to achieve a status of "DIF-recommended DID Method", which is
-intended to be a label for DID methods that are considered ready for widespread adoption and production use.
+intended to be a label for DID methods that comply with DIF's published evaluation criteria and have passed the review process.
 
 Note: All DID methods must pass all requirements in the process in order to be considered "DIF-recommended",
 irrespective of where they are being developed and standardized.
