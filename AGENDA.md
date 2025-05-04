@@ -37,7 +37,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-2. Continue work on "DIF-endorsed DID method" process: https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended
+2. Continue work on "DIF-recommended DID method" process: https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended
 
 ## Meeting - 14 May 2025 - (1800 CEST)
 
@@ -46,7 +46,6 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-2. Continue work on "DIF-endorsed DID method" process: https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended
 3. DID method deep dive: `did:webs`
 
 ## ~~Meeting - 07 May 2025 - (1800 CEST)~~ canceled due to EIC conference
