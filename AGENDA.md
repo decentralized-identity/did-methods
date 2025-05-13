@@ -46,7 +46,8 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. DID method deep dive: `did:webs`
+3. Update on proposed W3C DID Methods Working Group: https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html
+4. DID method deep dive: `did:webs`
 
 ## ~~Meeting - 07 May 2025 - (1800 CEST)~~ canceled due to EIC conference
 
