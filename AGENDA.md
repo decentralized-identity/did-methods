@@ -38,8 +38,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. Update on proposed W3C DID Methods Working Group: https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html
-5. Follow-up discussion on last week's `did:webs` deep dive
-6. Discuss deep dives as part of the "DIF-recommended DID method" process
+5. Follow-up discussion on last week's `did:webs` deep dive (focus on deep dives as part of the "DIF-recommended DID method" process)
 
 ## Meeting - 14 May 2025 - (1800 CEST)
 
