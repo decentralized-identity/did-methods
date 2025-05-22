@@ -2,7 +2,7 @@
 
 This is a proposal to include `did:mdip` to the set of DID methods recognized and recommended by the WIF DID Methods WG.
 
-## Rationale & Description
+## Description
 
 The Internet needs an identity layer. MDIP was envisioned as a tokenless, network agnostic, and fully decentralized identity protocol for the Internet. MDIP offers a user-centric model of identity where user agents can collect and assert claims, in a fully peer-to-peer fashion, with other user agents. 
 
