@@ -1,14 +1,44 @@
-# DID method standardization proposal: did:example
+# DID method standardization proposal: did:mdip
 
-This is a proposal to include `did:example` in the initial set of DID methods that will be standardized by the DID Methods WG.
+This is a proposal to include `did:mdip` to the set of DID methods recognized and recommended by the WIF DID Methods WG.
 
 ## Description
 
-Include a description of this DID method and rationale for standardizing it.
+The MDIP (MultiDimensional Identity Protocol) DID method specification conforms to the requirements specified in the [DID specification](https://www.w3.org/TR/did-core/) currently published by the W3C Credentials Community Group. The MDIP DID method (`did:mdip`) is designed to support a P2P identity layer with secure decentralized [verifiable credentials](https://www.w3.org/TR/vc-data-model-2.0/). MDIP DIDs are used for agents (e.g., users, issuers, verifiers, and MDIP nodes) and assets (e.g., verifiable credentials, verifiable presentations, schemas, challenges, and responses).
+
+### DID Lifecycle
+
+![did-lifecycle.png](https://github.com/KeychainMDIP/kc/blob/main/doc/mdip/did-lifecycle.png)
+
+All MDIP DIDs begin life anchored to a CAS (Content-Addressable Storage) such as IPFS. Once created they can be used immediately by any application or service connected to an MDIP node. Subsequent updates to the DID (meaning that a document associated with the DID changes) are registered on a registry such as a blockchain (BTC, ETH, etc) or a decentralized database (e.g. hyperswarm). The registry is specified at DID creation so that nodes can determine which single source of truth to check for updates.
+
+The *key concept of this design* is that MDIP DID creation is decentralized through through the CAS, and DID updates are decentralized through the registry specified in the DID creation. The MDIP DID is decentralized for its whole lifecycle, which is a hard requirement of DIDs.
+
+## Overview
+
+**Gatekeeper**: A Keychain MDIP node includes several interoperating microservices. If you follow the dependency arrows on the diagram below, you will end up at the central core service, the [Gatekeeper service](https://github.com/KeychainMDIP/kc/blob/main/services/gatekeeper/server/README.md) responsible for maintaining the integrity of the local DID database. 
+
+**Mediators**: The mediators are responsible for connecting the Gatekeeper to various networks such as [Hyperswarm](https://github.com/KeychainMDIP/kc/blob/main/services/mediators/hyperswarm/README.md). The TBTC (testnet Bitcoin) and TFTC (testnet Feathercoin) mediators are both instances of the [Satoshi mediator](https://github.com/KeychainMDIP/kc/blob/main/services/mediators/satoshi/README.md) since they are derived from Bitcoin core (they differ only in how they are configured). 
+
+**Keymaster**: [Keymaster](https://github.com/KeychainMDIP/kc/blob/main/packages/keymaster/README.md) is the MDIP client responsible for holding the private keys and signing DID operations (create, update, delete) sent to Gatekeeper. 
+
+**Wallets**: The [browser web wallet](https://github.com/KeychainMDIP/kc/blob/main/services/gatekeeper/client/README.md), [browser extension](https://github.com/KeychainMDIP/kc/blob/main/browser/chrome-extension/README.md), and [Keymaster service](https://github.com/KeychainMDIP/kc/blob/main/services/keymaster/server/README.md) all use the [Keymaster library](https://github.com/KeychainMDIP/kc/blob/main/packages/keymaster/README.md). The [server web wallet](https://github.com/KeychainMDIP/kc/blob/main/services/keymaster/client/README.md) is the same as the browser web wallet, except it is configured to talk to the Keymaster service instead of hosting its own wallet. It uses the same [KeymasterClient](https://github.com/KeychainMDIP/kc/blob/main/packages/keymaster/src/keymaster-sdk.ts) as the kc CLI. 
+
+**DID Explorer**: The [explorer](https://github.com/KeychainMDIP/kc/blob/main/services/explorer/README.md) and [search-server](https://github.com/KeychainMDIP/kc/blob/main/services/search-server/README.md) provide DID resolution, search and general interaction with DIDs and DID Documents.
+
+**CLI**: There are two CLI (command line interface) components: [kc](https://github.com/KeychainMDIP/kc/blob/main/scripts/keychain-cli.js) for talking to the Keymaster service, and [admin](https://github.com/KeychainMDIP/kc/blob/main/scripts/admin-cli.js) for talking to the Gatekeeper service. The admin script uses the same [GatekeeperClient](https://github.com/KeychainMDIP/kc/blob/main/packages/gatekeeper/README.md) as the Keymaster service and the mediators.
+
+**Authentication Demo**: A reference MDIP-enabled client application that demonstrates the challenge/response based authentication process. The demo also establishes privileged groups of users categorized as members, moderators, admins, or owner. [MDIP auth-demo repository](https://github.com/KeychainMDIP/auth-demo)
+
+![keychain-node.png](https://github.com/KeychainMDIP/kc/blob/main/keychain-node.png)
 
 ## Existing materials
 
-Document here any existing draft specifications, implementations, deployments, test suites, etc. related to this DID method.
+* [Keychain Reference Implementation](https://github.com/KeychainMDIP/kc)
+* [MDIP DID Scheme](https://github.com/KeychainMDIP/kc/blob/main/doc/mdip/scheme.md)
+* [MDIP Gatekeeper OpenAPI Specs](https://github.com/KeychainMDIP/kc/blob/main/doc/gatekeeper-api.json)
+* [MDIP Keymaster OpenAPI Specs](https://github.com/KeychainMDIP/kc/blob/main/doc/keymaster-api.json)
+* [MDIP Authentication Process and Demo](https://github.com/KeychainMDIP/auth-demo)
 
 ## Meeting the selection criteria
 
