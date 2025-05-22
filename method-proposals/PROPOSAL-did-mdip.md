@@ -20,7 +20,7 @@ The diagram below illustrates the components that form a full Keychain MDIP Node
 ![keychain-node.png](https://github.com/KeychainMDIP/kc/blob/main/keychain-node.png)
 
 ### Gatekeeper: 
-A Keychain MDIP node includes several interoperating microservices. If you follow the dependency arrows on the diagram below, you will end up at the central core service, the [Gatekeeper service](https://github.com/KeychainMDIP/kc/blob/main/services/gatekeeper/server/README.md) responsible for maintaining the integrity of the local DID database. 
+A Keychain MDIP node includes several interoperating microservices. If you follow the dependency arrows on the diagram above, you will end up at the central core service, the [Gatekeeper service](https://github.com/KeychainMDIP/kc/blob/main/services/gatekeeper/server/README.md) responsible for maintaining the integrity of the local DID database. 
 
 ### Mediators: 
 The mediators are responsible for connecting the Gatekeeper to various networks such as [Hyperswarm](https://github.com/KeychainMDIP/kc/blob/main/services/mediators/hyperswarm/README.md). The TBTC (testnet Bitcoin) and TFTC (testnet Feathercoin) mediators are both instances of the [Satoshi mediator](https://github.com/KeychainMDIP/kc/blob/main/services/mediators/satoshi/README.md) since they are derived from Bitcoin core (they differ only in how they are configured). 
@@ -86,20 +86,20 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Long-lived DIDs needed for long-lived VCs** | Yes. MDIP can evidence DIDs and VCs on a plurality of registries. |
 | **Low and predictable marginal cost at scale (millions of accounts)** | TBD |
 | **Ability to create and update identifiers rapidly (within seconds)** | Yes. MDIP operations are distributed to a public Hyperswarm channel within seconds, fast enough for user authentication scenarios. |
-| **Support for key rotation** | Lorem ipsum... |
-| **Reliable and predictable-latency operation, for updating and resolving** | Lorem ipsum... |
-| **Resolution should not require additional state or context** | Lorem ipsum... |
+| **Support for key rotation** | Yes. MDIP provides key rotation functionality for each individual DID.  |
+| **Reliable and predictable-latency operation, for updating and resolving** | The MDIP Gatekeeper operates its own indexed DB; supported DBs include: mysql, redis, and json file.  |
+| **Resolution should not require additional state or context** | Each MDIP Gatekeeper operates independently and manages its current view of the network in a local database. |
 | **DIDs are permanent and immutable account identifiers** | Yes. |
-| **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | Lorem ipsum...  |
-| **Consider categories defined by DID Rubric: <https://www.w3.org/TR/did-rubric/>** | Lorem ipsum... |
-| **Who WANTS to standardize the DID method and commits to doing the work?** | Lorem ipsum... |
-| **Are there AT LEAST two WG members who support standardization of a DID method?** | LLorem ipsum... |
-| **Are there no trademark or IP issues?** | Lorem ipsum... |
-| **What type of DID method is this?** | Ephemeral / Web-based / Decentralized / Other (please choose one/specify) |
+| **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | There are many desireable DID Traits that are not currently supported by MDIP. Likewize, MDIP implements new capabilities (like the Agent DID Manifest) that could be considered for standardization   |
+| **Consider categories defined by DID Rubric: <https://www.w3.org/TR/did-rubric/>** | TBD |
+| **Who WANTS to standardize the DID method and commits to doing the work?** | Keychain MDIP development is managed and financed by [Selfid.com](https://selfid.com), a brainchild and business lead and operated by [Craig Sellars](https://www.linkedin.com/in/craigcsellars/) |
+| **Are there AT LEAST two WG members who support standardization of a DID method?** | We are looking to build interoperability and data formats standardization between MDIP and other available DID Methods |
+| **Are there no trademark or IP issues?** | MDIP and the systems referenced in this document are published under an MIT License by SelfID.  |
+| **What type of DID method is this?** | Decentralized |
 
 ## Is this DID method already involved in a standardization process? If so, where?
 
-Some DID Methods have or have had standardization working groups looking at them before. Please provide the relevant background for this method.
+The DIF is our first attempt at interoperating and standardizing MDIP with other DID methods. 
 
 ## Supporting use cases
 
@@ -249,4 +249,9 @@ Commands:
   verify-db                                                    Verify all the DIDs in the db
   verify-did <did>                                             Return verified document associated with DID
 ```
-Document here how this DID method supports concrete use cases.
+
+### Use Case Proposal: Simple P2P Password Database
+
+This use case has not been implemented. We hope to propose this project to the DIF Labs in a separate document.
+
+Summary: We propose using MDIP's Group Vault functionality to create a collection of encrypted documents that can be shared with authorized Member users. Using the member-management functionality already provided by the MDIP auth-demo, a system owner/operator could delegate database Items and Members administration privileges to selected users. 
