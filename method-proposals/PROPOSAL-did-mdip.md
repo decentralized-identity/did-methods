@@ -2,11 +2,9 @@
 
 This is a proposal to include `did:mdip` to the set of DID methods recognized and recommended by the WIF DID Methods WG.
 
-## Rationale
+## Rationale & Description
 
 The Internet needs an identity layer. MDIP was envisioned as a tokenless, network agnostic, and fully decentralized identity protocol for the Internet. MDIP offers a user-centric model of identity where user agents can collect and assert claims, in a fully peer-to-peer fashion, with other user agents. 
-
-## Description
 
 The MDIP (MultiDimensional Identity Protocol) DID method specification conforms to the requirements specified in the [DID specification](https://www.w3.org/TR/did-core/) currently published by the W3C Credentials Community Group. The MDIP DID method (`did:mdip`) is designed to support a P2P identity layer with secure decentralized [verifiable credentials](https://www.w3.org/TR/vc-data-model-2.0/). MDIP DIDs are used for agents (e.g., users, issuers, verifiers, and MDIP nodes) and assets (e.g., verifiable credentials, verifiable presentations, schemas, challenges, and responses).
 
@@ -91,10 +89,10 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Low and predictable marginal cost at scale (millions of accounts)** | TBD |
 | **Ability to create and update identifiers rapidly (within seconds)** | Yes. MDIP operations are distributed to a public Hyperswarm channel within seconds, fast enough for user authentication scenarios. |
 | **Support for key rotation** | Yes. MDIP provides key rotation functionality for each individual DID.  |
-| **Reliable and predictable-latency operation, for updating and resolving** | The MDIP Gatekeeper operates its own indexed DB; supported DBs include: mysql, redis, and json file.  |
+| **Reliable and predictable-latency operation, for updating and resolving** | The MDIP Gatekeeper operates its own indexed DB; supported DBs include: sqlite, redis, mongodb and json file.  |
 | **Resolution should not require additional state or context** | Each MDIP Gatekeeper operates independently and manages its current view of the network in a local database. |
 | **DIDs are permanent and immutable account identifiers** | Yes. |
-| **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | There are many desireable DID Traits that are not currently supported by MDIP. Likewize, MDIP implements new capabilities (like the Agent DID Manifest) that could be considered for standardization   |
+| **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | TBD |
 | **Consider categories defined by DID Rubric: <https://www.w3.org/TR/did-rubric/>** | TBD |
 | **Who WANTS to standardize the DID method and commits to doing the work?** | Keychain MDIP development is managed and financed by [Selfid.com](https://selfid.com), a brainchild and business lead and operated by [Craig Sellars](https://www.linkedin.com/in/craigcsellars/) |
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | We are looking to build interoperability and data formats standardization between MDIP and other available DID Methods |
