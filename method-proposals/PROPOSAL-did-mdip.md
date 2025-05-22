@@ -250,6 +250,12 @@ Commands:
   verify-did <did>                                             Return verified document associated with DID
 ```
 
+### Experimental Use Case: MDIP Authentication to online music album
+
+This simple experimental use case is a customization of the generic auth-demo repository. 
+
+[https://music.mdip.yourself.dev](https://music.mdip.yourself.dev)
+
 ### Use Case Proposal: Simple P2P Password Database
 
 This use case has not been implemented. We hope to propose this project to the DIF Labs in a separate document.
