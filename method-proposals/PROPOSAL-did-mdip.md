@@ -2,6 +2,10 @@
 
 This is a proposal to include `did:mdip` to the set of DID methods recognized and recommended by the WIF DID Methods WG.
 
+## Rationale
+
+The Internet needs an identity layer. MDIP was envisioned as a tokenless, network agnostic, and fully decentralized identity protocol for the Internet. MDIP offers a user-centric model of identity where user agents can collect and assert claims, in a fully peer-to-peer fashion, with other user agents. 
+
 ## Description
 
 The MDIP (MultiDimensional Identity Protocol) DID method specification conforms to the requirements specified in the [DID specification](https://www.w3.org/TR/did-core/) currently published by the W3C Credentials Community Group. The MDIP DID method (`did:mdip`) is designed to support a P2P identity layer with secure decentralized [verifiable credentials](https://www.w3.org/TR/vc-data-model-2.0/). MDIP DIDs are used for agents (e.g., users, issuers, verifiers, and MDIP nodes) and assets (e.g., verifiable credentials, verifiable presentations, schemas, challenges, and responses).
@@ -68,18 +72,18 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Ease of implementation and use** | Yes. See our [quick start](https://github.com/KeychainMDIP/kc/blob/main/README.md) instructions for easy Docker deployment. |
 | **Community adoption and support** | Early Stages. This is one of our objectives in engaging with the DIF. |
 | **Compliance with relevant regulations and best practices** | Yes. Another good reason for MDIP to register with the DIF. |
-| **Global government-approved crypto** | No. MDIP is 100% P2P and agnostic to "crypto" networks. |
+| **Global government-approved crypto** | Yes. MDIP uses [commonly reputed best practice crypto libraries](https://github.com/KeychainMDIP/kc/tree/main/packages/cipher). |
 | **Privacy-preserving crypto** | Yes. Users generate their key-pairs on local devices. |
 | **Digitally signed cryptographic log of changes to the DID Document** | Yes. Each Gatekeeper re-validates each DIDs by [applying DID Document changes one-by-one](https://github.com/KeychainMDIP/kc/blob/main/doc/mdip/did-lifecycle.png) in their proper order of registration. |
-| **Multi-factor binding to DNS** | No. This could be a desirable feature to add to the protocol. |
+| **Multi-factor binding to DNS** | No. |
 | **Specification with multiple implementers** | No. We are looking forward to multiple implementations and SDKs in other languages. |
-| **Scope/domain of the types of entities/subjects addressed/named by a particular method** | In its default configuration, MDIP publishes all DIDs to a public Hyperswarm channel. |
+| **Scope/domain of the types of entities/subjects addressed/named by a particular method** | MDIP can be used in both public and private applications. |
 | **Estimate of the daily transaction volume of each scope/domain** | The MDIP network currently resolves ~15K DIDs. The network is mainly used by SelfID.com developers. |
 | **DID Methods that do not serve the needs of a particular company or government** | Development of MDIP is financed by SelfID.com |
 | **Governance: Clear frameworks for updates, dispute resolution, and decision-making** | An OSS-friendly governance model is being prepared but has not been launched yet. |
 | **Usability: Simple implementation for developers** | A full MDIP node can be installed and launched within minutes using the [quick-start](https://github.com/KeychainMDIP/kc/blob/main/README.md) Docker deployment. |
-| **Sustainability: Energy efficiency and eco-friendly infrastructure** | A full MDIP node can be operated on a simple RaspberryPi with 8Gb of RAM. |
-| **Economic Feasibility: DIDs costs of use must be reasonable** | MDIP batches DID registration; node operators can configure batch frequency, etc.  |
+| **Sustainability: Energy efficiency and eco-friendly infrastructure** | A full MDIP node can be operated on a simple RaspberryPi with 4Gb of RAM. |
+| **Economic Feasibility: DIDs costs of use must be reasonable** | DID operations are free. Optional with-fee blockchain registration can be batched to manage costs. |
 | **Legal Recognition: Cross-border frameworks for DID acceptance** | N/A |
 | **Revocation and Recovery: Decentralized mechanisms for key rotation and DID recovery** | The MDIP Keymaster wallet uses Bip-39 HD Keys. Each Agent DID in the wallet receives its own keypair that can be rotated. |
 | **Emerging Markets: Offline-friendly, low-bandwidth** | Yes. MDIP can operate on low-power devices. Gatekeeper DID resolution functionality remains available to local users when disconnected from the global networks. |
