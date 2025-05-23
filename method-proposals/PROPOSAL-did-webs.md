@@ -11,6 +11,10 @@ Like its cousin, `did:web`, the `did:webs` method uses traditional web infrastru
 * [DID Method Specification](https://trustoverip.github.io/tswg-did-method-webs-specification/)
 * A somewhat outdated but still helpful reference [implementation](https://github.com/hyperledger-labs/did-webs-resolver)
 
+## Is this DID method already involved in a standardization process? If so, where?
+
+PLEASE FILL IN.
+
 ## Meeting the Selection Criteria
 
 Documenting how this DID method meets the [DID method selection criteria](../selection-criteria/).
@@ -50,10 +54,7 @@ Documenting how this DID method meets the [DID method selection criteria](../sel
 | **Support for standardization by interested parties** | ToIP, GLEIF, and other private entities are committed to standardization. Financial subsidies are likely. |
 | **Support from at least two WG members** | Yes. |
 | **No trademark or IP issues** | None. |
-| **Diversity of selected DID methods** | N/A. |
-| **Ephemeral DID method** | Yes. |
-| **Web-based DID method** | Yes. |
-| **Fully decentralized DID method** | No. |
+| **What type of DID method is this?** | Ephemeral, Web-based |
 
 ## Supporting Use Cases
 
