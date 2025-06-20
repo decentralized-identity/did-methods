@@ -6,6 +6,8 @@ This is a proposal to include `did:webplus` in the initial set of DID methods th
 
 The `did:webplus` DID method is a natural extension of `did:web`, and its core required extensions were set by Open Credentialing Initiative ([OCI](https://oc-i.org)), a non-profit collaboration of 62 members who are primarily multi-billion dollar healthcare enterprises, in response to US healthcare regulation requirements surrounding privacy, security, and auditability. OCI has set the specifications for a W3C VC ecosystem that today encompasses one in every three packages that move through the supply chain, along with over 10,000 pharmacies. OCI is open to all, with voting membership and a governing board. All decisions are transparent and then upstreamed to the Partnership for [DSCSA](https://www.fda.gov/drugs/drug-supply-chain-integrity/drug-supply-chain-security-act-dscsa) Governance ([PDG](https://dscsagovernance.org/)), a public-private partnership between FDA and industry, for review and publication. Production instances are subject to independent third-party audits recognized by the PDG conformance program, such as by Drummond Group, an internationally recognized software auditing firm.
 
+Specification is found [here](https://ledgerdomain.github.io/did-webplus-spec/).
+
 Documentation and reference implementation is found [here](https://github.com/LedgerDomain/did-webplus).  [Presentation](https://www.youtube.com/watch?v=Ws55MlDuUGI) and corresponding [slide deck](https://docs.google.com/presentation/d/1oZc4WABaG3zhw7gHclSIaQCgnchdWRJvqUDQLq4L-Ig/edit?usp=sharing).
 
 ### Some Terminology
@@ -37,7 +39,6 @@ Documentation and reference implementation is found [here](https://github.com/Le
 - VDGs are a point of centralization.  Ideally this should be offset by having VDGs be run by organizations whose interests/business model doesn't conflict with that of DID controllers and DID resolvers.
 - As in `did:web`, DID resolution depends on DNS, which is somewhat centralized.  However, verification is independent of DNS.
 - As in `did:web`, domains are leased, and a lapsed domain can be co-opted by an attacker.  However, the DIDs anchored to that domain can't be co-opted unless the attacker somehow compromises the DID controllers' private keys.
-- There is no formal, written specification yet.  However, there is a working reference implementation for each component.
 
 ## Existing Materials
 
@@ -67,7 +68,7 @@ How this DID method meets the [DID method selection criteria](../selection-crite
 | **Privacy-preserving crypto** | Reference implementation doesn't yet support key types such as BBS, but could be easily extended to do so. |
 | **Digitally signed cryptographic log of changes to the DID Document** | Each DID document includes data necessary to cryptographically verify DID operation validity; sequence of DID documents forms a complete and verifiable history of the DID.  This is isomorphic to having a separate log of updates as in `did:webs` and `did:webvh`. |
 | **Multi-factor binding to DNS** | Not implemented yet. |
-| **Specification with multiple implementers** | No formal specification exists yet.  The only implementation is the reference implementation. |
+| **Specification with multiple implementers** | [Specification](https://ledgerdomain.github.io/did-webplus-spec/).  [Reference Implementation](https://github.com/LedgerDomain/did-webplus) (the only so far). |
 | **Scope/domain of the types of entities/subjects addressed/named by a particular method** | Intended for omni-directional identity.  DIDs are published on VDRs, which can range from personal website to centralized hosting service.  VDG is meant to broaden the "scope of truth" for strong agreement on valid DID updates. |
 | **Estimate of the daily transaction volume of each scope/domain** | Transaction volume depends on the specific ecosystem.  However, regarding max transaction throughput, because VDR and VDG are web services, their throughput capacities have similar characteristics as web services generically (can enhance with vertical/horizontal scaling and CDNs). |
 | **DID Methods that do not serve the needs of a particular company or government** | This criteria really only applies at a "survey of DID methods" level, and is not semantically valid for a single DID method. But to comment on this, `did:webplus` provides omni-directional identity, and so would be unsuitable for use cases requiring uni-directional identity. |
