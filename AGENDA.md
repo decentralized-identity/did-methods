@@ -29,7 +29,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. Pre-announcing Special Topic Call about W3C DID Methods WG Charter: https://github.com/w3c/did-methods-wg-charter/pull/6
-4. Contine to review end-to-end process for "DIF-Recommended Status": https://github.com/decentralized-identity/did-methods/pull/62
+4. Continue to review end-to-end process for "DIF-Recommended Status": https://github.com/decentralized-identity/did-methods/pull/62
 5. Discuss how/when to "start" the process
 6. Issue processing: https://github.com/decentralized-identity/did-methods/issues
 
