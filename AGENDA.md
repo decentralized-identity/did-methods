@@ -21,6 +21,20 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 </details>
 
+## Meeting - 25 Jun 2025 - (1800 CEST)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Pre-announcing Special Topic Call about W3C DID Methods WG Charter (preliminary time/date 9 July 2025, 10:00–11:00 ET):
+   - https://github.com/w3c/did-methods-wg-charter/pull/6
+5. Continue to review end-to-end process for "DIF-Recommended Status":
+   - https://github.com/decentralized-identity/did-methods/pull/62
+7. Discuss how/when to "start" the process
+8. Issue processing: https://github.com/decentralized-identity/did-methods/issues
+
 ## Meeting - 18 Jun 2025 - (1800 CEST)
 
 1. Welcome and Introductions
