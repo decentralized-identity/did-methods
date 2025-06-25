@@ -28,7 +28,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Pre-announcing Special Topic Call about W3C DID Methods WG Charter (preliminary time/date 9 July 2025, 10:00–11:00):
+3. Pre-announcing Special Topic Call about W3C DID Methods WG Charter (preliminary time/date 9 July 2025, 10:00–11:00 ET):
    - https://github.com/w3c/did-methods-wg-charter/pull/6
 5. Continue to review end-to-end process for "DIF-Recommended Status":
    - https://github.com/decentralized-identity/did-methods/pull/62
