@@ -38,7 +38,7 @@ The following table tracks DID methods that are currently participating in this 
 1. **Proposal**: Method Proposal Template (include link to proposal file at https://github.com/decentralized-identity/did-methods/tree/main/method-proposals)
 1. **W3C Tests**: Passed W3C Test suite (include link to W3C test suite data at https://github.com/w3c/did-test-suite/tree/main/packages/did-core-test-server/suites/implementations)
 1. **Universal Resolver**: Supported in DIF Universal Resolver (see https://github.com/decentralized-identity/universal-resolver)
-1. **DID Traits**: Evaluation in DID Traits (see https://identity.foundation/did-traits/)
+1. **DID Traits**: Evaluation in DID Traits (see https://identity.foundation/did-traits/). A DID Method does not need to exhibit every DID trait to be considered for recommended status.
 1. **Multiple Impls**: Multiple implementations (include proof of multiple implementations, could be in the proposal file at column 4)
 1. **Deployment**: Significant Deployment (include proof of significant deployment, could be in the proposal file at column 4)
 1. **Standards Target**: Standardization Target (include link to ongoing standardization process, or link to final document once the standardization target has been reached)
