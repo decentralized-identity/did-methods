@@ -34,7 +34,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - https://github.com/decentralized-identity/did-methods/pull/62
 5. Next steps
 
-## ~~Meeting - 02 Jul 2025 - (1800 CEST)~~ canceled due to EIC conference
+## ~~Meeting - 02 Jul 2025 - (1800 CEST)~~ canceled due to GDC conference
 
 ## Meeting - 25 Jun 2025 - (1800 CEST)
 
