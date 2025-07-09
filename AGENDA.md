@@ -25,6 +25,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 
 This week's call is replaced by a "Special Topic Call about W3C DID Methods WG Charter", see here for meeting information:
    - https://www.w3.org/events/meetings/bbd7886a-a0c1-42c1-96ae-5f2b0e42a074/
+   - https://lists.identity.foundation/g/did-methods-wg/topic/did_method_working_group/113982325
 
 ## ~~Meeting - 02 Jul 2025 - (1800 CEST)~~ canceled due to GDC conference
 
