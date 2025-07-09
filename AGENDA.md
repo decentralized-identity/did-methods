@@ -21,6 +21,20 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 </details>
 
+## Meeting - 16 July 2025 - (1800 CEST)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Summary of W3C meeting about DID Method Working Group Chartering:
+   - https://www.w3.org/events/meetings/bbd7886a-a0c1-42c1-96ae-5f2b0e42a074/
+   - https://github.com/w3c/did-methods-wg-charter/pull/6
+4. Approve end-to-end process for "DIF-Recommended Status":
+   - https://github.com/decentralized-identity/did-methods/pull/62
+5. First deep dive of `did:webvh`
+
 ## ~~Meeting - 09 Jul 2025 - (1800 CEST)~~ replaced by DID Method Working Group Chartering meeting
 
 This week's call is replaced by a "Special Topic Call about W3C DID Methods WG Charter", see here for meeting information:
