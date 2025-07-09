@@ -28,7 +28,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Summary of W3C meeting about DID Method Working Group Chartering:
+3. Summary of 09 July 2025 W3C meeting about DID Method Working Group Chartering:
    - https://www.w3.org/events/meetings/bbd7886a-a0c1-42c1-96ae-5f2b0e42a074/
    - https://github.com/w3c/did-methods-wg-charter/pull/6
 4. Approve end-to-end process for "DIF-Recommended Status":
