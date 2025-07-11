@@ -21,7 +21,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 </details>
 
-## Meeting - 16 July 2025 - (1800 CEST)
+## Meeting - 16 Jul 2025 - (1800 CEST)
 
 1. Welcome and Introductions
 2. Logistics
