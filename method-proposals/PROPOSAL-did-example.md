@@ -1,4 +1,4 @@
-# DID method standardization proposal: did:example
+# DID method recommendation proposal: did:example
 
 This is a proposal to include `did:example` in the initial set of DID methods that will be standardized by the DID Methods WG.
 
