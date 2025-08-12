@@ -21,6 +21,17 @@ Please note that we might not notice a pullrequest in time, but you are free to 
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 </details>
 
+## Meeting - 13 Aug 2025 - (1800 CEST)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Reminder of did:webvh review period: https://github.com/decentralized-identity/did-methods/pull/67
+4. Status of other proposed DID methods
+5. Issue and PR processing
+
 ## Meeting - 06 Aug 2025 - (1800 CEST)
 
 1. Welcome and Introductions
