@@ -2,12 +2,11 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/1aWygeLKT1GRKx-dAeFl3w/badge)](https://hackmd.io/1aWygeLKT1GRKx-dAeFl3w)
 
-[**WG projects** ](https://github.com/decentralized-identity?q=wg-cc&type=&language=) | [ DIF page ](https://identity.foundation/working-groups/did-methods.html) | [Mailing list and Wiki](https://lists.identity.foundation/g/cc-wg) | [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit?gid=242845701#gid=242845701)
+[**WG projects** ](https://github.com/decentralized-identity?q=wg-methods&type=&language=) | [ DIF page ](https://identity.foundation/working-groups/did-methods.html) | [Mailing list and Wiki](https://lists.identity.foundation/g/cc-wg) | [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit?gid=242845701#gid=242845701)
 
 _For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large group._
 
-_This document is live-edited DURING each call, and stable/authoritative copies live on our github repo under agenda.md.
-Please note that we might not notice a pullrequest in time, but you are free to propose agenda items for future meetings via hackmd._
+_You are free to propose agenda items for future meetings via pull requests._
 
 <details>
 <summary> Meeting information </summary>
