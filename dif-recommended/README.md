@@ -13,7 +13,7 @@ The process is as follows:
 1. After the second deep dive, the working group chairs submit a PR changing the table's last column from 'no' to 'yes', signaling the start of the formal review period.
 1. The 60-day formal review period begins immediately after the second deep dive and is announced publicly via relevant DIF mailing lists.
 1. During the formal review period, all questions or concerns must be addressed through PR comments. Active discussion is expected for each method.
-1. During the formal review period, the DIF Steering Committee can meet and approve or reject the DIF Recommended Status. If the DIF Steering Committee does not meet in this period, it is considered to have approved the status.
+1. During the formal review period, the DIF Steering Committee can meet and approve or reject the DIF Recommended Status. If the DIF Steering Committee does not act within this period, it is considered to have approved the status.
 1. During the formal review period, the DID Methods WG produces a report which summarizes the steps that have been taken in this process, as documentation for justifying the DIF Recommended Status. This report should be created by "neutral" WG members with no particular affiliation to the proposed DID method.
 1. If no outstanding questions, concerns, or objections remain at the end of the formal review period, the chairs merge the PR and the method attains DIF Recommended Status.
 
