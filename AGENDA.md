@@ -29,7 +29,8 @@ _You are free to propose agenda items for future meetings via pull requests._
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. Update on W3C working group charter status: https://github.com/w3c/strategy/issues/492
 4. Review in flight DID method assessment (did:webvh): https://github.com/decentralized-identity/did-methods/pull/67
-5. Discuss proposal from Markus for DID Recommended after action report
+5. Preview of upcoming DID method assessments (did:webplus, did:webs, did:cheqd, did:scid)
+6. Discuss proposal from Markus for DID Recommended after action report
    - https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107
    - https://docs.google.com/document/d/1w59zWzzuUivL1VWLEj15t1rvJ3xAtyeVLfcYgsi2_XU/
 
