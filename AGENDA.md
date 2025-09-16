@@ -31,7 +31,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-cheqd.md
 4. Update on Markus' proposal for DID Recommended after action report
    - https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107
-   - https://docs.google.com/document/d/1w59zWzzuUivL1VWLEj15t1rvJ3xAtyeVLfcYgsi2_XU/
+   - https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-example.md
 
 ## Meeting - 10 Sep 2025 - (1800 CEST)
 
