@@ -45,7 +45,6 @@ _You are free to propose agenda items for future meetings via pull requests._
 5. Preview of upcoming DID method assessments (did:webplus, did:webs, did:cheqd, did:scid)
 6. Discuss proposal from Markus for DID Recommended after action report
    - https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107
-   - https://docs.google.com/document/d/1w59zWzzuUivL1VWLEj15t1rvJ3xAtyeVLfcYgsi2_XU/
 
 ## ~~Meeting - 20 Aug 2025 - (1800 CEST)~~ canceled
 
