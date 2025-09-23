@@ -20,6 +20,18 @@ _You are free to propose agenda items for future meetings via pull requests._
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 </details>
 
+## Meeting - 24 Sep 2025 - (1800 CEST)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Update on Markus' proposal for DID Recommended after action report
+   - https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107
+   - https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-example.md
+   - https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-webvh.md
+
 ## Meeting - 17 Sep 2025 - (1800 CEST)
 
 1. Welcome and Introductions
