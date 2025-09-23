@@ -29,7 +29,7 @@ This process is documented here: https://github.com/decentralized-identity/did-m
 
 ## Method Proposal
 
-**Yes**, see here: https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-example.md
+**Yes**, see here: https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-example.md
 
 ## W3C Tests
 
