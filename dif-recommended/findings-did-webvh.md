@@ -23,13 +23,13 @@ This process is documented here: https://github.com/decentralized-identity/did-m
 
 ## Method Proposal
 
-**Yes**, see here: https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-example.md
+**Yes**, see here: https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webvh.md
 
 ## W3C Tests
 
-**Yes**, see here: https://w3c.github.io/did-test-suite/#M00
+**Yes**, see here: https://w3c.github.io/did-test-suite/#M53
 
-Number of tested implementations of `did:webvh`: **1**
+Number of tested implementations of `did:webvh`: **4**
 
 ### Implementation: https://github.com/decentralized-identity/didwebvh-py
 
