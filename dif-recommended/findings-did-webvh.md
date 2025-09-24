@@ -15,7 +15,7 @@ This process is documented here: https://github.com/decentralized-identity/did-m
 
 **Open issues (3):** https://github.com/decentralized-identity/didwebvh/issues
 
-**PRs (1):** https://github.com/decentralized-identity/didwebvh/pul
+**PRs (1):** https://github.com/decentralized-identity/didwebvh/pulls
 
 ## W3C Registry
 
