@@ -4,7 +4,7 @@ the steps that have been taken by a DID method to achieve
 
 ---
 
-# Findings: did:example DIF-recommended DID methods
+# Findings: did:example DIF-recommended DID method
 
 This "findings" document summarizes the process that led to the status
 of `did:example` as a DIF-recommended DID method.
