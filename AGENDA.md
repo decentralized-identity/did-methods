@@ -31,6 +31,8 @@ _You are free to propose agenda items for future meetings via pull requests._
    - https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107
    - https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-example.md
    - https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-webvh.md
+4. Initial DID method presentation: `did:webplus`
+   - https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md
 
 ## Meeting - 17 Sep 2025 - (1800 CEST)
 
