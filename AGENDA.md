@@ -46,7 +46,9 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. PR about DIF-recommended process: https://github.com/decentralized-identity/did-methods/pull/68
+4. End of formal review period for did:webvh: https://github.com/decentralized-identity/did-methods/pull/67
+5. State of other proposed DID methods in the process
 
 ## Meeting - 24 Sep 2025 - (1800 CEST)
 
