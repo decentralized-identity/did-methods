@@ -11,7 +11,7 @@ The process is as follows:
 1. The advocate addresses any concerns raised before scheduling the second deep dive with the chairs. The second deep dive must occur at least two weeks after the first.
 1. The second deep dive takes place. Duration varies based on remaining concerns and new issues raised.
 1. After the second deep dive, the working group chairs submit a PR changing the table's last column from 'no' to 'yes', signaling the start of the formal review period.
-1. The working group chair(s) notify the DIF Executive Director that the method formal review period has started, to initiate the DIF Steering Committee review process.
+1. The working group chair(s) notify the DIF Executive Director that the method's formal review period has started, to initiate the DIF Steering Committee review process.
 1. The 60-day formal review period begins immediately after the second deep dive and is announced publicly via relevant DIF mailing lists.
 1. During the formal review period, all questions or concerns must be addressed through PR comments. Active discussion is expected for each method.
 1. During the formal review period, the DIF Steering Committee can meet and approve or reject the DIF Recommended Status. If the DIF Steering Committee does not act within this period, it is considered to have approved the status.
