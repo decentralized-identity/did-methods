@@ -5,7 +5,7 @@ of `did:webvh` as a DIF-recommended DID method.
 
 This process is documented here: https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended
 
-**Date of this document:** 16th September 2025
+**Date of this document:** 1st October 2025
 
 ## Overview
 
@@ -13,9 +13,9 @@ This process is documented here: https://github.com/decentralized-identity/did-m
 
 **DID method specification:** [Current Stable v1.0](https://identity.foundation/didwebvh/v1.0/)
 
-**Open issues (3):** https://github.com/decentralized-identity/didwebvh/issues
+**Open issues (8):** https://github.com/decentralized-identity/didwebvh/issues
 
-**PRs (1):** https://github.com/decentralized-identity/didwebvh/pulls
+**PRs (0):** https://github.com/decentralized-identity/didwebvh/pulls
 
 ## W3C Registry
 
@@ -29,19 +29,19 @@ This process is documented here: https://github.com/decentralized-identity/did-m
 
 **Yes**, see here: https://w3c.github.io/did-test-suite/#M53
 
-Number of tested implementations of `did:webvh`: **4**
+Number of tested implementations of `did:webvh`: **8**
 
 ### Implementation: https://github.com/decentralized-identity/didwebvh-py
 
 **Results:** https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/did-webvh-dif-py.json
 
-37 passing
+29 passing
 
 ### Implementation: https://github.com/decentralized-identity/didwebvh-ts
 
 **Results:** https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/did-webvh-dif-ts.json
 
-37 passing
+29 passing
 
 ### Implementation: Universal Resolver
 
@@ -135,7 +135,7 @@ All questions answered and issues addressed? **Yes**
 
 ## Pull Request for DIF-recommended status
 
-https://github.com/decentralized-identity/did-methods/pull/67 **(13 comments)**
+https://github.com/decentralized-identity/did-methods/pull/67 **(14 comments)**
 
 Main questions and topics:
 - (vdods) Pre-rotation keys
