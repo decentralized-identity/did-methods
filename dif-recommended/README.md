@@ -17,7 +17,7 @@ The process is as follows:
 
 The following table tracks DID methods that are currently participating in this process.
 
-| Method | Spec Version | W3C Registry | Proposal | W3C Tests | Universal Resolver | DID Traits | Multiple Impls | Deployment | Standards Target | Two Deep Dives | DIF Recommended |
+| Method | Spec Version | W3C Registry | Proposal | W3C Tests | Universal Resolver | DID Traits | Multiple Impls | Deployment | Standards Target | Intro and Deep Dives | DIF Recommended |
 |--------|--------------|--------------|----------|-----------|-------------------|------------|----------------|------------|------------------|------------|-----------------|
 | `did:cheqd` | [ADR Stage ACCEPTED](https://docs.cheqd.io/product/architecture/adr-list/adr-001-cheqd-did-method) | Yes | [Yes](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-cheqd.md) | [Yes](https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/resolver-did-cheqd.json) | Yes | Yes | ? | ? | ? | [Intro](https://us02web.zoom.us/rec/share/PE6APQDKyAsYzPZdei28K_iQia-Ir5pSMpk-JUpIg0bXleTS7UkegKArlGTuLS6H.hC34Z-8tZbE6n7Cl) | **No** |
 | `did:ebsi` | [Last updated on Mar 3, 2025](https://hub.ebsi.eu/vc-framework/did/legal-entities) | No | No | [Yes](https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/did-ebsi.json) | Yes | No | ? | ? | European Standard at CEN/CLC JTC 19 WG 1 | 0 | **No** |
