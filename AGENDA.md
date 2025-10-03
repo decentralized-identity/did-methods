@@ -30,7 +30,7 @@ _You are free to propose agenda items for future meetings via pull requests._
 3. First Deep Dive: `did:webplus`
    - https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md
 
-## ~~Meeting - 22 Oct 2025 - (1800 CEST)~~ due to IIW conference
+## ~~Meeting - 22 Oct 2025 - (1800 CEST)~~ canceled due to IIW conference
 
 ## Meeting - 15 Oct 2025 - (1800 CEST)
 
