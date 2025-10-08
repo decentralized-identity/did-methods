@@ -10,7 +10,7 @@ The MDIP (MultiDimensional Identity Protocol) DID method specification conforms 
 
 ### DID Lifecycle
 
-![did-lifecycle.png](https://github.com/KeychainMDIP/kc/blob/main/doc/mdip/did-lifecycle.png)
+![did-lifecycle.png](https://github.com/KeychainMDIP/kc/blob/main/doc/01-protocol/did-lifecycle.png)
 
 All MDIP DIDs begin life anchored to a CAS (Content-Addressable Storage) such as IPFS. Once created they can be used immediately by any application or service connected to an MDIP node. Subsequent updates to the DID (meaning that a document associated with the DID changes) are registered on a registry such as a blockchain (BTC, ETH, etc) or a decentralized database (e.g. hyperswarm). The registry is specified at DID creation so that nodes can determine which single source of truth to check for updates.
 
@@ -31,7 +31,7 @@ The mediators are responsible for connecting the Gatekeeper to various networks 
 [Keymaster](https://github.com/KeychainMDIP/kc/blob/main/packages/keymaster/README.md) is the MDIP client responsible for holding the private keys and signing DID operations (create, update, delete) sent to Gatekeeper. 
 
 ### Wallets: 
-The [browser web wallet](https://github.com/KeychainMDIP/kc/blob/main/services/gatekeeper/client/README.md), [browser extension](https://github.com/KeychainMDIP/kc/blob/main/browser/chrome-extension/README.md), and [Keymaster service](https://github.com/KeychainMDIP/kc/blob/main/services/keymaster/server/README.md) all use the [Keymaster library](https://github.com/KeychainMDIP/kc/blob/main/packages/keymaster/README.md). The [server web wallet](https://github.com/KeychainMDIP/kc/blob/main/services/keymaster/client/README.md) is the same as the browser web wallet, except it is configured to talk to the Keymaster service instead of hosting its own wallet. It uses the same [KeymasterClient](https://github.com/KeychainMDIP/kc/blob/main/packages/keymaster/src/keymaster-sdk.ts) as the kc CLI. 
+The [browser web wallet](https://github.com/KeychainMDIP/kc/blob/main/services/gatekeeper/client/README.md), [browser extension](https://github.com/KeychainMDIP/kc/tree/main/apps/chrome-extension), and [Keymaster service](https://github.com/KeychainMDIP/kc/blob/main/services/keymaster/server/README.md) all use the [Keymaster library](https://github.com/KeychainMDIP/kc/blob/main/packages/keymaster/README.md). The [server web wallet](https://github.com/KeychainMDIP/kc/blob/main/services/keymaster/client/README.md) is the same as the browser web wallet, except it is configured to talk to the Keymaster service instead of hosting its own wallet. It uses the same [KeymasterClient](https://github.com/KeychainMDIP/kc/blob/main/packages/keymaster/src/keymaster-sdk.ts) as the kc CLI. 
 
 ### DID Explorer: 
 The [explorer](https://github.com/KeychainMDIP/kc/blob/main/services/explorer/README.md) and [search-server](https://github.com/KeychainMDIP/kc/blob/main/services/search-server/README.md) provide DID resolution, search and general interaction with DIDs and DID Documents.
@@ -45,7 +45,7 @@ A reference MDIP-enabled client application that demonstrates the challenge/resp
 ## Existing materials
 
 * [Keychain Reference Implementation Repository](https://github.com/KeychainMDIP/kc)
-* [MDIP DID Scheme](https://github.com/KeychainMDIP/kc/blob/main/doc/mdip/scheme.md)
+* [MDIP DID Scheme](https://keychain.org/docs/protocol/scheme)
 * [MDIP Gatekeeper OpenAPI Specs](https://github.com/KeychainMDIP/kc/blob/main/doc/gatekeeper-api.json)
 * [MDIP Keymaster OpenAPI Specs](https://github.com/KeychainMDIP/kc/blob/main/doc/keymaster-api.json)
 * [MDIP Authentication Process and Demo](https://github.com/KeychainMDIP/auth-demo)
