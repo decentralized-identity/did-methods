@@ -8,7 +8,11 @@ The `did:webplus` DID method is a natural extension of `did:web`, and its core r
 
 Specification is found [here](https://ledgerdomain.github.io/did-webplus-spec/).
 
-Documentation and reference implementation is found [here](https://github.com/LedgerDomain/did-webplus).  [Presentation](https://www.youtube.com/watch?v=Ws55MlDuUGI) and corresponding [slide deck](https://docs.google.com/presentation/d/1oZc4WABaG3zhw7gHclSIaQCgnchdWRJvqUDQLq4L-Ig/edit?usp=sharing).
+Documentation and reference implementation is found [here](https://github.com/LedgerDomain/did-webplus).
+
+[Slide deck for Deep Dive #1](https://docs.google.com/presentation/d/1fZDE-yJadk5NDwWYm3BDTIt0FvePeqjUl4Lrg0AaCNI/edit?usp=sharing)
+
+Older, but still relevant materials: [Presentation](https://www.youtube.com/watch?v=Ws55MlDuUGI) and corresponding [slide deck](https://docs.google.com/presentation/d/1oZc4WABaG3zhw7gHclSIaQCgnchdWRJvqUDQLq4L-Ig/edit?usp=sharing).
 
 ### Some Terminology
 
@@ -35,7 +39,7 @@ Documentation and reference implementation is found [here](https://github.com/Le
 
 ### Drawbacks
 
-- Resolving a given DID for the first time requires fetching and verifying its entire history, which could be arbitrarily long.  However, realistic uses cases are such that the number of DID updates will be less than several thousand, which verifies in a reasonable amount of time.  The worst case is avoided by the use of VDGs to which DID updates can be pre-emptively pushed.
+- Resolving a given DID for the first time requires fetching and verifying its entire history, which could be arbitrarily long.  However, realistic uses cases are such that the number of DID updates will be less than several thousand, which verifies in a reasonable amount of time.  The worst case is avoided by the use of VDGs to which DID updates can be pre-emptively pushed by VDRs.
 - VDGs are a point of centralization.  Ideally this should be offset by having VDGs be run by organizations whose interests/business model doesn't conflict with that of DID controllers and DID resolvers.
 - As in `did:web`, DID resolution depends on DNS, which is somewhat centralized.  However, verification is independent of DNS.
 - As in `did:web`, domains are leased, and a lapsed domain can be co-opted by an attacker.  However, the DIDs anchored to that domain can't be co-opted unless the attacker somehow compromises the DID controllers' private keys.
