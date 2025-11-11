@@ -2,12 +2,11 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/1aWygeLKT1GRKx-dAeFl3w/badge)](https://hackmd.io/1aWygeLKT1GRKx-dAeFl3w)
 
-[**WG projects** ](https://github.com/decentralized-identity?q=wg-cc&type=&language=) | [ DIF page ](https://identity.foundation/working-groups/did-methods.html) | [Mailing list and Wiki](https://lists.identity.foundation/g/cc-wg) | [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit?gid=242845701#gid=242845701)
+[**WG projects** ](https://github.com/decentralized-identity?q=wg-methods&type=&language=) | [ DIF page ](https://identity.foundation/working-groups/did-methods.html) | [Mailing list and Wiki](https://lists.identity.foundation/g/cc-wg) | [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit?gid=242845701#gid=242845701)
 
 _For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large group._
 
-_This document is live-edited DURING each call, and stable/authoritative copies live on our github repo under agenda.md.
-Please note that we might not notice a pullrequest in time, but you are free to propose agenda items for future meetings via hackmd._
+_You are free to propose agenda items for future meetings via pull requests._
 
 <details>
 <summary> Meeting information </summary>
@@ -16,10 +15,175 @@ Please note that we might not notice a pullrequest in time, but you are free to 
   - **Unaffiliated Individuals**: Sign the [DIF Feedback Agreement](https://bit.ly/DIF-feedback-agreement) and select "DID Methods" WG
   - **Participating on behalf of an Organization**:
     - Ensure your organization has signed the IPR release. See CONTRIBUTING.md, Prerequisites #2 for details.
-- Time: Every Wednesday, 18:00 CET
+- Time: Every Wednesday, 18:00 CEST / CET
 - [Subscribe to DIF's calendar](https://calendar.google.com/calendar/u/0?cid=ZGVjZW50cmFsaXplZC5pZGVudGl0eUBnbWFpbC5jb20)
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 </details>
+
+## Meeting - 17 Dec 2025 - (1800 CET) - Markus
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 10 Dec 2025 - (1800 CET) - Jonathan
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 03 Dec 2025 - (1800 CET) - Matt
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 26 Nov 2025 - (1800 CET) - Markus
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 19 Nov 2025 - (1800 CET) - Jonathan
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 12 Nov 2025 - (1800 CET) - Matt
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. First Deep Dive: `did:webs`
+   - https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webs.md
+
+## ~~Meeting - 05 Nov 2025 - (1800 CET)~~ canceled
+
+## Meeting - 29 Oct 2025 - (1800 CET)
+
+**WARNING: Daylight Savings Time no longer in effect in EU. Meeting is a 1800 CET, check your calendars**
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. First Deep Dive: `did:webplus`
+   - https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md
+
+## ~~Meeting - 22 Oct 2025 - (1800 CEST)~~ canceled due to IIW conference
+
+## Meeting - 15 Oct 2025 - (1800 CEST)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Initial DID method presentation: `did:webs`
+   - https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webs.md
+
+## Meeting - 08 Oct 2025 - (1800 CEST)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Initial DID method presentation: `did:mdip`
+   - https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-mdip.md
+
+## Meeting - 01 Oct 2025 - (1800 CEST)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. PR about DIF-recommended process: https://github.com/decentralized-identity/did-methods/pull/68
+4. End of formal review period for did:webvh: https://github.com/decentralized-identity/did-methods/pull/67
+5. State of other proposed DID methods in the process
+
+## Meeting - 24 Sep 2025 - (1800 CEST)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Update on Markus' proposal for DID Recommended after action report
+   - https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107
+   - https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-example.md
+   - https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-webvh.md
+4. Initial DID method presentation: `did:webplus`
+   - https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md
+
+## Meeting - 17 Sep 2025 - (1800 CEST)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Initial DID method presentation: `did:cheqd`
+   - https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-cheqd.md
+4. Update on Markus' proposal for DID Recommended after action report
+   - https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107
+   - https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-example.md
+
+## Meeting - 10 Sep 2025 - (1800 CEST)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Update on W3C working group charter status: https://github.com/w3c/strategy/issues/492
+4. Review in flight DID method assessment (did:webvh): https://github.com/decentralized-identity/did-methods/pull/67
+5. Preview of upcoming DID method assessments (did:webplus, did:webs, did:cheqd, did:scid)
+6. Discuss proposal from Markus for DID Recommended after action report
+   - https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107
+
+## ~~Meeting - 20 Aug 2025 - (1800 CEST)~~ canceled
+
+## Meeting - 13 Aug 2025 - (1800 CEST)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Reminder of did:webvh review period: https://github.com/decentralized-identity/did-methods/pull/67
+4. Status of other proposed DID methods
+5. Issue and PR processing
+
+## Meeting - 06 Aug 2025 - (1800 CEST)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Reminder of did:webvh review period: https://github.com/decentralized-identity/did-methods/pull/67
+4. Status update on W3C DID Methods WG process
 
 ## Meeting - 30 Jul 2025 - (1800 CEST)
 
@@ -28,7 +192,7 @@ Please note that we might not notice a pullrequest in time, but you are free to 
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. Second did:webvh deep dive
 
 ## ~~Meeting - 23 Jul 2025 - (1800 CEST)~~ canceled
 
