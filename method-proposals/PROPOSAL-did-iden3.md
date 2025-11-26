@@ -121,6 +121,7 @@ Due to its privacy-first design the `did:iden3` method lends itself well to a va
 
 ### Web2 market
 
+- Chaincode Consulting is using did:iden3 in a public sector project [link with evidence]([https://www.linkedin.com/posts/alok-gupta-32010615_at-chaincode-consulting-llp-were-working-activity-7361317757201604608-iNQ_/](https://x.com/ChaincodeLlp/status/1955521915461960096))
 - Deutsche Bank - [link with evidence](https://corporates.db.com/files/documents/publications/db-polygo-digital-id-wp-42pp-web-secured.pdf?language_id=1)
 - Hovi.id - [link with evidence](https://docs.hovi.id/intro/hovi-support-matrix)
 - zk-firma-digital - [link with evidence](https://github.com/kuronosec/zk-firma-web/blob/bc4ae63a2be3dd7764a51c8be40500ecc2efcb66/src/ListVerifiableCredentials.tsx#L9)
