@@ -29,14 +29,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. TBD
 
-## Meeting - 10 Dec 2025 - (1800 CET) - Jonathan
-
-1. Welcome and Introductions
-2. Logistics
-   - [CONTRIBUTING.md](./CONTRIBUTING.md)
-   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
-   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+## ~~Meeting - 10 Dec 2025 - (1800 CET) - Jonathan~~ canceled
 
 ## Meeting - 03 Dec 2025 - (1800 CET) - Matt
 
