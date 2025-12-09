@@ -11,6 +11,7 @@ Specification is found [here](https://ledgerdomain.github.io/did-webplus-spec/).
 Documentation and reference implementation is found [here](https://github.com/LedgerDomain/did-webplus).
 
 [Slide deck for Deep Dive #1](https://docs.google.com/presentation/d/1fZDE-yJadk5NDwWYm3BDTIt0FvePeqjUl4Lrg0AaCNI/edit?usp=sharing)
+[Slide deck for Deep Dive #2](https://docs.google.com/presentation/d/1sjsU9l-_0JJ9mY9aiUIUpzc5Ce8UTSt4SNXPTnPBmgM/edit?usp=sharing)
 
 Older, but still relevant materials: [Presentation](https://www.youtube.com/watch?v=Ws55MlDuUGI) and corresponding [slide deck](https://docs.google.com/presentation/d/1oZc4WABaG3zhw7gHclSIaQCgnchdWRJvqUDQLq4L-Ig/edit?usp=sharing).
 
