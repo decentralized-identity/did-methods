@@ -11,12 +11,13 @@ Specification is found [here](https://ledgerdomain.github.io/did-webplus-spec/).
 Documentation and reference implementation is found [here](https://github.com/LedgerDomain/did-webplus).
 
 [Slide deck for Deep Dive #1](https://docs.google.com/presentation/d/1fZDE-yJadk5NDwWYm3BDTIt0FvePeqjUl4Lrg0AaCNI/edit?usp=sharing)
+[Slide deck for Deep Dive #2](https://docs.google.com/presentation/d/1sjsU9l-_0JJ9mY9aiUIUpzc5Ce8UTSt4SNXPTnPBmgM/edit?usp=sharing)
 
 Older, but still relevant materials: [Presentation](https://www.youtube.com/watch?v=Ws55MlDuUGI) and corresponding [slide deck](https://docs.google.com/presentation/d/1oZc4WABaG3zhw7gHclSIaQCgnchdWRJvqUDQLq4L-Ig/edit?usp=sharing).
 
 ### Some Terminology
 
-- VDR: Verifiable Data Registry (this term is defined generally in the context of decentralized identity) -- a website/web service that hosts DID documents and is the origin (and therefore authority) on their content.  For example, given a DID `did:webplus:example.com/{self-hash}`, its history of DID documents may be retrieved via HTTP GET of URL `https://example.com/{self-hash}/did-documents.jsonl`
+- VDR: Verifiable Data Registry (this term is defined generally in the context of decentralized identity) -- a website/web service that hosts DID documents and is the origin (and therefore authority) on their content.  For example, given a DID `did:webplus:example.com:{self-hash}`, its history of DID documents may be retrieved via HTTP GET of URL `https://example.com:{self-hash}/did-documents.jsonl`
 - VDG: Verifiable Data Gateway (this is a `did:webplus`-specific term) -- a witnessing and archival service which provides the benefits listed below.
 - CDN: Content Delivery Network (this is a standard web technology) -- a large network of proxy servers that service requests on behalf of the primary service, meant to short-cut many requests using cached data.  These servers are placed "near" the service's clients in order to drastically reduce network request latency.  They also provide a layer of defense against security threats such as DDoS attacks.
 
