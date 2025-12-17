@@ -17,7 +17,7 @@ Older, but still relevant materials: [Presentation](https://www.youtube.com/watc
 
 ### Some Terminology
 
-- VDR: Verifiable Data Registry (this term is defined generally in the context of decentralized identity) -- a website/web service that hosts DID documents and is the origin (and therefore authority) on their content.  For example, given a DID `did:webplus:example.com:{self-hash}`, its history of DID documents may be retrieved via HTTP GET of URL `https://example.com:{self-hash}/did-documents.jsonl`
+- VDR: Verifiable Data Registry (this term is defined generally in the context of decentralized identity) -- a website/web service that hosts DID documents and is the origin (and therefore authority) on their content.  For example, given a DID `did:webplus:example.com:{self-hash}`, its history of DID documents may be retrieved via HTTP GET of URL `https://example.com/{self-hash}/did-documents.jsonl`
 - VDG: Verifiable Data Gateway (this is a `did:webplus`-specific term) -- a witnessing and archival service which provides the benefits listed below.
 - CDN: Content Delivery Network (this is a standard web technology) -- a large network of proxy servers that service requests on behalf of the primary service, meant to short-cut many requests using cached data.  These servers are placed "near" the service's clients in order to drastically reduce network request latency.  They also provide a layer of defense against security threats such as DDoS attacks.
 
