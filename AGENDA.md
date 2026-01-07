@@ -103,12 +103,13 @@ _You are free to propose agenda items for future meetings via pull requests._
 
 ## Meeting - 7 Jan 2026 - (1800 CET) - Markus
 
-1. Welcome and Introductions
-2. Logistics
+1. Happy New Year!
+2. Welcome and Introductions
+3. Logistics
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. General updates, status check, pull requests, issues:
+4. General updates, status check, pull requests, issues:
    - https://github.com/decentralized-identity/did-methods/issues
    - https://github.com/decentralized-identity/did-methods/pulls
 
