@@ -90,7 +90,11 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. Status of `did:webplus` [formal review](https://github.com/decentralized-identity/did-methods/pull/77).
+4. Next steps for `did:webs`, `did:cheqd`?
+5. How to handle `did:peer`, `did:web`, `did:key`?
+6. Status of [W3C DID Methods Working Group Charter](https://github.com/w3c/strategy/issues/492#issuecomment-3642212326); Next steps?
+7. Other topics?
 
 ## Meeting - 14 Jan 2026 - (1800 CET) - Matt
 
