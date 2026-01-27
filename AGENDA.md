@@ -72,7 +72,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. [DID:Webs](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webs.md) Second Deep-dive
 
 ## Meeting - 28 Jan 2026 - (1800 CET) - Markus
 
