@@ -74,11 +74,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. [DID:Webs](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webs.md) Second Deep-dive
 
-~~## Meeting - 28 Jan 2026 - (1800 CET) - Markus~~
-
-1. ~~TBD~~
-
-Canceled due to lack of agenda
+## ~~Meeting - 28 Jan 2026 - (1800 CET) - Markus~~ canceled
 
 ## Meeting - 21 Jan 2026 - (1800 CET) - Jonathan
 
