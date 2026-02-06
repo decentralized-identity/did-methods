@@ -1,7 +1,7 @@
-# Findings: did:example DIF-recommended DID method
+# Findings: did:webs DIF-recommended DID method
 
 This "findings" document summarizes the process that led to the status
-of `did:webvh` as a DIF-recommended DID method.
+of `did:webs` as a DIF-recommended DID method.
 
 This process is documented here: <https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended>
 
@@ -9,7 +9,7 @@ This process is documented here: <https://github.com/decentralized-identity/did-
 
 ## Overview
 
-**DID method:** `did:example`
+**DID method:** `did:webs`
 
 **DID method specification:** [v1.0](https://link-to-specification)
 
@@ -29,7 +29,7 @@ This process is documented here: <https://github.com/decentralized-identity/did-
 
 **Yes**, see here: <https://w3c.github.io/did-test-suite/#M00>
 
-Number of tested implementations of `did:example`: **1**
+Number of tested implementations of `did:webs`: **1**
 
 ### Implementation: <https://github.com/decentralized-identity/didexample-py>
 
@@ -46,7 +46,7 @@ Number of tested implementations of `did:example`: **1**
 <https://ghcr.io/decentralized-identity/uni-resolver-driver-did-example:v1.0.0>
 
 **Example query:**
-<https://dev.uniresolver.io/#did:example:000>
+<https://dev.uniresolver.io/#did:webs:000>
 
 ## DID Traits
 
