@@ -5,8 +5,8 @@ This page describes a process for DID methods to achieve a status of "DIF-recomm
 The process is as follows:
 
 1. The method advocate submits the DID method for consideration by creating a Pull Request with a [DID method recommendation proposals](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/). The proposed DID method may or may not be a DIF work item (in the former case, the usual [Work Item Life Cycle](https://github.com/decentralized-identity/org/blob/main/work-item-lifecycle.md) applies).
-1. The advocate presents the proposal template contents during a working group meeting and receives initial feedback.
-1. When the method meets the criteria outlined in the table below, the advocate schedules the first deep dive with the working group chairs during a regular meeting.
+1. The advocate presents the proposal template contents during a working group meeting and receives initial feedback. The group should recommend paths forward for any criteria not yet met. 
+1. When the method meets all of the criteria outlined in the table below in the opinion of the presenter, the advocate schedules the first deep dive with the working group chairs during a regular meeting.
 1. The first deep dive occurs, where the group provides detailed feedback on the method's maturity and compliance with requirements.
 1. The advocate addresses any concerns raised before scheduling the second deep dive with the chairs. The second deep dive must occur at least two weeks after the first.
 1. The second deep dive takes place. Duration varies based on remaining concerns and new issues raised.
