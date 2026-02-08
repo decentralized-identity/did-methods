@@ -110,7 +110,7 @@ All questions answered and issues addressed? **Yes**
 
 ## Pull Request for DIF-recommended status
 
-<https://github.com/decentralized-identity/did-methods/pull/00> **(3 comments)**
+<https://github.com/decentralized-identity/did-methods/pull/86> **(0 comments)**
 
 Main questions and topics:
 
