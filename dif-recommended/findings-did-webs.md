@@ -5,17 +5,17 @@ of `did:webs` as a DIF-recommended DID method.
 
 This process is documented here: <https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended>
 
-**Date of this document:** 16th September 2025
+**Date of this document:** 4th April 2026
 
 ## Overview
 
 **DID method:** `did:webs`
 
-**DID method specification:** [v1.0](https://link-to-specification)
+**DID method specification:** [v0.9.16](https://trustoverip.github.io/tswg-did-method-webs-specification/)
 
-**Open issues (3):** <https://github.com/org/didexamplemethod/issues>
+**Open issues (3):** <https://github.com/trustoverip/tswg-did-method-webs-specification/issues>
 
-**PRs (1):** <https://github.com/org/didexamplemethod/pulls>
+**PRs (0):** <https://github.com/trustoverip/tswg-did-method-webs-specification/pulls>
 
 ## W3C Registry
 
@@ -23,30 +23,30 @@ This process is documented here: <https://github.com/decentralized-identity/did-
 
 ## Method Proposal
 
-**Yes**, see here: <https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-example.md>
+**Yes**, see here: <https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webs.md>
 
 ## W3C Tests
 
-**Yes**, see here: <https://w3c.github.io/did-test-suite/#M00>
+**Yes**, see here: <https://w3c.github.io/did-test-suite/#M54>
 
 Number of tested implementations of `did:webs`: **1**
 
-### Implementation: <https://github.com/decentralized-identity/didexample-py>
+### Implementation: <https://github.com/GLEIF-IT/did-webs-resolver>
 
-**Results:** <https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/did-example-dif-py.json>
+**Results:** <https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/did-webs.json>
 
 37 passing
 
 ## Universal Resolver
 
 **Yes**, see here:
-<https://github.com/decentralized-identity/universal-resolver/blob/0000000000000000000000000000000000000000/docker-compose.yml#L000>
+<https://github.com/decentralized-identity/universal-resolver/blob/main/docker-compose.yml#L342>
 
 **Docker image:**
-<https://ghcr.io/decentralized-identity/uni-resolver-driver-did-example:v1.0.0>
+<https://hub.docker.com/r/gleif/did-webs-resolver-service>
 
 **Example query:**
-<https://dev.uniresolver.io/#did:webs:000>
+<https://dev.uniresolver.io/#did:webs:hook.testnet.gleif.org%3A7702:dws:EEOqE46OOSl1k1JO3ggQTGuQR3nnWE8bYjOPnJ53m8CP>
 
 ## DID Traits
 
@@ -61,19 +61,19 @@ Number of tested implementations of `did:webs`: **1**
 ## Deployments
 
 **Yes**, see here:
-<https://link-to-information-about-deployments/>
+<https://didwebs.info/#/deployments/>
 
 ## Standardization Target
 
-**Yes**, W3C
+**Yes**, [KERI Suite Working Group (KSWG)](https://lf-toip.atlassian.net/wiki/spaces/HOME/pages/56819755/KERI+Suite+Working+Group), Trust over IP Foundation (ToIP)
 
 ## Presentations and Deep Dives
 
 ### Initial Presentation
 
-**Date:** Jan 01, 2025 00:00 AM
+**Date:** Oct 15, 2025 08:56 AM
 
-[Recording](https://link-to-recording/)
+[Recording](https://us02web.zoom.us/rec/share/ydyzACvxwV7xOVom6M8e8mpNTR3tZ8JgetTo16V6HPoJ-GaepIGAUSEZYYkMzcc3.JJTVzqKm4EDqEtQ5)
 
 Main topics and questions by audience:
 
@@ -84,9 +84,9 @@ All questions answered and issues addressed? **Yes**
 
 ### Deep Dive 1
 
-**Date:** Jan 01, 2025 00:00 AM
+**Date:** Nov 12, 2025 08:53 AM
 
-[Recording](https://link-to-recording/)
+[Recording](https://us02web.zoom.us/rec/share/otQIKvhC5YI_Xl0kxCitMEZ6E0J8Ci3vMgSckEl2qOkydi96AVvOvT2WuHZV-gQW.JXurwwK1G7ZLhMFR)
 
 Main topics and questions by audience:
 
@@ -97,9 +97,9 @@ All questions answered and issues addressed? **Yes**
 
 ### Deep Dive 2
 
-**Date:** Jan 01, 2025 00:00 AM
+**Date:** Feb 4, 2026 08:57 AM
 
-[Recording](https://link-to-recording/)
+[Recording](https://us02web.zoom.us/rec/share/Nazek-3tnfM4r8OwPU2IVfvGtB81SKwe-ZO5qizEMEjyQjm_lplqLftuBqPUGCM.mPbxfe5WgOOpENwT)
 
 Main topics and questions by audience:
 
