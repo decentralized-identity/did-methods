@@ -70,7 +70,7 @@ https://identity.foundation/did-traits/#comparison-of-did-methods
 
 ## Deployments
 
-**Yes**, in the [OC-i](https://www.oc-i.org/dscsa-authorized-trading-partners) multi-DID production messaing context. see here:
+**Yes**, in the [OC-i](https://www.oc-i.org/dscsa-authorized-trading-partners) multi-DID production messaging context. see here for cross-method testing artefacts:
 https://github.com/LedgerDomain/oci-interop
 
 ## Standardization Target
