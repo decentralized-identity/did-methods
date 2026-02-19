@@ -1,7 +1,7 @@
-# Findings: did:webvh DIF-recommended DID method
+# Findings: did:webplus DIF-recommended DID method
 
 This "findings" document summarizes the process that led to the status
-of `did:webvh` as a DIF-recommended DID method.
+of `did:webplus` as a DIF-recommended DID method.
 
 This process is documented here: https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended
 
@@ -29,7 +29,7 @@ This process is documented here: https://github.com/decentralized-identity/did-m
 
 **Yes**, see here: https://w3c.github.io/did-test-suite/#M53
 
-Number of tested implementations of `did:webvh`: **1**
+Number of tested implementations of `did:webplus`: **1**
 
 ### Implementation: https://github.com/LedgerDomain/did-webplus (Rust)
 
@@ -39,15 +39,9 @@ Number of tested implementations of `did:webvh`: **1**
 
 ### Implementation: Universal Resolver
 
-**Results:** https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/universal-resolver-did-webvh.json
+**Results:** n/a
 
-19 passing
-
-### Implementation: DIF
-
-**Results:** https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/dereferencer-dif-webvh.json
-
-14 passing, 1 failing
+n/a
 
 ## Universal Resolver
 
