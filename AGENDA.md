@@ -36,7 +36,15 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. Resignation of Markus as chair
+4. Presentation of Christian Saucier as new chair
+5. Clarifying points on DIF Recommended process
+   - Are matrix elements strict requirements or are they meant as guidelines?
+   - What counts as "multiple implementations"?
+   - Is a findings document required?
+     - How independent must the preparer of the findings document be?
+   - Can we support a "provisionally" approved state?
+     - Particularly for `did:webplus` and `did:webs`
 
 ## ~~Meeting - 25 Feb 2026 - (1800 CET) - Matt~~ canceled
 
