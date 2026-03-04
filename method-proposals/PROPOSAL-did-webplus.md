@@ -91,7 +91,7 @@ How this DID method meets the [DID method selection criteria](../selection-crite
 | **Reliable and predictable-latency operation, for updating and resolving** | Yes.  In particular, the "thin" DID resolution operation (which is expected to be by far the most common operation) was designed to have as low latency as possible (especially if a CDN is used with the VDG). |
 | **Resolution should not require additional state or context** | Correct. |
 | **DIDs are permanent and immutable account identifiers** | Yes. |
-| **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | [PR for did:webplus DID traits template is pending](https://github.com/decentralized-identity/did-traits/pull/66).  |
+| **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | [Supported](https://github.com/decentralized-identity/did-traits/pull/66).  |
 | **Consider categories defined by DID Rubric: <https://www.w3.org/TR/did-rubric/>** | This criterion is far too broadly-scoped to address in a line item.  Apropos governance, see description at the top of this document. |
 | **Who WANTS to standardize the DID method and commits to doing the work?** | LedgerDomain and Open Credentialing Initiative. |
 | **Are there AT LEAST two WG members who support standardization of a DID method?** | LedgerDomain and Open Credentialing Initiative. |
