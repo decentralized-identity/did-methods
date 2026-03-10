@@ -117,7 +117,8 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. Review [PR](https://github.com/decentralized-identity/did-methods/pull/92) encoding group decisions into DIF Recommended DID Method process
+4. Discuss policy around creating findings document (how and when is it created/updated, who is allowed to prepare it?)
 
 ## Meeting - 4 Mar 2026 - (1800 CET) - Jonathan
 
