@@ -8,7 +8,7 @@ Like its cousin, `did:web`, the `did:webs` method uses traditional web infrastru
 
 ## Existing Materials
 
-* [DID Method Specification](https://trustoverip.github.io/tswg-did-method-webs-specification/)
+* [DID Method Specification](https://trustoverip.github.io/kswg-did-method-webs-specification/)
 * [Reference implementation](https://github.com/GLEIF-IT/did-webs-resolver)
 
 ## Is this DID method already involved in a standardization process? If so, where?
