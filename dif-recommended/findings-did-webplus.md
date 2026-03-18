@@ -45,7 +45,7 @@ n/a
 
 ## Universal Resolver
 
-**NO**; Recommended status contingent on finishing this pending item.
+**YES**, tested locally by reviewer
 
 **Docker image:**
 n/a
@@ -60,7 +60,7 @@ https://identity.foundation/did-traits/#comparison-of-did-methods
 
 ## Multiple Implementations
 
-**No**: the Rust crate is the only end-to-end implementation, although there is some language diversity of verification-side applications.
+**Yes**: the Rust crate is the only end-to-end implementation hardened and operationalized in production, although there is some language diversity of verification-side applications. The Python proof-of-concept is feature-complete (normative features, anyways) and cross-testable, although it is a little finicky to run locally and only packaged for two architectures. Reviewer has run both implementations locally.
 
 ## Deployments
 
@@ -80,9 +80,10 @@ https://github.com/LedgerDomain/oci-interop
 **Recording:** [link](https://us02web.zoom.us/rec/share/1jJ7EIXc72ARQTQLXK6PXV2-cq0oN7gWlDBXwzD-IkEXpRfnxyxpX2IBZ1rRU23U.saBYCUDcfR2tbKps)
 
 Main topics and questions by audience:
+
 - (in chat) - Overlap with other IPFS-/multiformats-based methods
 - (jonathan) - "thin"/trustful resolver for universal resolver (resolution via VDG) versus traditional "full node" resolution drivers
-- (otto) - parallel development with did:webvh? 
+- (otto) - parallel development with did:webvh?
 - (otto/jonathan) - multi-signature support
 - (drummond) - Relationship between did:webplus SCIDs and [Drummond Reed's and FPP's] concept of SCID
 - (otto) - production-scale VDG/CDN-like resolution plans?
@@ -96,8 +97,9 @@ All questions answered and issues addressed? **Yes**
 **Recording:** [link](https://us02web.zoom.us/rec/share/aF-Oyy6vsSHTQVotgcMMpdxAMo_I0e3PyvFHl5Wrqy3PbLMsl283eXGb2OBGV0Dr.-f9s4l5thUU_4JpS)
 
 Main topics and questions by audience:
+
 - (otto, makki) - exact semantics/trust model of VDG/caching infra
-- (makki) - how does a did:webplus tlog compare to the C2PA Manifest Store for provenance of an asset? (long sidebar) 
+- (makki) - how does a did:webplus tlog compare to the C2PA Manifest Store for provenance of an asset? (long sidebar)
 
 All questions answered and issues addressed? **Yes**
 
@@ -108,11 +110,12 @@ All questions answered and issues addressed? **Yes**
 **Recording:** [link](https://us02web.zoom.us/rec/share/6yRpfB0ZND2JdmmYr6oQz8kYfFturosnG5ohQKxLNS4UXy80VyLuerzeNppo2XQ-.E74fBnNUdLYo1HFM)
 
 Main topics and questions by audience:
+
 - (bumblefudge) - Update rule DSL is mandatory behavior for all implementations? (Victor) technically, each VDR/hosting server only needs to be able to parse its own DIDs' updates
 - (bumblefudge) - range-based GET/jsonlines for efficient caching
 - (Eike) - the only magic bytes and prefixes are ALL from the multiformats conventions, right? (victor) yes, 100%
 - (Makki) - Why just Blake3, not SHA256? Applicability to NIST-bound developers and implementation contexts would be better served...
-    + (victor) followed up on github and in a later meeting in January
+  - (victor) followed up on github and in a later meeting in January
 
 All questions answered and issues addressed? **Yes**
 
@@ -121,6 +124,7 @@ All questions answered and issues addressed? **Yes**
 https://github.com/decentralized-identity/did-methods/pull/77 **(14 comments)**
 
 Main questions and topics:
+
 - (Makki & vdods) Following up on [support for additional hash functions](https://github.com/decentralized-identity/did-methods/pull/77#issuecomment-3837715821)
 
 All questions answered and issues addressed? **Yes**
