@@ -108,7 +108,11 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. Review PR: https://github.com/decentralized-identity/did-methods/pull/93 "Update DIF Recommended process to clarify the requirements surrounding the preparation and finalization of the findings document."
+4. If present, did:webplus method status update
+5. If present, did:webs method status update
+6. Proposal: Weekly 10 minutes hands-on DID use cases demo time. Christian has been visiting multiple other DIF working groups over the last month. There is an enourmous amount of work going on; I propose we take 10 minutes weekly to invite a member to make a quick update on how they are using DIDs.
+
 
 ## Meeting - 11 Mar 2026 - (1800 CET) - Jonathan
 
