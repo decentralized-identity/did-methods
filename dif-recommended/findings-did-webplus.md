@@ -3,7 +3,7 @@
 This "findings" document summarizes the process that led to the status
 of `did:webplus` as a DIF-recommended DID method.
 
-This process is documented here: https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended
+This process is documented here: <https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended>
 
 **Date of this document:** 2nd February 2026
 
@@ -13,27 +13,27 @@ This process is documented here: https://github.com/decentralized-identity/did-m
 
 **DID method specification:** [Current Stable v1.0](https://ledgerdomain.github.io/did-webplus-spec/)
 
-**Open issues (0):** https://github.com/LedgerDomain/did-webplus-spec/issues
+**Open issues (0):** <https://github.com/LedgerDomain/did-webplus-spec/issues>
 
-**PRs (0):** https://github.com/LedgerDomain/did-webplus-spec/pulls
+**PRs (0):** <https://github.com/LedgerDomain/did-webplus-spec/pulls>
 
 ## W3C Registry
 
-**Yes**, see here: https://www.w3.org/TR/did-extensions-methods/ ( https://github.com/w3c/did-extensions/blob/main/methods/webplus.json )
+**Yes**, see here: <https://www.w3.org/TR/did-extensions-methods/> ( <https://github.com/w3c/did-extensions/blob/main/methods/webplus.json> )
 
 ## Method Proposal
 
-**Yes**, see here: https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md
+**Yes**, see here: <https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md>
 
 ## W3C Tests
 
-**Yes**, see here: https://w3c.github.io/did-test-suite/#M53
+**Yes**, see here: <https://w3c.github.io/did-test-suite/#M53>
 
 Number of tested implementations of `did:webplus`: **1**
 
-### Implementation: https://github.com/LedgerDomain/did-webplus (Rust)
+### Implementation: <https://github.com/LedgerDomain/did-webplus> (Rust)
 
-**Results:** https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/did-webplus-ledgerdomain.json
+**Results:** <https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/did-webplus-ledgerdomain.json>
 
 41 passing (v1.1 version)
 
@@ -56,7 +56,7 @@ n/a
 ## DID Traits
 
 **Yes**, see here:
-https://identity.foundation/did-traits/#comparison-of-did-methods
+<https://identity.foundation/did-traits/#comparison-of-did-methods>
 
 ## Multiple Implementations
 
@@ -65,7 +65,7 @@ https://identity.foundation/did-traits/#comparison-of-did-methods
 ## Deployments
 
 **Yes**, in the [OC-i](https://www.oc-i.org/dscsa-authorized-trading-partners) multi-DID production messaging context. see here for cross-method testing artefacts:
-https://github.com/LedgerDomain/oci-interop
+<https://github.com/LedgerDomain/oci-interop>
 
 ## Standardization Target
 
@@ -77,7 +77,7 @@ https://github.com/LedgerDomain/oci-interop
 
 **Date:** Sept 24, 2025 08:58 AM
 
-**Recording:** [link](https://us02web.zoom.us/rec/share/1jJ7EIXc72ARQTQLXK6PXV2-cq0oN7gWlDBXwzD-IkEXpRfnxyxpX2IBZ1rRU23U.saBYCUDcfR2tbKps)
+[Recording](https://us02web.zoom.us/rec/share/1jJ7EIXc72ARQTQLXK6PXV2-cq0oN7gWlDBXwzD-IkEXpRfnxyxpX2IBZ1rRU23U.saBYCUDcfR2tbKps)
 
 Main topics and questions by audience:
 
@@ -94,7 +94,7 @@ All questions answered and issues addressed? **Yes**
 
 **Date:** Oct 29, 2025 08:59 AM
 
-**Recording:** [link](https://us02web.zoom.us/rec/share/aF-Oyy6vsSHTQVotgcMMpdxAMo_I0e3PyvFHl5Wrqy3PbLMsl283eXGb2OBGV0Dr.-f9s4l5thUU_4JpS)
+[Recording](https://us02web.zoom.us/rec/share/aF-Oyy6vsSHTQVotgcMMpdxAMo_I0e3PyvFHl5Wrqy3PbLMsl283eXGb2OBGV0Dr.-f9s4l5thUU_4JpS)
 
 Main topics and questions by audience:
 
@@ -107,7 +107,7 @@ All questions answered and issues addressed? **Yes**
 
 **Date:** Dec 3, 2025 08:58 AM
 
-**Recording:** [link](https://us02web.zoom.us/rec/share/6yRpfB0ZND2JdmmYr6oQz8kYfFturosnG5ohQKxLNS4UXy80VyLuerzeNppo2XQ-.E74fBnNUdLYo1HFM)
+[Recording](https://us02web.zoom.us/rec/share/6yRpfB0ZND2JdmmYr6oQz8kYfFturosnG5ohQKxLNS4UXy80VyLuerzeNppo2XQ-.E74fBnNUdLYo1HFM)
 
 Main topics and questions by audience:
 
@@ -121,7 +121,7 @@ All questions answered and issues addressed? **Yes**
 
 ## Pull Request for DIF-recommended status
 
-https://github.com/decentralized-identity/did-methods/pull/77 **(14 comments)**
+<https://github.com/decentralized-identity/did-methods/pull/77> **(14 comments)**
 
 Main questions and topics:
 
