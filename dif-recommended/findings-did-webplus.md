@@ -60,7 +60,7 @@ https://identity.foundation/did-traits/#comparison-of-did-methods
 
 ## Multiple Implementations
 
-**Yes**: the Rust crate is the only end-to-end implementation hardened and operationalized in production, although there is some language diversity of verification-side applications. The Python proof-of-concept is feature-complete (normative features, anyways) and cross-testable, although it is a little finicky to run locally and only packaged for two architectures. Reviewer has run both implementations locally.
+**Yes**: the Rust crate is the only end-to-end implementation hardened and operationalized in production, although there is some language diversity of verification-side applications. The Python proof-of-concept is feature-complete (normative features, anyway) and cross-testable, although it is a little finicky to run locally and only packaged for two architectures. Reviewer has run both implementations locally.
 
 ## Deployments
 
