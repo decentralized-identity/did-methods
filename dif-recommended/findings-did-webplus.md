@@ -29,7 +29,7 @@ This process is documented here: <https://github.com/decentralized-identity/did-
 
 **Yes**, see here: <https://w3c.github.io/did-test-suite/#M53>
 
-Number of tested implementations of `did:webplus`: **1**
+Number of tested implementations of `did:webplus`: **2** (Rust resolver crate and Python proof-of-concept; see below)
 
 ### Implementation: <https://github.com/LedgerDomain/did-webplus> (Rust)
 
@@ -37,15 +37,19 @@ Number of tested implementations of `did:webplus`: **1**
 
 41 passing (v1.1 version)
 
+### Implementation: <https://github.com/LedgerDomain/poc-did-webplus-py> (Python)
+
+**Results:** n/a (not yet represented as its own entry in the W3C DID test suite implementations tree)
+
 ### Implementation: Universal Resolver
 
-**Results:** n/a
-
-n/a
+**Results:** n/a — official driver **pending** review in <https://github.com/decentralized-identity/universal-resolver/pull/534>
 
 ## Universal Resolver
 
-**YES**, tested locally by reviewer
+**Pending** — driver proposed in <https://github.com/decentralized-identity/universal-resolver/pull/534>.
+
+The method was also exercised via **local testing by reviewers** ahead of Universal Resolver listing.
 
 **Docker image:**
 n/a
@@ -60,7 +64,7 @@ n/a
 
 ## Multiple Implementations
 
-**Yes**: the Rust crate is the only end-to-end implementation hardened and operationalized in production, although there is some language diversity of verification-side applications. The Python proof-of-concept is feature-complete (normative features, anyway) and cross-testable, although it is a little finicky to run locally and only packaged for two architectures. Reviewer has run both implementations locally.
+**Yes** — <https://github.com/LedgerDomain/did-webplus> (Rust): end-to-end implementation hardened and operationalized in production. <https://github.com/LedgerDomain/poc-did-webplus-py> (Python): feature-complete proof-of-concept for normative features, cross-testable with the Rust implementation (see discussion in <https://github.com/decentralized-identity/did-methods/issues/65>); a little finicky to run locally and only packaged for two architectures. Reviewer has run both implementations locally. There is also some language diversity of verification-side applications beyond these two repos.
 
 ## Deployments
 
