@@ -20,7 +20,7 @@ _You are free to propose agenda items for future meetings via pull requests._
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 </details>
 
-## Meeting - 11 Mar 2026 - (1800 CET) - Markus
+## Meeting - 20 May 2026 - (1800 CET) - Jonathan
 
 1. Welcome and Introductions
 2. Logistics
@@ -28,6 +28,101 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. TBD
+
+## Meeting - 13 May 2026 - (1800 CET) - Christian
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 6 May 2026 - (1800 CET) - Jonathan
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 29 Apr 2026 - (1800 CET) - Christian
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 22 Apr 2026 - (1800 CET) - Jonathan
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 15 Apr 2026 - (1800 CET) - Christian
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 8 Apr 2026 - (1800 CET) - Jonathan
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting -  1 Apr 2026 - (1800 CET) - Christian
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 25 Mar 2026 - (1800 CET) - Jonathan
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 18 Mar 2026 - (1800 CET) - Christian
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Review PR: https://github.com/decentralized-identity/did-methods/pull/93 "Update DIF Recommended process to clarify the requirements surrounding the preparation and finalization of the findings document."
+4. If present, did:webplus method status update
+5. If present, did:webs method status update
+6. Proposal: Weekly 10 minutes hands-on DID use cases demo time. Christian has been visiting multiple other DIF working groups over the last month. There is an enourmous amount of work going on; I propose we take 10 minutes weekly to invite a member to make a quick update on how they are using DIDs.
+
+
+## Meeting - 11 Mar 2026 - (1800 CET) - Jonathan
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Review [PR](https://github.com/decentralized-identity/did-methods/pull/92) encoding group decisions into DIF Recommended DID Method process
+4. Discuss policy around creating findings document (how and when is it created/updated, who is allowed to prepare it?)
 
 ## Meeting - 4 Mar 2026 - (1800 CET) - Jonathan
 
@@ -36,34 +131,30 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. Resignation of Markus as chair
+4. Presentation of Christian Saucier as new chair
+5. Clarifying points on DIF Recommended process
+   - Are matrix elements strict requirements or are they meant as guidelines?
+   - What counts as "multiple implementations"?
+   - Is a findings document required?
+     - How independent must the preparer of the findings document be?
+   - Can we support a "provisionally" approved state?
+     - Particularly for `did:webplus` and `did:webs`
 
-## Meeting - 25 Feb 2026 - (1800 CET) - Matt
+## ~~Meeting - 25 Feb 2026 - (1800 CET) - Matt~~ canceled
 
-1. Welcome and Introductions
-2. Logistics
-   - [CONTRIBUTING.md](./CONTRIBUTING.md)
-   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
-   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
-
-## Meeting - 18 Feb 2026 - (1800 CET) - Markus
-
-1. Welcome and Introductions
-2. Logistics
-   - [CONTRIBUTING.md](./CONTRIBUTING.md)
-   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
-   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
-
-## Meeting - 11 Feb 2026 - (1800 CET) - Jonathan
+## Meeting - 18 Feb 2026 - (1800 CET) - Jonathan
 
 1. Welcome and Introductions
 2. Logistics
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. General updates about WG activities
+4. Call for additional co-chairs
+5. Discussion about the the "DIF recommended" process
+
+## ~~Meeting - 11 Feb 2026 - (1800 CET) - Jonathan~~ canceled
 
 ## Meeting - 4 Feb 2026 - (1800 CET) - Matt
 
