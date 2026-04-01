@@ -90,7 +90,13 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. Review [latest PRs](https://github.com/decentralized-identity/did-methods/pulls): 
+   - [Mark did webs as recommended](https://github.com/decentralized-identity/did-methods/pull/86) (Jonathan)
+   - [Add did:cid method standardization proposal](https://github.com/decentralized-identity/did-methods/pull/88) (Christian)
+   - [Proposal for did:hedera method](https://github.com/decentralized-identity/did-methods/pull/90) (Alexander)
+   - [Proposal to add did:ethr to the list of recommended methods](https://github.com/decentralized-identity/did-methods/pull/96) (Mircea)
+4. [DID:webplus](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md) proposal status update (Victor)
+5. Open floor & 10 minutes DIF Hospitality WG presentation showing [DID application for Travel Disruption](https://gamma.app/docs/HATPro-Schema-Travel-Disruption-Use-Case-8wjqoxa30fia4y7?mode=doc).
 
 ## Meeting - 25 Mar 2026 - (1800 CET) - Jonathan
 
