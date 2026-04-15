@@ -71,7 +71,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3.  [DID:webplus](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md) proposal status update (Victor)
-4.  [DID:CID](https://github.com/decentralized-identity/did-methods/pull/88) Deep-Dive 1 (proposed) or Demo
+4.  [DID:ethr](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-ethr.md) Protocol Intro and Proposal Review
 
 ## Meeting - 8 Apr 2026 - (1800 CET) - Jonathan
 
