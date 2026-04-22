@@ -84,11 +84,11 @@ All questions answered and issues addressed? **Yes**
 
 ### Deep Dive 1
 
-**Date:** Apr 15, 2026 17:00 UTC
+**Date:** Apr 15, 2026 17:00 UTC & Apr 22, 2026 17:00 UTC (bis)
 
 [Recording](https://link-to-recording/)
 
-Main topics and questions by audience:
+Main topics and questions by audience (15Apr):
 
 - Tour of [proposal PR](https://github.com/decentralized-identity/ethr-did-resolver/blob/master/doc/did-method-spec.md)
   - sidebar: DID update can rotate control to a smart contract w/arbitrary superpowers (multisig, other keys with precompile, ZK, etc)
@@ -107,6 +107,36 @@ Main topics and questions by audience:
   - Sidebar on multisig
     - Jonathan: but multisig rules/logic not encoded in the did doc, right? Mircea: no, EVM just makes any signer (offchain or on-) an opaque address; you have to look up that logic somewhere else (etherscan for known/public contracts for ex.)
     - Also arbitrary keys can be added to any DID Doc if it has a registered LD-suite; even CProof2022 !!!
+
+[Recording of part 2]()
+
+Main topics and questions by audience (22Apr):
+
+- slower re-run/summary of [walkthrough interactive demo website](https://mirceanis.xyz/ethr-intro/) seen at the end of deep dive 1 part 1 and preview of [ethr-manager](https://mirceanis.xyz/ethr-manager)
+  - EVM basics, registry explanation (DIDOwner === `controller`), etherscan of an emitted event (script extracts transaction ID/blockheight from the registry); possible to live-demo at the etherscan/"raw logs" level but didn't prepare for today (it's hard!)
+  - Slide /#/7: CRUD registry logic diagram 😎
+    - sidebar on The Graph: [trustless!] eventsourcing overlay for tracking registry events in realtime (lower-latency) or historically
+    - sidebar on production applications/usecases: 
+      - Vdods: did:ethr is also used in OCI consortium, which is mentioned [here](https://blog.identity.foundation/regulated-messaging-community/) in our write-up about did:webplus usecases
+  - /#/9: crucially network-scoped/chain-scoped registries
+    - priv networks often gasless, and usecases often "sponsor gas"\
+  - /#/11: what is publishable/changeable - no PII/free-form UGC, just verificationMethods and serviceEndpoints
+    - makki: how does this work on "private chains"? bf: debatable, GDPR still considers verifiable data a publication if it's ever leaked (all chainstate)
+    - makki: implementation history? mircea: launched 2018, used many times in prod across the eth ecosystem (often in permissioned networks)
+  - /#/11: privacy guardrails: only serviceEndpoints and keys
+  - live demo on https://mirceanis.xyz/ethr-manager/ - adding and removing keys, walkthrough of actual calls in metamask confirmation modal
+  - did plane versus control plane: roll "owner" (`controller`) property to a Gnosis Safe (onchain multisig) live demo
+- Q&A
+  - otto: next steps for did:ethr? roadmap? Mircea: few buckets of changes: 
+    - registry learning new ways to interpret these events (add alsoKnownAs, for example, or DID-Linked Resources entries)
+    - registry can be used for other kinds of data (the graph uses variants for diff event-tracking registries NOT of did doc events)
+    - version bump - registries should be versions and can coexist on a given network (querier would need to know which to look in)
+      - possible features/changes: currently registry is a little trustful, just points to prevDoc transaction
+      - feature requests being entertained!
+  - vdods: query params on did resolution? ?versionTime= or ?versionId=?
+    - mircea: they should be supported, use block number as ?versionId instead of monotonic counter
+    - mircea: not sure if versionTime is supported now but once was, can be built into specific resolvers easily
+      - blockheight deterministically timed since The Merge/Eth2.0
 
 All questions answered and issues addressed? **Yes**
 
