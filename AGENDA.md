@@ -45,14 +45,9 @@ _You are free to propose agenda items for future meetings via pull requests._
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. TBD
 
-## Meeting - 29 Apr 2026 - (1800 CET) - Christian
+## Meeting - 29 Apr 2026 - (1800 CET) 
 
-1. Welcome and Introductions
-2. Logistics
-   - [CONTRIBUTING.md](./CONTRIBUTING.md)
-   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
-   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+1. Meeting canceled. Come meet other DIF contributors at the Internet Identity Workshop in Mountain View CA. 
 
 ## Meeting - 22 Apr 2026 - (1800 CET) - Christian
 
