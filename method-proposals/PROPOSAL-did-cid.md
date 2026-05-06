@@ -64,6 +64,21 @@ All `did:cid` identifiers begin life anchored to a Content-Addressable Storage
 Document, making the identifier self-certifying. Updates are registered on a
 user-selected registry that provides ordering guarantees.
 
+### How Gatekeeper Builds a did:cid Document
+
+`did:cid` resolution is deterministic replay of an accepted operation chain.
+Operations from clients, peer gossip, and registry mediators are validated at
+import time — accepted, merged, deferred, replaced, or rejected — into a
+per-DID event chain. Resolution then replays the stored chain into a
+`didDocument` / `didDocumentMetadata` / `didDocumentData` /
+`didResolutionMetadata` result.
+
+![Gatekeeper operation import and DID resolution infographic](https://raw.githubusercontent.com/archetech/archon/main/docs/presentations/gatekeeper-resolution-infographic.png)
+
+A narrative walkthrough of the same pipeline (gates, outcomes, replay options
+including `versionTime`, `versionSequence`, `confirm`, `verify`) is in
+[`gatekeeper-resolution-infographic.md`](https://github.com/archetech/archon/blob/main/docs/presentations/gatekeeper-resolution-infographic.md).
+
 ### Relationship to did:mdip
 
 The `did:cid` method evolved from the MDIP (MultiDimensional Identity Protocol)
@@ -85,12 +100,27 @@ specification refinement focused on:
 - [DID Scheme Specification](https://archetech.com/protocol.html)
 - [Gatekeeper API (OpenAPI)](https://github.com/archetech/archon/blob/main/docs/gatekeeper-api.json)
 - [Keymaster API (OpenAPI)](https://github.com/archetech/archon/blob/main/docs/keymaster-api.json)
+- [`did:cid` Technical Presentation](https://github.com/archetech/archon/blob/main/docs/presentations/did-cid-technical-presentation.md)
+  — slide-level walkthrough of the method: agent vs. asset DIDs, create/update/delete
+  operations, the resolution algorithm, temporal proof verification, registry
+  trade-offs, and Archon node architecture.
 
-### Reference Implementation
+### Reference Implementations
 
-- [Archon Protocol Repository](https://github.com/archetech/archon) (MIT License,
-  v0.7.0)
-- NPM packages: `@didcid/gatekeeper`, `@didcid/keymaster`, `@didcid/cipher`
+- [Archon Protocol Repository](https://github.com/archetech/archon) (MIT License)
+- **TypeScript / Node.js** — original reference implementation. NPM packages:
+  `@didcid/gatekeeper`, `@didcid/keymaster`, `@didcid/cipher`.
+- **Python Keymaster** — native Python library, service, and CLI. Landed in
+  Archon [PR #455](https://github.com/archetech/archon/pull/455); CLI merged
+  into the library in [PR #480](https://github.com/archetech/archon/pull/480);
+  prepared for PyPI in [PR #483](https://github.com/archetech/archon/pull/483).
+  Maintains drop-in parity with the TypeScript Keymaster and exposes
+  `http_requests_total` / `http_request_duration_seconds` /
+  `service_version_info` for observability.
+- **Rust Gatekeeper** — native Rust Gatekeeper service. Landed in Archon
+  [PR #404](https://github.com/archetech/archon/pull/404), with hot-path
+  performance work in [PR #425](https://github.com/archetech/archon/pull/425)
+  (removed full-DB scan from the DID write path).
 
 ### Production Infrastructure
 
@@ -133,7 +163,7 @@ Document here how this DID method meets the
 | **Privacy-preserving crypto** | Yes. Keys generated locally. Challenge/response enables selective disclosure. No correlation through resolution. |
 | **Digitally signed cryptographic log of changes to the DID Document** | Yes. Each update is signed and ordered by registry. Full history reconstructable. Time-travel resolution to any version. |
 | **Multi-factor binding to DNS** | Optional via `did:web` alsoKnownAs linking. Not required for base method. (see [archon.technology did:web](https://explorer.archon.technology/search?did=did:web:archon.technology)) |
-| **Specification with multiple implementers** | In progress. Reference implementation complete in TypeScript/Node.js; Python Gatekeeper implementation planned. Multiple independent node operators (archon.technology, 4tress.org). |
+| **Specification with multiple implementers** | Yes. TypeScript/Node.js reference implementation, plus native **Python Keymaster** ([PR #455](https://github.com/archetech/archon/pull/455), prepared for PyPI in [PR #483](https://github.com/archetech/archon/pull/483)) and native **Rust Gatekeeper** ([PR #404](https://github.com/archetech/archon/pull/404)). Multiple independent node operators (archon.technology, 4tress.org). |
 | **Scope/domain of the types of entities/subjects addressed/named by a particular method** | Universal: humans, organizations, AI agents, IoT devices, credentials, assets. |
 | **Estimate of the daily transaction volume of each scope/domain** | Current: ~8,000 DIDs registered, growing. Target: millions (AI agent identity market). |
 | **DID Methods that do not serve the needs of a particular company or government** | Yes. Open protocol, MIT licensed, no vendor lock-in. Multiple registries prevent single-party control. |
