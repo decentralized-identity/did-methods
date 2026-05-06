@@ -96,8 +96,15 @@ All questions answered and issues addressed? **Yes**
 
 Main topics and questions by audience:
 
-- (Participant 1) Topic 1
-- (Participant 2) Topic 2
+- Blockchain agnostic, update operations can specify a new network.
+- Node architecture
+  - Gatekeeper serves as protocol enforcer, is meant to be run by individuals themselves
+  - Validates operations, stores DID events, resolves DIDs, proxies IPFS
+  - Keymaster holds and signs all DID operations, seeded with a single value to allow for multiple, derived keys
+  - Mediator moves operations between Gatekeeper and registries (blockchain)
+  - IPFS stores content-addressed seed objects and other payloads
+- (Makki Elfatih) What kind of compression is being used when pushing events to the blockchain. Answer is that transactions are not necessarily compressed, but they are batched for cost control purposes.
+- (Jonathan Rayback) Pointed out Sidetree similarity. Also `did:ion`. Will cover more during second deep dive.
 
 All questions answered and issues addressed? **Yes**
 
