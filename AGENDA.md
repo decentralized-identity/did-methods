@@ -34,7 +34,10 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. REVIEW status: [DID:ethr findings](https://github.com/decentralized-identity/did-methods/pull/98) and status.
+4. NEW method proposal: [DID:hedera](https://github.com/decentralized-identity/did-methods/pull/90)
+5. NEW method proposal: [DID:content](https://github.com/decentralized-identity/did-methods/pull/99)
+
 
 ## Meeting - 6 May 2026 - (1800 CET) - Jonathan
 
