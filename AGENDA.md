@@ -18,6 +18,114 @@ _You are free to propose agenda items for future meetings via pull requests._
 - [Subscribe to DIF's calendar](https://calendar.google.com/calendar/u/0?cid=ZGVjZW50cmFsaXplZC5pZGVudGl0eUBnbWFpbC5jb20)
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 
+## Meeting - 12 August 2026 - (1800 CET) - Christian
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 5 August 2026 - (1800 CET) - Jonathan
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 29 July 2026 - (1800 CET) - Christian
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 22 July 2026 - (1800 CET) - Jonathan
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 15 July 2026 - (1800 CET) - Christian
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 8 July 2026 - (1800 CET) - Jonathan
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 1 July 2026 - (1800 CET) - Christian
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 24 June 2026 - (1800 CET) - Jonathan
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 17 June 2026 - (1800 CET) - Christian
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 10 June 2026 - (1800 CET) - Jonathan
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 3 June 2026 - (1800 CET) - Christian
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. TBD
+
+## Meeting - 27 May 2026 - (1800 CET) - Jonathan
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. [DID:CID](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-cid.md) second deep dive
+
 ## ~~Meeting - 20 May 2026 - (1800 CET) - Jonathan~~ canceled in favor of special topics meeting regarding Universal Resolver hosting
 
 ## Meeting - 13 May 2026 - (1800 CET) - Christian
