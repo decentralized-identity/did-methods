@@ -116,8 +116,21 @@ All questions answered and issues addressed? **Yes**
 
 Main topics and questions by audience:
 
-- (Participant 1) Topic 1
-- (Participant 2) Topic 2
+- Comparison with Sidetree
+  - Gatekeeper composes DID Document based on executing the correct series of operations, Sidetree does not.
+  - Sidetree has recovery capabilities such as a recovery key that `did:cid` does not. Recovery occurs at application layer rather than at protocol level.
+  - See [detailed comparison table](https://github.com/archetech/archon/blob/main/docs/sidetree-archon-comparison.md)
+- (Juan Caballero) How do Gatekeepers know where to get all necessary info from?
+  - You can assign helper nodes to fill in missing info for you.
+- (Otto Mora) Is all credential storage local?
+  - Archon is very composable - there are a number of different ways to distribute the pieces.
+  - Different capabilities can be programmed at the service or application layer.
+- (Juan Cabellero) Are there multiple implementations?
+  - There are several implementations that the Archon implementers have done. No external implementations yet.
+  - Gatekeeper has implementations in typescript and  rust. Keymaster has implementations in typescript and python.
+- (Juan Cabellero) What happens if blockchain substrate state is ambiguous?
+  - Gatekeeper will mark ambiguous information as "not confirmed" until it can disambiguate. Wait for confirmation block if high risk is involved.
+  - Mediators handle chain reorgs deterministically.
 
 All questions answered and issues addressed? **Yes**
 
