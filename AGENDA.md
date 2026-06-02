@@ -115,7 +115,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. [did:ethr](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-ethr.md) second deep dive
 
 ## Meeting - 27 May 2026 - (1800 CET) - Jonathan
 
