@@ -86,7 +86,7 @@ All questions answered and issues addressed? **Yes**
 
 **Date:** Apr 15, 2026 17:00 UTC & Apr 22, 2026 17:00 UTC (bis)
 
-[Recording](https://link-to-recording/)
+[Recording](https://us02web.zoom.us/rec/share/Q3F5d2qM1dhcMTQzzdCYwTjcAtswJBjD-LXejwShZc3DRGzpl-DQAnIKhbJISDQ.gaBolbAIoN6VyZMD)
 
 Main topics and questions by audience (15Apr):
 
@@ -144,7 +144,7 @@ All questions answered and issues addressed? **Yes**
 
 **Date:** Jan 01, 2025 00:00 AM
 
-[Recording](https://link-to-recording/)
+[Recording](https://us02web.zoom.us/rec/share/Wz5VJes_1TRMsYRHv8eqMkRVlaXZeG_rubm5I0WEzs2wElF2j4nToUB6bW1YyPCY.r6_ukP-Q93eOAMBY)
 
 Main topics and questions by audience:
 
