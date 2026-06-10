@@ -1,6 +1,7 @@
 # DID method recommendation proposal: did:example
 
-This is a proposal to include `did:example` in the initial set of DID methods that will be standardized by the DID Methods WG.
+This is a proposal to include `did:example` in the initial set
+of DID methods that will be standardized by the DID Methods WG.
 
 ## Description
 
@@ -8,14 +9,15 @@ Include a description of this DID method and rationale for standardizing it.
 
 ## Existing materials
 
-Document here any existing draft specifications, implementations, deployments, test suites, etc. related to this DID method.
+Document here any existing draft specifications, implementations,
+deployments, test suites, etc. related to this DID method.
 
 ## Meeting the selection criteria
 
 Document here how this DID method meets the [DID method selection criteria](../selection-criteria/).
 
 | **Criteria** | **Details** |
-|----------|----------|
+| ------------ | ----------- |
 | **Alignment with DID Core specification** | Lorem ipsum... |
 | **Security and privacy features** | Lorem ipsum... |
 | **Scalability and performance** | Lorem ipsum... |
@@ -44,16 +46,17 @@ Document here how this DID method meets the [DID method selection criteria](../s
 | **Reliable and predictable-latency operation, for updating and resolving** | Lorem ipsum... |
 | **Resolution should not require additional state or context** | Lorem ipsum... |
 | **DIDs are permanent and immutable account identifiers** | Yes. |
-| **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | Lorem ipsum...  |
+| **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | Lorem ipsum... |
 | **Consider categories defined by DID Rubric: <https://www.w3.org/TR/did-rubric/>** | Lorem ipsum... |
 | **Who WANTS to standardize the DID method and commits to doing the work?** | Lorem ipsum... |
-| **Are there AT LEAST two WG members who support standardization of a DID method?** | LLorem ipsum... |
+| **Are there AT LEAST two WG members who support standardization of a DID method?** | Lorem ipsum... |
 | **Are there no trademark or IP issues?** | Lorem ipsum... |
 | **What type of DID method is this?** | Ephemeral / Web-based / Decentralized / Other (please choose one/specify) |
 
 ## Is this DID method already involved in a standardization process? If so, where?
 
-Some DID Methods have or have had standardization working groups looking at them before. Please provide the relevant background for this method.
+Some DID Methods have or have had standardization working groups looking at
+them before. Please provide the relevant background for this method.
 
 ## Supporting use cases
 
