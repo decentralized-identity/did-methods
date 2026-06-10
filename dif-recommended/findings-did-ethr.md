@@ -142,14 +142,25 @@ All questions answered and issues addressed? **Yes**
 
 ### Deep Dive 2
 
-**Date:** Jan 01, 2025 00:00 AM
+**Date:** Jun 01, 2026 17:00 UTC
 
-[Recording](https://link-to-recording/)
+[Recording](https://us02web.zoom.us/rec/play/mAKRu0W7Wdh9NKiH7Svw-NPNxVdYxSiyxB7d_Fl8Ej0VQzbr1_ARW1IClERsd4v-TErHqnsBZqO6cT1t.2nzWtfOrsCX3Zzhl)
 
 Main topics and questions by audience:
 
-- (Participant 1) Topic 1
-- (Participant 2) Topic 2
+- live demos
+  - versionId=blockHeight (more detailed than on first deep dive)
+  - deactivation event sent to chain and confirmed live
+  - delegated signing to multisig contract
+  - expanding an implicit did
+  - minor versioning/backwards-compat: legacy key expressions (allowed in older implementations), canonicalization in more recent versions
+- Q&A
+  - eike: decision not to store JSON diffs/deltas (like Sidetree), and decision to trust most recent valid event's backlink-walk
+    - mircea: alternatives were considered, but no business case for more verbose/free-form/delta-based registry in the community at the time ref impl was designed; alternate registry designs are implicitly allowed (that sidestep or double-check the RPC node oracle), but no one has advocated for that more "crawl whole chain and verify every event" for lack of a business case for it
+  - christian: wait, you mean arbitrary services can be added? i'm going to add an `alsoKnownAs` service to point my did:ethr to the did:cid that controls it!
+  - jonathan: requirements for recommended: w3c test suite, for example?
+    - mircea: i need to update the w3c test suite because of minor breaking changes mentioned in the spec; as i said earlier, uniresolver driver update is in the queue on github
+    - jonathan: well, 60 day window starts today, so don't take too long!
 
 All questions answered and issues addressed? **Yes**
 
