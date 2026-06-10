@@ -1,7 +1,7 @@
-# Findings: did:example DIF-recommended DID method
+# Findings: did:ethr DIF-recommended DID method
 
 This "findings" document summarizes the process that led to the status
-of `did:example` as a DIF-recommended DID method.
+of `did:ethr` as a DIF-recommended DID method.
 
 This process is documented here: <https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended>
 
