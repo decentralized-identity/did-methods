@@ -100,6 +100,7 @@ _You are free to propose agenda items for future meetings via pull requests._
 3. DID Methods Review Updates
    - did:cid review period (Christian)
    - did:ethr review period (Mircea)
+   - did:hedera status (Keith)
    - did:soul schedule intro kickoff
    - did:peer schedule intro kickoff
 4. New DIF Hospitality and Travel Profile
