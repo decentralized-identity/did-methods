@@ -97,7 +97,13 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. DID Methods Review Updates
+   - did:cid review period (Christian)
+   - did:ethr review period (Mircea)
+   - did:soul schedule intro kickoff
+   - did:peer schedule intro kickoff
+4. New DIF Hospitality and Travel Profile
+5. Universal Resolver meeting at the bottom of the hour
 
 ## Meeting - 10 June 2026 - (1800 CET) - Jonathan
 
