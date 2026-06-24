@@ -11,11 +11,8 @@ This process is documented here: [https://github.com/decentralized-identity/did-
 
 **DID method:** `did:hedera`
 
-**DID method specification:** [v1.0](https://link-to-specification)
+**DID method specification:** [v2.0](https://github.com/hashgraph/did-method)
 
-**Open issues (3):** [https://github.com/org/didexamplemethod/issues](https://github.com/org/didexamplemethod/issues)
-
-**PRs (1):** [https://github.com/org/didexamplemethod/pulls](https://github.com/org/didexamplemethod/pulls)
 
 ## W3C Registry
 
@@ -23,27 +20,21 @@ This process is documented here: [https://github.com/decentralized-identity/did-
 
 ## Method Proposal
 
-**Yes**, see here: [https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-example.md](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-example.md)
+**Yes**, https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-hedera.md
 
 ## W3C Tests
 
-**Yes**, see here: [https://w3c.github.io/did-test-suite/#M00](https://w3c.github.io/did-test-suite/#M00)
+**TBD**
 
-Number of tested implementations of `did:example`: **1**
+Number of tested implementations : multiple. See hashgraph: https://hedera.com/use-cases/decentralized-identity/
 
-### Implementation: [https://github.com/decentralized-identity/didexample-py](https://github.com/decentralized-identity/didexample-py)
-
-**Results:** [https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/did-example-dif-py.json](https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/did-example-dif-py.json)
-
-37 passing
+### Implementation: 
+https://github.com/hiero-ledger/hiero-did-sdk-js
 
 ## Universal Resolver
 
 **Yes**, see here:
-[https://github.com/decentralized-identity/universal-resolver/blob/0000000000000000000000000000000000000000/docker-compose.yml#L000](https://github.com/decentralized-identity/universal-resolver/blob/0000000000000000000000000000000000000000/docker-compose.yml#L000)
-
-**Docker image:**
-[https://ghcr.io/decentralized-identity/uni-resolver-driver-did-example:v1.0.0](https://ghcr.io/decentralized-identity/uni-resolver-driver-did-example:v1.0.0)
+[https://dev.uniresolver.io/#did:hedera:testnet:23g2MabDNq3KyB7oeH9yYZsJTRVeQ24DqX8o6scB98e3_0.0.5217215]
 
 **Example query:**
 [https://dev.uniresolver.io/#did:example:000](https://dev.uniresolver.io/#did:example:000)
@@ -56,12 +47,12 @@ Number of tested implementations of `did:example`: **1**
 ## Multiple Implementations
 
 **Yes**, see here:
-[https://link-to-information-about-implementations/](https://link-to-information-about-implementations/)
+[https://hedera.com/use-cases/decentralized-identity/]
 
 ## Deployments
 
 **Yes**, see here:
-[https://link-to-information-about-deployments/](https://link-to-information-about-deployments/)
+https://hedera.com/
 
 ## Standardization Target
 
@@ -85,8 +76,10 @@ Main topics and questions by audience:
 - Juan asked about multi-signature functionality. Keith clarified that multi-sig applies to topics, not messages themselves.
 - Juan asked about the role of blockchain in signing of transactions. Keith clarified that the blockchain account is not related to the DID document signatures. The DID documents can be stored anywhere, including non-blockchain layers like IPFS.
 - Otto asked about relations between DIDs and Verifiable Credentials. Keith clarified that the VCs are not part of the DID method, which focuses on CRUD operations.
+- Discussion about registration, trust, and validation of messages.
+- Deep Dive 1 could include a discussion about the different trust layers involved in a did:hedera document.
 
-All questions answered and issues addressed? **Yes**
+All questions answered and issues addressed? ** Juan to reach out to Keith to discuss blockchain role **
 
 **Date:** Jan 01, 2025 00:00 AM
 
@@ -101,7 +94,7 @@ All questions answered and issues addressed? **Yes**
 
 ### Deep Dive 1
 
-**Date:** Jan 01, 2025 00:00 AM
+**Date:** TBD
 
 [Recording](https://link-to-recording/)
 
@@ -114,7 +107,7 @@ All questions answered and issues addressed? **Yes**
 
 ### Deep Dive 2
 
-**Date:** Jan 01, 2025 00:00 AM
+**Date:** TBD
 
 [Recording](https://link-to-recording/)
 
@@ -127,7 +120,7 @@ All questions answered and issues addressed? **Yes**
 
 ## Pull Request for DIF-recommended status
 
-[https://github.com/decentralized-identity/did-methods/pull/00](https://github.com/decentralized-identity/did-methods/pull/00) **(3 comments)**
+
 
 Main questions and topics:
 
