@@ -79,7 +79,15 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. DID Methods Review Updates
+   - did:cid review period update (Christian)
+   - did:ethr review period (Mircea)
+   - did:hedera Deep Dive 1 schedule (Keith)
+   - did:soul schedule intro kickoff (Arpita)
+   - did:peer schedule intro kickoff
+4. New DIF Hospitality and Travel Demo
+   - hatpro.archon.technology
+   - We are looking for DIDComm partners
 
 ## Meeting - 24 June 2026 - (1800 CET) - Jonathan
 
