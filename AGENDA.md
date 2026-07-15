@@ -62,7 +62,8 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. did:cid updates: DID Resolution now conforms with W3C scheme.
-4. did:soul Introduction presentation
+4. did:hedera updates: Keith?
+5. did:soul Introduction presentation
 
 ~~## Meeting - 8 July 2026 - (1800 CET) - Jonathan~~ canceled
 
