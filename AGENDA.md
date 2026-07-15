@@ -61,9 +61,14 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. did:cid updates: DID Resolution now conforms with W3C scheme.
-4. did:hedera updates: Keith?
+3. did:cid updates: 
+   - DID Resolution now conforms with W3C scheme.  
+   - [did:cid PR updates](https://github.com/decentralized-identity/did-methods/pull/103)
+4. did:hedera updates: 
+   - Keith looking into W3C DID Test suite. 
+   - Need to schedule a deep-dive and agree on scope of deep-dive. 
 5. did:soul Introduction presentation
+   - https://github.com/soulverse-ecosystem
 
 ~~## Meeting - 8 July 2026 - (1800 CET) - Jonathan~~ canceled
 
