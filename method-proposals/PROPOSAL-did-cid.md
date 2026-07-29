@@ -39,30 +39,16 @@ creation based on their specific requirements:
 | Registry    | Speed   | Cost            | Finality | Best For                      |
 | ----------- | ------- | --------------- | -------- | ----------------------------- |
 | Hyperswarm  | Seconds | Free            | Eventual | Development, internal systems |
-| Bitcoin     | ~60 min | ~$0.001/batch   | Strong   | Enterprise, legal identity    |
-| Feathercoin | ~15 min | ~$0.00001/batch | Strong   | Cost-sensitive applications   |
+| Bitcoin     | ~60 min | ~$0.001/batch   | Strong   | Enterprise, legal identity    |  
 
 DIDs can also migrate between registries after creation (e.g., from Hyperswarm
 to Bitcoin) as requirements evolve, without changing the DID identifier itself.
 
 ### DID Lifecycle
 
-```text
-┌─────────────┐    ┌─────────────┐    ┌─────────────┐
-│   CREATE    │───▶│   UPDATE    │───▶│   RESOLVE   │
-│  (via CAS)  │    │ (Registry)  │    │ (Any Node)  │
-└─────────────┘    └─────────────┘    └─────────────┘
-      │                  │                   │
-      ▼                  ▼                   ▼
-   Instant           Batched to          Reconstruct
-   Global           Blockchain           DID Document
-   Free             (optional)           from history
-```
-
 All `did:cid` identifiers begin life anchored to a Content-Addressable Storage
 (CAS) network such as IPFS. The CID itself is derived from the initial DID
-Document, making the identifier self-certifying. Updates are registered on a
-user-selected registry that provides ordering guarantees.
+Document, making the identifier self-certifying. Updates are registered on a user-selected registry that provides ordering guarantees.
 
 ### How Gatekeeper Builds a did:cid Document
 
@@ -79,25 +65,11 @@ A narrative walkthrough of the same pipeline (gates, outcomes, replay options
 including `versionTime`, `versionSequence`, `confirm`, `verify`) is in
 [`gatekeeper-resolution-infographic.md`](https://github.com/archetech/archon/blob/main/docs/presentations/gatekeeper-resolution-infographic.md).
 
-### Relationship to did:mdip
-
-The `did:cid` method evolved from the MDIP (MultiDimensional Identity Protocol)
-implementation. While sharing architectural concepts, `did:cid` represents a
-specification refinement focused on:
-
-1. **Clearer naming**: "Content IDentifier" explicitly describes the
-   cryptographic foundation
-2. **W3C alignment**: Tighter conformance with DID Core specification, W3C JWE
-   standard for encryption, and W3C VC Data Model v2 for credentials
-3. **Simplified resolution**: Streamlined DID Document format
-4. **Production infrastructure**: Public nodes, universal resolver integration,
-   production tooling
-
 ## Existing Materials
 
 ### Specifications
 
-- [DID Scheme Specification](https://archetech.com/protocol.html)
+- [DID Scheme Specification](https://archon.technology/specs)
 - [Gatekeeper API (OpenAPI)](https://github.com/archetech/archon/blob/main/docs/gatekeeper-api.json)
 - [Keymaster API (OpenAPI)](https://github.com/archetech/archon/blob/main/docs/keymaster-api.json)
 - [`did:cid` Technical Presentation](https://github.com/archetech/archon/blob/main/docs/presentations/did-cid-technical-presentation.md)
@@ -117,7 +89,7 @@ specification refinement focused on:
   Maintains drop-in parity with the TypeScript Keymaster and exposes
   `http_requests_total` / `http_request_duration_seconds` /
   `service_version_info` for observability.
-- **Rust Gatekeeper** — native Rust Gatekeeper service. Landed in Archon
+- **Rust Gatekeeper** — native Rust Gatekeeper service. Archon
   [PR #404](https://github.com/archetech/archon/pull/404), with hot-path
   performance work in [PR #425](https://github.com/archetech/archon/pull/425)
   (removed full-DB scan from the DID write path).
@@ -146,7 +118,6 @@ specification refinement focused on:
 - TypeScript/JavaScript SDK
 - Python SDK
 - Python Keymaster
-- Rust Gatekeeper
 - MCP Keymaster
 
 ## Meeting the selection criteria
@@ -193,10 +164,7 @@ Document here how this DID method meets the
 
 ## Is this DID method already involved in a standardization process? If so, where?
 
-The predecessor protocol (MDIP) has a separate DIF proposal (`did:mdip`). The
-`did:cid` method represents an evolution with distinct identifiers and refined
-specification. This proposal seeks independent standardization for `did:cid`
-while acknowledging shared architectural heritage.
+no.
 
 The Universal Resolver driver for `did:cid` has been submitted for inclusion in
 the DIF Universal Resolver.
