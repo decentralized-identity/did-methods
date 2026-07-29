@@ -145,6 +145,9 @@ specification refinement focused on:
 - CLI (`@didcid/archon`)
 - TypeScript/JavaScript SDK
 - Python SDK
+- Python Keymaster
+- Rust Gatekeeper
+- MCP Keymaster
 
 ## Meeting the selection criteria
 
@@ -157,15 +160,15 @@ Document here how this DID method meets the
 | **Security and privacy features** | Yes. Ed25519/secp256k1 keys, W3C JWE encrypted DID documents, selective disclosure via challenge/response. |
 | **Scalability and performance** | Yes. CAS-based creation scales infinitely. Multi-registry architecture allows throughput/cost optimization. Benchmarked DID resolution performance. |
 | **Ease of implementation and use** | Yes. Docker deployment in minutes. NPM packages for JS/TS. Python SDK. REST APIs for any language. |
-| **Community adoption and support** | Growing. ~8,000 DIDs registered. Production deployments at archon.social and 4tress.org. Integration with AI agent ecosystems. |
+| **Community adoption and support** | Yes. 10,000+ DIDs registered. Production deployments at archon.social and 4tress.org. Integration with AI agent ecosystems. Adoption by independently operated https://agentprivacy.ai/hearthold |
 | **Compliance with relevant regulations and best practices** | Yes. Standard cryptographic libraries, auditable operations, GDPR-compatible (user-controlled data). |
 | **Global government-approved crypto** | Yes. Ed25519, secp256k1, AES-256-GCM — all widely approved algorithms. |
 | **Privacy-preserving crypto** | Yes. Keys generated locally. Challenge/response enables selective disclosure. No correlation through resolution. |
 | **Digitally signed cryptographic log of changes to the DID Document** | Yes. Each update is signed and ordered by registry. Full history reconstructable. Time-travel resolution to any version. |
 | **Multi-factor binding to DNS** | Optional via `did:web` alsoKnownAs linking. Not required for base method. (see [archon.technology did:web](https://explorer.archon.technology/search?did=did:web:archon.technology)) |
-| **Specification with multiple implementers** | Yes. TypeScript/Node.js reference implementation, plus native **Python Keymaster** ([PR #455](https://github.com/archetech/archon/pull/455), prepared for PyPI in [PR #483](https://github.com/archetech/archon/pull/483)) and native **Rust Gatekeeper** ([PR #404](https://github.com/archetech/archon/pull/404)). Multiple independent node operators (archon.technology, 4tress.org). |
+| **Specification with multiple implementers** | Yes. TypeScript/Node.js reference implementation, plus native **Python Keymaster** ([PR #455](https://github.com/archetech/archon/pull/455), prepared for PyPI in [PR #483](https://github.com/archetech/archon/pull/483)) and native **Rust Gatekeeper** ([PR #404](https://github.com/archetech/archon/pull/404)). Multiple independent node operators (archon.technology, 4tress.org). Specialized configuration for offline deployments https://github.com/flaxscrip/aegis |
 | **Scope/domain of the types of entities/subjects addressed/named by a particular method** | Universal: humans, organizations, AI agents, IoT devices, credentials, assets. |
-| **Estimate of the daily transaction volume of each scope/domain** | Current: ~8,000 DIDs registered, growing. Target: millions (AI agent identity market). |
+| **Estimate of the daily transaction volume of each scope/domain** | Current: 10,000+ DIDs registered, growing. Target: millions (AI agent identity market). |
 | **DID Methods that do not serve the needs of a particular company or government** | Yes. Open protocol, MIT licensed, no vendor lock-in. Multiple registries prevent single-party control. |
 | **Governance: Clear frameworks for updates, dispute resolution, and decision-making** | OSS governance via GitHub. Protocol changes through community RFC process. |
 | **Usability: Simple implementation for developers** | Yes. Full node deployment in <5 minutes. SDK available on NPM and PyPI. REST API for all operations. |
@@ -184,7 +187,7 @@ Document here how this DID method meets the
 | **Consider support for various DID Traits: <https://identity.foundation/did-traits/>** | Supports: Decentralized, Persistent, Cryptographically Verifiable, Resolvable. |
 | **Consider categories defined by DID Rubric: <https://www.w3.org/TR/did-rubric/>** | Category: Decentralized (no single point of control or failure). |
 | **Who WANTS to standardize the DID method and commits to doing the work?** | Archetech (archetech.com) — Christian Saucier, David Cypher. Committed to spec development and maintenance. |
-| **Are there AT LEAST two WG members who support standardization of a DID method?** | Seeking WG member support through this proposal. |
+| **Are there AT LEAST two WG members who support standardization of a DID method?** | Christian Saucier, David Cypher, TBD Otto?, TBD Mitchell? . |
 | **Are there no trademark or IP issues?** | Yes. MIT License. "Archon" trademark held by Archetech for protocol branding only. |
 | **What type of DID method is this?** | Decentralized |
 
@@ -209,6 +212,8 @@ services. `did:cid` provides:
 - Verifiable credentials for capability attestation
 - Challenge/response authentication without passwords
 - DID-to-DID Lightning micropayments for agent services
+- MCP Keymaster
+- DIDComm support
 
 ### 2. Decentralized Naming (archon.social)
 
@@ -236,7 +241,7 @@ exchange.
 ### 6. Privacy-Preserving Voting
 
 Anonymous voting with verifiable eligibility using group credentials and spoil
-ballots.
+ballots. 
 
 ## Contact
 
