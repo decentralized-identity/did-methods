@@ -34,7 +34,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. Review PR for marking `did:cid` as DIF Recommended.
 
 ## Meeting - 29 July 2026 - (1800 CET) - Christian
 
@@ -43,7 +43,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. Discuss next steps for `did:cid` now that review period is over.
 
 ~~## Meeting - 22 July 2026 - (1800 CET) - Jonathan~~ canceled
 
