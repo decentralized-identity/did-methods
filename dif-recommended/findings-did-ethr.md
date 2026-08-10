@@ -27,9 +27,9 @@ This process is documented here: <https://github.com/decentralized-identity/did-
 
 ## W3C Tests
 
-**Yes**, see here: <https://w3c.github.io/did-test-suite/#M14>
+**Yes**, see here: [<https://w3c.github.io/did-test-suite/#M14>](https://github.com/w3c/did-test-suite/pull/241)
 
-Number of tested implementations of `did:ethr`: **TBD**
+Number of tested implementations of `did:ethr`: 1
 
 ### Implementation: <https://github.com/decentralized-identity/ethr-did-resolver/>
 
@@ -43,25 +43,27 @@ Number of tested implementations of `did:ethr`: **TBD**
 <https://github.com/decentralized-identity/universal-resolver/blob/1410aff24131f2e0fbc5151a5954a452b45b170d/uni-resolver-web/src/main/resources/application.yml#L73-L80>
 
 **Docker image:**
-n/a
+[Hub.docker.com](https://hub.docker.com/r/uport/uni-resolver-driver-did-uport)
 
 **Example query:**
 <https://dev.uniresolver.io/#did:ethr:mainnet:0x3b0bc51ab9de1e5b7b6e34e5b960285805c41736>
 
 ## DID Traits
 
-**NOT YET**, see here:
-<https://github.com/decentralized-identity/did-traits/tree/main/methods>
+**Yes**, see here:  <https://github.com/decentralized-identity/did-traits#69>
 
 ## Multiple Implementations
 
-**TBD**, see here:
-<https://link-to-information-about-implementations/>
+**Yes**
+- Rust implementation: <https://github.com/spruceid/ssi#698>
+- .net implementation: <https://moisesja/net-did#70>
+
+Also, an independent but non-compliant resolver implementation, using the same infrastructure: 
+- <https://github.com/energywebfoundation/ew-did-registry/tree/development/packages/did-ethr-resolver>
 
 ## Deployments
 
-**TBD**, see here:
-<https://link-to-information-about-deployments/>
+This list of registry contract deployments for various networks: <https://github.com/decentralized-identity/ethr-did-resolver/blob/master/src/config/deployments.ts>
 
 ## Standardization Target
 
@@ -166,11 +168,6 @@ All questions answered and issues addressed? **Yes**
 
 ## Pull Request for DIF-recommended status
 
-<https://github.com/decentralized-identity/did-methods/pull/00> **(3 comments)**
-
-Main questions and topics:
-
-- (Participant 1) Topic 1
-- (Participant 2) Topic 2
+<https://github.com/decentralized-identity/did-methods/pull/104>
 
 All questions answered and issues addressed? **Yes**
