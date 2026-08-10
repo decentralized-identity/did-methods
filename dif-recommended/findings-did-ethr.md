@@ -1,7 +1,7 @@
-# Findings: did:example DIF-recommended DID method
+# Findings: did:ethr DIF-recommended DID method
 
 This "findings" document summarizes the process that led to the status
-of `did:example` as a DIF-recommended DID method.
+of `did:ethr` as a DIF-recommended DID method.
 
 This process is documented here: <https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended>
 
@@ -27,15 +27,13 @@ This process is documented here: <https://github.com/decentralized-identity/did-
 
 ## W3C Tests
 
-**Yes**, see here: <https://w3c.github.io/did-test-suite/#M14>
+**Yes**, see here: [<https://w3c.github.io/did-test-suite/#M14>](https://github.com/w3c/did-test-suite/pull/241)
 
-Number of tested implementations of `did:ethr`: **TBD**
+Number of tested implementations of `did:ethr`: 1
 
 ### Implementation: <https://github.com/decentralized-identity/ethr-did-resolver/>
 
 **Results:** <https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/dereferencer-ethr-2021-consensys-mesh.json>
-
-2 passing
 
 ## Universal Resolver
 
@@ -43,29 +41,27 @@ Number of tested implementations of `did:ethr`: **TBD**
 <https://github.com/decentralized-identity/universal-resolver/blob/1410aff24131f2e0fbc5151a5954a452b45b170d/uni-resolver-web/src/main/resources/application.yml#L73-L80>
 
 **Docker image:**
-n/a
+<https://hub.docker.com/r/uport/uni-resolver-driver-did-uport>
 
 **Example query:**
 <https://dev.uniresolver.io/#did:ethr:mainnet:0x3b0bc51ab9de1e5b7b6e34e5b960285805c41736>
 
 ## DID Traits
 
-**NOT YET**, see here:
-<https://github.com/decentralized-identity/did-traits/tree/main/methods>
+**Yes**, see here:  <https://github.com/decentralized-identity/did-traits#69>
 
 ## Multiple Implementations
 
-**TBD**, see here:
-<https://link-to-information-about-implementations/>
+**Yes**
+- Rust implementation: <https://github.com/spruceid/ssi#698>
+- .net implementation: <https://moisesja/net-did#70>
+
+Also, an independent but non-compliant resolver implementation, using the same infrastructure: 
+- <https://github.com/energywebfoundation/ew-did-registry/tree/development/packages/did-ethr-resolver>
 
 ## Deployments
 
-**TBD**, see here:
-<https://link-to-information-about-deployments/>
-
-## Standardization Target
-
-**TBD**
+This list of registry contract deployments for various networks: <https://github.com/decentralized-identity/ethr-did-resolver/blob/master/src/config/deployments.ts>
 
 ## Presentations and Deep Dives
 
@@ -78,7 +74,6 @@ n/a
 Main topics and questions by audience:
 
 - Drummond: Is this a SCID? Mircea: Yes, initial is SCID, blockchain is witness to verifiable history
-- (Participant 2) Topic 2
 
 All questions answered and issues addressed? **Yes**
 
@@ -86,7 +81,7 @@ All questions answered and issues addressed? **Yes**
 
 **Date:** Apr 15, 2026 17:00 UTC & Apr 22, 2026 17:00 UTC (bis)
 
-[Recording](https://link-to-recording/)
+[Recording](https://us02web.zoom.us/rec/share/Q3F5d2qM1dhcMTQzzdCYwTjcAtswJBjD-LXejwShZc3DRGzpl-DQAnIKhbJISDQ.gaBolbAIoN6VyZMD)
 
 Main topics and questions by audience (15Apr):
 
@@ -166,11 +161,6 @@ All questions answered and issues addressed? **Yes**
 
 ## Pull Request for DIF-recommended status
 
-<https://github.com/decentralized-identity/did-methods/pull/00> **(3 comments)**
-
-Main questions and topics:
-
-- (Participant 1) Topic 1
-- (Participant 2) Topic 2
+<https://github.com/decentralized-identity/did-methods/pull/104>
 
 All questions answered and issues addressed? **Yes**
