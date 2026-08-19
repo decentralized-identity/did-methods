@@ -25,7 +25,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. Short meeting. Christian agreed to review the did:ethr proposal and findings. Documents are complete and method is ready for Recommendation. 
 
 ## Meeting - 5 August 2026 - (1800 CET) - Jonathan
 
