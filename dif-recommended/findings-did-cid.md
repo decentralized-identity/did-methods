@@ -1,7 +1,3 @@
-<!-- **Note:** This is a template for a "findings" document which documents
-the steps that have been taken by a DID method to achieve
-"DIF-recommended" status. -->
-
 # Findings: did:cid DIF-recommended DID method
 
 This "findings" document summarizes the process that led to the status
@@ -9,75 +5,86 @@ of `did:cid` as a DIF-recommended DID method.
 
 This process is documented here: <https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended>
 
-**Date of this document:** 8th April 2026
+**Date of this document:** 3rd August 2026
 
 ## Overview
 
 **DID method:** `did:cid`
 
-**DID method specification:** [v1.0](https://link-to-specification)
+**DID method specification:** [Specification](https://archon.technology/specs) ([source](https://github.com/archetech/archon/blob/main/docs/scheme.md); Archon [v0.11.0](https://github.com/archetech/archon/releases/tag/v0.11.0))
 
-**Open issues (3):** <https://github.com/org/didexamplemethod/issues>
+**Open issues (36):** <https://github.com/archetech/archon/issues>
 
-**PRs (1):** <https://github.com/org/didexamplemethod/pulls>
+**PRs (18):** <https://github.com/archetech/archon/pulls>
 
 ## W3C Registry
 
-**Yes**, see here: <https://www.w3.org/TR/did-extensions-methods/>
+**Yes**, see here: <https://www.w3.org/TR/did-extensions-methods/> (<https://github.com/w3c/did-extensions/blob/main/methods/cid.json>)
 
 ## Method Proposal
 
-**Yes**, see here: <https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-example.md>
+**Yes**, see here: <https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-cid.md>
 
 ## W3C Tests
 
-**Yes**, see here: <https://w3c.github.io/did-test-suite/#M00>
+**Yes**, see here: <https://w3c.github.io/did-test-suite/> (fixture added in <https://github.com/w3c/did-test-suite/pull/240>)
 
-Number of tested implementations of `did:example`: **1**
+Number of tested implementations of `did:cid`: **1**
 
-### Implementation: <https://github.com/decentralized-identity/didexample-py>
+### Implementation: <https://github.com/archetech/archon>
 
-**Results:** <https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/did-example-dif-py.json>
+**Results:** <https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/did-cid.json>
 
-37 passing
+Published suite report includes Archon `did:cid` results (e.g. 58 / 3 identifier-related counts; 38 production for DID v1.0 and DID v1.1).
 
 ## Universal Resolver
 
-**Yes**, see here:
-<https://github.com/decentralized-identity/universal-resolver/blob/0000000000000000000000000000000000000000/docker-compose.yml#L000>
+**Pending** — driver proposed in <https://github.com/decentralized-identity/universal-resolver/pull/573>.
+
+Driver source: <https://github.com/archetech/uni-resolver-driver-did-cid>
 
 **Docker image:**
-<https://ghcr.io/decentralized-identity/uni-resolver-driver-did-example:v1.0.0>
+<https://ghcr.io/archetech/uni-resolver-driver-did-cid:0.1.0>
 
-**Example query:**
-<https://dev.uniresolver.io/#did:example:000>
+**Example query (Archon-hosted resolver):**
+<https://resolver.archon.technology/1.0/identifiers/did:cid:bagaaieraxdxq4fm2kjh6yqjxjor3t2idczkmxd4v7in4u353fa6m6sms2pnq>
 
 ## DID Traits
 
-**Yes**, see here:
+**Pending** — traits submission proposed in <https://github.com/decentralized-identity/did-traits/pull/70>.
+
+Comparison table (once merged):
 <https://identity.foundation/did-traits/#comparison-of-did-methods>
+
+The method proposal notes support for Decentralized, Persistent, Cryptographically Verifiable, and Resolvable traits.
 
 ## Multiple Implementations
 
 **Yes**, see here:
-<https://link-to-information-about-implementations/>
+<https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-cid.md>
+
+- TypeScript / Node.js reference implementation (`@didcid/gatekeeper`, `@didcid/keymaster`, `@didcid/cipher`) in <https://github.com/archetech/archon>
+- Native Python Keymaster: <https://github.com/archetech/archon/pull/455>
+- Native Rust Gatekeeper: <https://github.com/archetech/archon/pull/404>
 
 ## Deployments
 
 **Yes**, see here:
-<https://link-to-information-about-deployments/>
+<https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-cid.md>
+
+Production infrastructure includes Gatekeeper API, DID explorer, web wallet, naming service, and independently operated nodes (e.g. archon.technology, 4tress.org).
 
 ## Standardization Target
 
-**Yes**, W3C
+**No**, further standardization not currently sought
 
 ## Presentations and Deep Dives
 
 ### Initial Presentation
 
-**Date:** Jan 01, 2025 00:00 AM
+**Date:** Apr 8, 2026
 
-[Recording](https://link-to-recording/)
+[Recording](https://us02web.zoom.us/rec/share/qh6ihv-jW1RlJQ2eGT-1ysJE4dpswngJ65BogDwub5K3g29m74ncuIegXFsOukgI.pyISp0q_iHUSii8k)
 
 Main topics and questions by audience:
 
@@ -90,9 +97,9 @@ All questions answered and issues addressed? **Yes**
 
 ### Deep Dive 1
 
-**Date:** Jan 01, 2025 00:00 AM
+**Date:** May 6, 2026
 
-[Recording](https://link-to-recording/)
+[Recording](https://us02web.zoom.us/rec/share/RTa6XRppMds3qvx9juugTRQHRzM2oVrtXwRZOoQEYUDZjeXPyz0HinkuOULeVSCH.r36x4ne12WUxYakv)
 
 Main topics and questions by audience:
 
@@ -110,9 +117,9 @@ All questions answered and issues addressed? **Yes**
 
 ### Deep Dive 2
 
-**Date:** Jan 01, 2025 00:00 AM
+**Date:** May 27, 2026
 
-[Recording](https://link-to-recording/)
+[Recording](https://us02web.zoom.us/rec/share/RHeE9hypV_3MLi4zxaQs8wZ6VJt2sA-15xnf8JMESVho5gNFCI-WMJh7CDqGIrsZ.6lMQN_gtrkBWyokf)
 
 Main topics and questions by audience:
 
@@ -136,11 +143,16 @@ All questions answered and issues addressed? **Yes**
 
 ## Pull Request for DIF-recommended status
 
-<https://github.com/decentralized-identity/did-methods/pull/00> **(3 comments)**
+<https://github.com/decentralized-identity/did-methods/pull/103> **(15 comments)**
 
 Main questions and topics:
 
-- (Participant 1) Topic 1
-- (Participant 2) Topic 2
+- (jrayback) Opened the 60-day formal review period (ending 26 Jul 2026)
+- (ottomorac) Requested W3C DID Methods Registry listing and W3C DID test-suite coverage before approval
+- (Flaxscrip) Add Privacy and Security considerations per DID Core; later reported DID-Core-conformant published specs at <https://archon.technology/specs>
+- (jrayback) Register any non-core DID document properties; (Flaxscrip) no additional property registration needed after Core alignment
+- (Flaxscrip) Confirmed W3C registry entry; published Universal Resolver driver image; opened Universal Resolver driver PR <https://github.com/decentralized-identity/universal-resolver/pull/573>
+- (ottomorac / macterra) W3C test-suite PR <https://github.com/w3c/did-test-suite/pull/240> progressed from draft to review and was merged
+- (gobengo) Asked whether the method is compatible with [“DIF is for humans”](https://blog.identity.foundation/dif-is-for-humans/); (GraceRachmany) clarified that DIF AI policy applies to DIF-owned repositories, `did:cid` is not a DIF-donated work item, and the WG can review the request on its merits; (Flaxscrip) confirmed human authorship of contributions
 
 All questions answered and issues addressed? **Yes**

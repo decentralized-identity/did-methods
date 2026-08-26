@@ -25,7 +25,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. Short meeting. Christian agreed to review the did:ethr proposal and findings. Documents are complete and method is ready for Recommendation. 
 
 ## Meeting - 5 August 2026 - (1800 CET) - Jonathan
 
@@ -34,7 +34,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. Review PR for marking `did:cid` as DIF Recommended.
 
 ## Meeting - 29 July 2026 - (1800 CET) - Christian
 
@@ -43,16 +43,9 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. Discuss next steps for `did:cid` now that review period is over.
 
-## Meeting - 22 July 2026 - (1800 CET) - Jonathan
-
-1. Welcome and Introductions
-2. Logistics
-   - [CONTRIBUTING.md](./CONTRIBUTING.md)
-   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
-   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+~~## Meeting - 22 July 2026 - (1800 CET) - Jonathan~~ canceled
 
 ## Meeting - 15 July 2026 - (1800 CET) - Christian
 
@@ -61,16 +54,16 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. did:cid updates: 
+   - DID Resolution now conforms with W3C scheme.  
+   - [did:cid PR updates](https://github.com/decentralized-identity/did-methods/pull/103)
+4. did:hedera updates: 
+   - Keith looking into W3C DID Test suite. 
+   - Need to schedule a deep-dive and agree on scope of deep-dive. 
+5. did:soul Introduction presentation
+   - https://github.com/soulverse-ecosystem
 
-## Meeting - 8 July 2026 - (1800 CET) - Jonathan
-
-1. Welcome and Introductions
-2. Logistics
-   - [CONTRIBUTING.md](./CONTRIBUTING.md)
-   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
-   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+~~## Meeting - 8 July 2026 - (1800 CET) - Jonathan~~ canceled
 
 ## Meeting - 1 July 2026 - (1800 CET) - Christian
 
@@ -79,7 +72,15 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. DID Methods Review Updates
+   - did:cid review period update (Christian)
+   - did:ethr review period (Mircea)
+   - did:hedera Deep Dive 1 schedule (Keith)
+   - did:soul schedule intro kickoff (Arpita)
+   - did:peer schedule intro kickoff
+4. New DIF Hospitality and Travel Demo
+   - hatpro.archon.technology
+   - We are looking for DIDComm partners
 
 ## Meeting - 24 June 2026 - (1800 CET) - Jonathan
 
@@ -88,7 +89,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. [DID:Hedera](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-hedera.md) initial presentation.
 
 ## Meeting - 17 June 2026 - (1800 CET) - Christian
 
@@ -97,7 +98,14 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. TBD
+3. DID Methods Review Updates
+   - did:cid review period (Christian)
+   - did:ethr review period (Mircea)
+   - did:hedera status (Keith)
+   - did:soul schedule intro kickoff
+   - did:peer schedule intro kickoff
+4. New DIF Hospitality and Travel Profile
+5. Universal Resolver meeting at the bottom of the hour
 
 ## Meeting - 10 June 2026 - (1800 CET) - Jonathan
 

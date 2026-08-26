@@ -35,15 +35,13 @@ Number of tested implementations of `did:ethr`: 1
 
 **Results:** <https://github.com/w3c/did-test-suite/blob/main/packages/did-core-test-server/suites/implementations/dereferencer-ethr-2021-consensys-mesh.json>
 
-2 passing
-
 ## Universal Resolver
 
 **Yes, incorporated into uniresolver directly**, see here:
 <https://github.com/decentralized-identity/universal-resolver/blob/1410aff24131f2e0fbc5151a5954a452b45b170d/uni-resolver-web/src/main/resources/application.yml#L73-L80>
 
 **Docker image:**
-[Hub.docker.com](https://hub.docker.com/r/uport/uni-resolver-driver-did-uport)
+<https://hub.docker.com/r/uport/uni-resolver-driver-did-uport>
 
 **Example query:**
 <https://dev.uniresolver.io/#did:ethr:mainnet:0x3b0bc51ab9de1e5b7b6e34e5b960285805c41736>
@@ -65,10 +63,6 @@ Also, an independent but non-compliant resolver implementation, using the same i
 
 This list of registry contract deployments for various networks: <https://github.com/decentralized-identity/ethr-did-resolver/blob/master/src/config/deployments.ts>
 
-## Standardization Target
-
-**TBD**
-
 ## Presentations and Deep Dives
 
 ### Initial Presentation
@@ -80,7 +74,6 @@ This list of registry contract deployments for various networks: <https://github
 Main topics and questions by audience:
 
 - Drummond: Is this a SCID? Mircea: Yes, initial is SCID, blockchain is witness to verifiable history
-- (Participant 2) Topic 2
 
 All questions answered and issues addressed? **Yes**
 
