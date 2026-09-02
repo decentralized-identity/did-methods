@@ -15,8 +15,18 @@ _You are free to propose agenda items for future meetings via pull requests._
   - **Participating on behalf of an Organization**:
     - Ensure your organization has signed the IPR release. See CONTRIBUTING.md, Prerequisites #2 for details.
 - Time: Every Wednesday, 18:00 CEST / CET
-- [Subscribe to DIF's calendar](https://calendar.google.com/calendar/u/0?cid=ZGVjZW50cmFsaXplZC5pZGVudGl0eUBnbWFpbC5jb20)
+- [Subscribe to DIF&#39;s calendar](https://calendar.google.com/calendar/u/0?cid=ZGVjZW50cmFsaXplZC5pZGVudGl0eUBnbWFpbC5jb20)
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
+
+## Meeting - 26 August 2026 - (1800 CET) - Christian
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. did:hedera Deep Dive 1. (dif-recommended/findings-did-hedera.md)
+
 
 ## Meeting - 12 August 2026 - (1800 CET) - Christian
 
@@ -25,7 +35,14 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Short meeting. Christian agreed to review the did:ethr proposal and findings. Documents are complete and method is ready for Recommendation. 
+3. Short meeting. Christian agreed to review the did:ethr proposal and findings. Documents are complete and method is ready for Recommendation.
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Short meeting. Christian agreed to review the did:ethr proposal and findings. Documents are complete and method is ready for Recommendation.
 
 ## Meeting - 5 August 2026 - (1800 CET) - Jonathan
 
@@ -54,12 +71,12 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. did:cid updates: 
-   - DID Resolution now conforms with W3C scheme.  
+3. did:cid updates:
+   - DID Resolution now conforms with W3C scheme.
    - [did:cid PR updates](https://github.com/decentralized-identity/did-methods/pull/103)
-4. did:hedera updates: 
-   - Keith looking into W3C DID Test suite. 
-   - Need to schedule a deep-dive and agree on scope of deep-dive. 
+4. did:hedera updates:
+   - Keith looking into W3C DID Test suite.
+   - Need to schedule a deep-dive and agree on scope of deep-dive.
 5. did:soul Introduction presentation
    - https://github.com/soulverse-ecosystem
 
@@ -147,7 +164,6 @@ _You are free to propose agenda items for future meetings via pull requests._
 4. NEW method proposal: [DID:hedera](https://github.com/decentralized-identity/did-methods/pull/90)
 5. NEW method proposal: [DID:content](https://github.com/decentralized-identity/did-methods/pull/99)
 
-
 ## Meeting - 6 May 2026 - (1800 CET) - Jonathan
 
 1. Welcome and Introductions
@@ -158,9 +174,9 @@ _You are free to propose agenda items for future meetings via pull requests._
 3. Brief discussion regarding possible discontinuance of DIF as Universal Resolver host
 4. [DID:CID](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-cid.md) first deep dive
 
-## Meeting - 29 Apr 2026 - (1800 CET) 
+## Meeting - 29 Apr 2026 - (1800 CET)
 
-1. Meeting canceled. Come meet other DIF contributors at the Internet Identity Workshop in Mountain View CA. 
+1. Meeting canceled. Come meet other DIF contributors at the Internet Identity Workshop in Mountain View CA.
 
 ## Meeting - 22 Apr 2026 - (1800 CET) - Christian
 
@@ -169,7 +185,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. [DID:ethr](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-ethr.md) Protocol Review Continuation - Deep Dive Session 
+3. [DID:ethr](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-ethr.md) Protocol Review Continuation - Deep Dive Session
 
 ## Meeting - 15 Apr 2026 - (1800 CET) - Christian
 
@@ -178,8 +194,8 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3.  [DID:webplus](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md) proposal status update (Victor)
-4.  [DID:ethr](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-ethr.md) Protocol Intro and Proposal Review
+3. [DID:webplus](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md) proposal status update (Victor)
+4. [DID:ethr](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-ethr.md) Protocol Intro and Proposal Review
 
 ## Meeting - 8 Apr 2026 - (1800 CET) - Jonathan
 
@@ -221,7 +237,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Review PR: <https://github.com/decentralized-identity/did-methods/pull/93> "Update DIF Recommended process to clarify the requirements surrounding the preparation and finalization of the findings document."
+3. Review PR: [https://github.com/decentralized-identity/did-methods/pull/93](https://github.com/decentralized-identity/did-methods/pull/93) "Update DIF Recommended process to clarify the requirements surrounding the preparation and finalization of the findings document."
 4. If present, did:webplus method status update
 5. If present, did:webs method status update
 6. Proposal: Weekly 10 minutes hands-on DID use cases demo time. Christian has been visiting multiple other DIF working groups over the last month. There is an enourmous amount of work going on; I propose we take 10 minutes weekly to invite a member to make a quick update on how they are using DIDs.
@@ -310,8 +326,8 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 4. General updates, status check, pull requests, issues:
-   - <https://github.com/decentralized-identity/did-methods/issues>
-   - <https://github.com/decentralized-identity/did-methods/pulls>
+   - [https://github.com/decentralized-identity/did-methods/issues](https://github.com/decentralized-identity/did-methods/issues)
+   - [https://github.com/decentralized-identity/did-methods/pulls](https://github.com/decentralized-identity/did-methods/pulls)
 
 ## ~~Meeting - 31 Dec 2025 - (1800 CET) - Jonathan~~ canceled
 
@@ -329,7 +345,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. Second Deep Dive: `did:webplus`
-   - <https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md>
+   - [https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md)
 
 ## ~~Meeting - 26 Nov 2025 - (1800 CET) - Markus~~ canceled
 
@@ -343,7 +359,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. First Deep Dive: `did:webs`
-   - <https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webs.md>
+   - [https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webs.md](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webs.md)
 
 ## ~~Meeting - 05 Nov 2025 - (1800 CET)~~ canceled
 
@@ -357,7 +373,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. First Deep Dive: `did:webplus`
-   - <https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md>
+   - [https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md)
 
 ## ~~Meeting - 22 Oct 2025 - (1800 CEST)~~ canceled due to IIW conference
 
@@ -369,7 +385,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. Initial DID method presentation: `did:webs`
-   - <https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webs.md>
+   - [https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webs.md](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webs.md)
 
 ## Meeting - 08 Oct 2025 - (1800 CEST)
 
@@ -379,7 +395,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. Initial DID method presentation: `did:mdip`
-   - <https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-mdip.md>
+   - [https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-mdip.md](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-mdip.md)
 
 ## Meeting - 01 Oct 2025 - (1800 CEST)
 
@@ -388,8 +404,8 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. PR about DIF-recommended process: <https://github.com/decentralized-identity/did-methods/pull/68>
-4. End of formal review period for did:webvh: <https://github.com/decentralized-identity/did-methods/pull/67>
+3. PR about DIF-recommended process: [https://github.com/decentralized-identity/did-methods/pull/68](https://github.com/decentralized-identity/did-methods/pull/68)
+4. End of formal review period for did:webvh: [https://github.com/decentralized-identity/did-methods/pull/67](https://github.com/decentralized-identity/did-methods/pull/67)
 5. State of other proposed DID methods in the process
 
 ## Meeting - 24 Sep 2025 - (1800 CEST)
@@ -400,11 +416,11 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. Update on Markus' proposal for DID Recommended after action report
-   - <https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107>
-   - <https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-example.md>
-   - <https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-webvh.md>
+   - [https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107](https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107)
+   - [https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-example.md](https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-example.md)
+   - [https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-webvh.md](https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-webvh.md)
 4. Initial DID method presentation: `did:webplus`
-   - <https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md>
+   - [https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-webplus.md)
 
 ## Meeting - 17 Sep 2025 - (1800 CEST)
 
@@ -414,10 +430,10 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. Initial DID method presentation: `did:cheqd`
-   - <https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-cheqd.md>
+   - [https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-cheqd.md](https://github.com/decentralized-identity/did-methods/blob/main/method-proposals/PROPOSAL-did-cheqd.md)
 4. Update on Markus' proposal for DID Recommended after action report
-   - <https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107>
-   - <https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-example.md>
+   - [https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107](https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107)
+   - [https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-example.md](https://github.com/decentralized-identity/did-methods/blob/main/dif-recommended/findings-did-example.md)
 
 ## Meeting - 10 Sep 2025 - (1800 CEST)
 
@@ -426,11 +442,11 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Update on W3C working group charter status: <https://github.com/w3c/strategy/issues/492>
-4. Review in flight DID method assessment (did:webvh): <https://github.com/decentralized-identity/did-methods/pull/67>
+3. Update on W3C working group charter status: [https://github.com/w3c/strategy/issues/492](https://github.com/w3c/strategy/issues/492)
+4. Review in flight DID method assessment (did:webvh): [https://github.com/decentralized-identity/did-methods/pull/67](https://github.com/decentralized-identity/did-methods/pull/67)
 5. Preview of upcoming DID method assessments (did:webplus, did:webs, did:cheqd, did:scid)
 6. Discuss proposal from Markus for DID Recommended after action report
-   - <https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107>
+   - [https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107](https://github.com/decentralized-identity/did-methods/pull/67#issuecomment-3250549107)
 
 ## ~~Meeting - 20 Aug 2025 - (1800 CEST)~~ canceled
 
@@ -441,7 +457,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Reminder of did:webvh review period: <https://github.com/decentralized-identity/did-methods/pull/67>
+3. Reminder of did:webvh review period: [https://github.com/decentralized-identity/did-methods/pull/67](https://github.com/decentralized-identity/did-methods/pull/67)
 4. Status of other proposed DID methods
 5. Issue and PR processing
 
@@ -452,7 +468,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Reminder of did:webvh review period: <https://github.com/decentralized-identity/did-methods/pull/67>
+3. Reminder of did:webvh review period: [https://github.com/decentralized-identity/did-methods/pull/67](https://github.com/decentralized-identity/did-methods/pull/67)
 4. Status update on W3C DID Methods WG process
 
 ## Meeting - 30 Jul 2025 - (1800 CEST)
@@ -474,18 +490,18 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. Summary of 09 July 2025 W3C meeting about DID Method Working Group Chartering:
-   - <https://www.w3.org/events/meetings/bbd7886a-a0c1-42c1-96ae-5f2b0e42a074/>
-   - <https://github.com/w3c/did-methods-wg-charter/pull/6>
+   - [https://www.w3.org/events/meetings/bbd7886a-a0c1-42c1-96ae-5f2b0e42a074/](https://www.w3.org/events/meetings/bbd7886a-a0c1-42c1-96ae-5f2b0e42a074/)
+   - [https://github.com/w3c/did-methods-wg-charter/pull/6](https://github.com/w3c/did-methods-wg-charter/pull/6)
 4. Approve end-to-end process for "DIF-Recommended Status":
-   - <https://github.com/decentralized-identity/did-methods/pull/62>
+   - [https://github.com/decentralized-identity/did-methods/pull/62](https://github.com/decentralized-identity/did-methods/pull/62)
 5. First deep dive of `did:webvh`
 
 ## ~~Meeting - 09 Jul 2025 - (1800 CEST)~~ replaced by DID Method Working Group Chartering meeting
 
 This week's call is replaced by a "Special Topic Call about W3C DID Methods WG Charter", see here for meeting information:
 
-- <https://www.w3.org/events/meetings/bbd7886a-a0c1-42c1-96ae-5f2b0e42a074/>
-- <https://lists.identity.foundation/g/did-methods-wg/topic/did_method_working_group/113982325>
+- [https://www.w3.org/events/meetings/bbd7886a-a0c1-42c1-96ae-5f2b0e42a074/](https://www.w3.org/events/meetings/bbd7886a-a0c1-42c1-96ae-5f2b0e42a074/)
+- [https://lists.identity.foundation/g/did-methods-wg/topic/did_method_working_group/113982325](https://lists.identity.foundation/g/did-methods-wg/topic/did_method_working_group/113982325)
 
 ## ~~Meeting - 02 Jul 2025 - (1800 CEST)~~ canceled due to GDC conference
 
@@ -497,11 +513,11 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. Pre-announcing Special Topic Call about W3C DID Methods WG Charter (preliminary time/date 9 July 2025, 10:00–11:00 ET):
-   - <https://github.com/w3c/did-methods-wg-charter/pull/6>
+   - [https://github.com/w3c/did-methods-wg-charter/pull/6](https://github.com/w3c/did-methods-wg-charter/pull/6)
 4. Continue to review end-to-end process for "DIF-Recommended Status":
-   - <https://github.com/decentralized-identity/did-methods/pull/62>
+   - [https://github.com/decentralized-identity/did-methods/pull/62](https://github.com/decentralized-identity/did-methods/pull/62)
 5. Discuss how/when to "start" the process
-6. Issue processing: <https://github.com/decentralized-identity/did-methods/issues>
+6. Issue processing: [https://github.com/decentralized-identity/did-methods/issues](https://github.com/decentralized-identity/did-methods/issues)
 
 ## Meeting - 18 Jun 2025 - (1800 CEST)
 
@@ -510,8 +526,8 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Discussion about scope of W3C DID Methods WG: <https://github.com/w3c/did-methods-wg-charter/pull/6>
-4. Review end-to-end process for "DIF-Recommended Status": <https://github.com/decentralized-identity/did-methods/pull/62>
+3. Discussion about scope of W3C DID Methods WG: [https://github.com/w3c/did-methods-wg-charter/pull/6](https://github.com/w3c/did-methods-wg-charter/pull/6)
+4. Review end-to-end process for "DIF-Recommended Status": [https://github.com/decentralized-identity/did-methods/pull/62](https://github.com/decentralized-identity/did-methods/pull/62)
 
 ## Meeting - 11 Jun 2025 - (1800 CEST)
 
@@ -520,8 +536,8 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Update on proposed W3C DID Methods Working Group: <https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html>
-4. Refine DIF-recommended DID Methods process: <https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended>
+3. Update on proposed W3C DID Methods Working Group: [https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html](https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html)
+4. Refine DIF-recommended DID Methods process: [https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended](https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended)
 
 ## Meeting - 04 Jun 2025 - (1800 CEST)
 
@@ -530,9 +546,9 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Update on proposed W3C DID Methods Working Group: <https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html>
-4. Current PRs: <https://github.com/decentralized-identity/did-methods/pulls>
-5. Refine DIF-recommended DID Methods process: <https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended>
+3. Update on proposed W3C DID Methods Working Group: [https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html](https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html)
+4. Current PRs: [https://github.com/decentralized-identity/did-methods/pulls](https://github.com/decentralized-identity/did-methods/pulls)
+5. Refine DIF-recommended DID Methods process: [https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended](https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended)
 
 ## Meeting - 28 May 2025 - (1800 CEST)
 
@@ -541,8 +557,8 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Update on proposed W3C DID Methods Working Group: <https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html>
-4. Current PRs: <https://github.com/decentralized-identity/did-methods/pulls>
+3. Update on proposed W3C DID Methods Working Group: [https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html](https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html)
+4. Current PRs: [https://github.com/decentralized-identity/did-methods/pulls](https://github.com/decentralized-identity/did-methods/pulls)
 5. DID method deep dive: `did:webvh`
 
 ## Meeting - 21 May 2025 - (1800 CEST)
@@ -552,7 +568,7 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Update on proposed W3C DID Methods Working Group: <https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html>
+3. Update on proposed W3C DID Methods Working Group: [https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html](https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html)
 4. Follow-up discussion on last week's `did:webs` deep dive (focus on deep dives as part of the "DIF-recommended DID method" process)
 
 ## Meeting - 14 May 2025 - (1800 CEST)
@@ -562,7 +578,7 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Update on proposed W3C DID Methods Working Group: <https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html>
+3. Update on proposed W3C DID Methods Working Group: [https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html](https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html)
 4. DID method deep dive: `did:webs`
 
 ## ~~Meeting - 07 May 2025 - (1800 CEST)~~ canceled due to EIC conference
@@ -574,8 +590,8 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Update on proposed W3C DID Methods Working Group: <https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html>
-4. Finalize "DIF-recommended DID method" process: <https://github.com/decentralized-identity/did-methods/pull/53>
+3. Update on proposed W3C DID Methods Working Group: [https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html](https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html)
+4. Finalize "DIF-recommended DID method" process: [https://github.com/decentralized-identity/did-methods/pull/53](https://github.com/decentralized-identity/did-methods/pull/53)
 5. Schedule next DID method deep dives
 6. No meeting next week due to EIC conference
 
@@ -586,7 +602,7 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Continue discussion of "DIF-endorsed DID method" process: <https://github.com/decentralized-identity/did-methods/pull/53>
+3. Continue discussion of "DIF-endorsed DID method" process: [https://github.com/decentralized-identity/did-methods/pull/53](https://github.com/decentralized-identity/did-methods/pull/53)
 4. DID method deep dive: `did:peer`
    - [Method Spec](https://identity.foundation/peer-did-method-spec/)
    - [Slides](https://docs.google.com/presentation/d/1f6q3ZAzTqlZyIRS6gpVfrDHIwiTdFCsCKQoQ5FnkDsw/edit?usp=sharing)
@@ -600,7 +616,7 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. Support for blockchain/ledger based DID methods, potential pathway to ISO standardization
-4. Proposal for "DIF-endorsed DID methods" process: <https://github.com/decentralized-identity/did-methods/pull/53>
+4. Proposal for "DIF-endorsed DID methods" process: [https://github.com/decentralized-identity/did-methods/pull/53](https://github.com/decentralized-identity/did-methods/pull/53)
 5. Next DID methods deep dives, every two weeks (after did:key)
 
 ## ~~Meeting - 09 Apr 2025 - (1800 CEST)~~ canceled due to IIW conference
@@ -635,8 +651,8 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. Discussion/vote on W3C DID Methods WG Charter proposal:
-   - <https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html>
-   - <https://lists.identity.foundation/g/did-methods-wg/topic/did_methods_working_group/111557319>
+   - [https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html](https://w3c.github.io/did-methods-wg-charter/2025/did-methods-wg.html)
+   - [https://lists.identity.foundation/g/did-methods-wg/topic/did_methods_working_group/111557319](https://lists.identity.foundation/g/did-methods-wg/topic/did_methods_working_group/111557319)
 4. Discussion about blockchain/ledger based DID methods
 5. Weekly meeting schedule?
 
@@ -658,13 +674,13 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. DID methods comparison in GS1 report: <https://ref.gs1.org/docs/2025/VCs-and-DIDs-tech-landscape#didMethodComparison>
-4. Results of the selection criteria survey: <https://www.surveymonkey.com/results/SM-lCidOYEfoLATI8ok3Ewdpw_3D_3D/>
+3. DID methods comparison in GS1 report: [https://ref.gs1.org/docs/2025/VCs-and-DIDs-tech-landscape#didMethodComparison](https://ref.gs1.org/docs/2025/VCs-and-DIDs-tech-landscape#didMethodComparison)
+4. Results of the selection criteria survey: [https://www.surveymonkey.com/results/SM-lCidOYEfoLATI8ok3Ewdpw_3D_3D/](https://www.surveymonkey.com/results/SM-lCidOYEfoLATI8ok3Ewdpw_3D_3D/)
 5. Next steps in the WG process
 6. Review of current status of WG activities:
-   - Selection criteria: <https://github.com/decentralized-identity/did-methods/tree/main/selection-criteria>
-   - Method proposals: <https://github.com/decentralized-identity/did-methods/tree/main/method-proposals>
-7. Issues: <https://github.com/decentralized-identity/did-methods/issues>
+   - Selection criteria: [https://github.com/decentralized-identity/did-methods/tree/main/selection-criteria](https://github.com/decentralized-identity/did-methods/tree/main/selection-criteria)
+   - Method proposals: [https://github.com/decentralized-identity/did-methods/tree/main/method-proposals](https://github.com/decentralized-identity/did-methods/tree/main/method-proposals)
+7. Issues: [https://github.com/decentralized-identity/did-methods/issues](https://github.com/decentralized-identity/did-methods/issues)
 8. Suggestions for future topics:
    - mtg 1: discuss key peer and web
    - mtg 2: discuss scid, cel, other traits (maybe quick refresher on sidetree even tho it's not a candidate? maybe the webplus VDR/VDG terminology?)
@@ -680,12 +696,12 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. Review of current status of WG activities:
-   - Selection criteria: <https://github.com/decentralized-identity/did-methods/tree/main/selection-criteria>
-   - Method proposals: <https://github.com/decentralized-identity/did-methods/tree/main/method-proposals>
+   - Selection criteria: [https://github.com/decentralized-identity/did-methods/tree/main/selection-criteria](https://github.com/decentralized-identity/did-methods/tree/main/selection-criteria)
+   - Method proposals: [https://github.com/decentralized-identity/did-methods/tree/main/method-proposals](https://github.com/decentralized-identity/did-methods/tree/main/method-proposals)
 4. Ranking of selection criteria
 5. Ledger-based DID methods? E.g. did:cheqd, did:ethr, did:indy, did:btc1, etc.
 6. Fully decentralized DID methods? E.g. did:dht, did:keri, did:scid, did:ion, etc.
-7. Issues: <https://github.com/decentralized-identity/did-methods/issues>
+7. Issues: [https://github.com/decentralized-identity/did-methods/issues](https://github.com/decentralized-identity/did-methods/issues)
 
 ## Meeting - 15 Jan 2025 - (1800 CET) [recording](https://us02web.zoom.us/rec/share/P_IuJFNb1JhsfDPYiNO5xAN3JIuQRYf6dI1prlIPDLNd1FakO_1kUamDwo8hRb_W.yiNmrrgOdmeQKOHr)
 
@@ -695,9 +711,9 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. Review of current status of WG activities:
-   - Selection criteria: <https://github.com/decentralized-identity/did-methods/tree/main/selection-criteria>
-   - Method proposals: <https://github.com/decentralized-identity/did-methods/tree/main/method-proposals>
-4. Issues: <https://github.com/decentralized-identity/did-methods/issues>
+   - Selection criteria: [https://github.com/decentralized-identity/did-methods/tree/main/selection-criteria](https://github.com/decentralized-identity/did-methods/tree/main/selection-criteria)
+   - Method proposals: [https://github.com/decentralized-identity/did-methods/tree/main/method-proposals](https://github.com/decentralized-identity/did-methods/tree/main/method-proposals)
+4. Issues: [https://github.com/decentralized-identity/did-methods/issues](https://github.com/decentralized-identity/did-methods/issues)
 5. Ranking of selection criteria
 
 ## ~~Meeting - 01 Jan 2025 - (1800 CET)~~ no meeting due to holidays
@@ -720,13 +736,13 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. [Review of Working Group Mission & Goals](https://docs.google.com/presentation/d/1isciKwqiLPZij_B30noNsL71Edjc9hkdowjihhvUMGw/edit)
-    - Discussion around goals of group: standardization readiness, group is maturing standards for exemplary or representative methods
-    - Importance of getting feedback from implementors
+3. [Review of Working Group Mission &amp; Goals](https://docs.google.com/presentation/d/1isciKwqiLPZij_B30noNsL71Edjc9hkdowjihhvUMGw/edit)
+   - Discussion around goals of group: standardization readiness, group is maturing standards for exemplary or representative methods
+   - Importance of getting feedback from implementors
 4. WG item: Call for chairs
 5. WG item: Deciding categories/criteria for DID method selection.
-    - Discussion: prefer to timebox the preparatory "criteria" work
-    - Outcome: iterate list of requirements in github document
+   - Discussion: prefer to timebox the preparatory "criteria" work
+   - Outcome: iterate list of requirements in github document
 
 ## Meeting - 13 Nov 2024 - (1800 CET) [recording](https://us02web.zoom.us/rec/share/_KUk8HiwBYwQI7hmHmQ89EEybAgqh1fO3keaseHXKzzCPBc4HAZTVsUGKnYORZF1.OjINYvhyBvzlX__i)
 
@@ -734,15 +750,15 @@ This week's call is replaced by a "Special Topic Call about W3C DID Methods WG C
 2. Logistics
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
-3. [Review of Working Group Mission & Goals](https://docs.google.com/presentation/d/1isciKwqiLPZij_B30noNsL71Edjc9hkdowjihhvUMGw/edit)
+3. [Review of Working Group Mission &amp; Goals](https://docs.google.com/presentation/d/1isciKwqiLPZij_B30noNsL71Edjc9hkdowjihhvUMGw/edit)
 4. WG item: Call for chairs
 5. WG item: Deciding categories/criteria for DID method selection.
-    - Options:
-        - Use current 3 proposed
-        - Propose alternatives (as github issue*)
-    - WG will discuss/decide
-    - Focus of next meeting
-    - *Ensure you've signed IP agreements before
+   - Options:
+     - Use current 3 proposed
+     - Propose alternatives (as github issue*)
+   - WG will discuss/decide
+   - Focus of next meeting
+   - *Ensure you've signed IP agreements before
 6. Next steps: ensure you're a member
 
 ## Meeting - 20 Sept 2024 - (1800 CET)
