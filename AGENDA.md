@@ -18,6 +18,61 @@ _You are free to propose agenda items for future meetings via pull requests._
 - [Subscribe to DIF&#39;s calendar](https://calendar.google.com/calendar/u/0?cid=ZGVjZW50cmFsaXplZC5pZGVudGl0eUBnbWFpbC5jb20)
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 
+## Meeting - 7 October 2026 - (1800 CET) 
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Agenda TBD
+
+## Meeting - 30 September 2026 - (1800 CET)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Agenda TBD
+
+## Meeting - 23 September 2026 - (1800 CET)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Agenda TBD
+
+## Meeting - 16 September 2026 - (1800 CET)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Agenda TBD
+
+## Meeting - 9 September 2026 - (1800 CET)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Agenda TBD
+
+## Meeting - 2 September 2026 - (1800 CET)
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. no scheduled topic today. Will resume did:hedera Deep Dive 2 next week.
+4. Jonathan stepping down as co-chain of did:methods wg to focus on new business in the identity space. Congratulations and thanks to Jonathan for his contributions and work with the DIF. 
+
 ## Meeting - 26 August 2026 - (1800 CET) - Christian
 
 1. Welcome and Introductions
@@ -27,22 +82,24 @@ _You are free to propose agenda items for future meetings via pull requests._
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. did:hedera Deep Dive 1. (dif-recommended/findings-did-hedera.md)
 
+## ~~Meeting - 19 August 2026 - (1800 CET) - canceled~~
 
 ## Meeting - 12 August 2026 - (1800 CET) - Christian
 
 1. Welcome and Introductions
 2. Logistics
-   - [CONTRIBUTING.md](./CONTRIBUTING.md)
-   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
-   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Short meeting. Christian agreed to review the did:ethr proposal and findings. Documents are complete and method is ready for Recommendation.
 
-1. Welcome and Introductions
-2. Logistics
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
 3. Short meeting. Christian agreed to review the did:ethr proposal and findings. Documents are complete and method is ready for Recommendation.
+4. Welcome and Introductions
+5. Logistics
+
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+6. Short meeting. Christian agreed to review the did:ethr proposal and findings. Documents are complete and method is ready for Recommendation.
 
 ## Meeting - 5 August 2026 - (1800 CET) - Jonathan
 
