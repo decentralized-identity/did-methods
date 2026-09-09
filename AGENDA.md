@@ -61,7 +61,8 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Agenda TBD
+3. Group agree to formally Recommend did:hedera. 🎈
+4. New and old methods coming up: did:julia, did:webs
 
 ## Meeting - 2 September 2026 - (1800 CET)
 
