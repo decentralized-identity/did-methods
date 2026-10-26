@@ -11,7 +11,7 @@ This process is documented here: <https://github.com/decentralized-identity/did-
 
 **DID method:** `did:webplus`
 
-**DID method specification:** [Current Stable v1.0](https://ledgerdomain.github.io/did-webplus-spec/)
+**DID method specification:** [v0.9](https://ledgerdomain.github.io/did-webplus-spec/)
 
 **Open issues (0):** <https://github.com/LedgerDomain/did-webplus-spec/issues>
 
