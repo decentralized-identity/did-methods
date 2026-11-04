@@ -18,6 +18,36 @@ _You are free to propose agenda items for future meetings via pull requests._
 - [Subscribe to DIF&#39;s calendar](https://calendar.google.com/calendar/u/0?cid=ZGVjZW50cmFsaXplZC5pZGVudGl0eUBnbWFpbC5jb20)
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 
+## Meeting - 4 November 2026 - (1800 CET) 
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Agenda:
+   - did:webs Recommendation discussion (restart 60 days review?)
+ 
+## Meeting - 28 October 2026 - (1800 CET) 
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Agenda meetings to resume in November.
+
+## Meeting - 14 October 2026 - (1800 CET) 
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+3. Agenda meetings to resume in November.
+
+
+
 ## Meeting - 7 October 2026 - (1800 CET) 
 
 1. Welcome and Introductions
@@ -25,7 +55,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Agenda TBD
+3. Agenda meetings to resume in November.
 
 ## Meeting - 30 September 2026 - (1800 CET)
 
@@ -34,7 +64,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Agenda TBD
+3. Agenda : meeting cancelled
 
 ## Meeting - 23 September 2026 - (1800 CET)
 
@@ -43,7 +73,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Agenda TBD
+3. Agenda : meeting cancelled
 
 ## Meeting - 16 September 2026 - (1800 CET)
 
@@ -52,7 +82,7 @@ _You are free to propose agenda items for future meetings via pull requests._
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
    - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
-3. Agenda TBD
+3. Agenda did:ethr recommendation
 
 ## Meeting - 9 September 2026 - (1800 CET)
 
