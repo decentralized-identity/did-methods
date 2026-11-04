@@ -56,7 +56,17 @@ Number of tested implementations of `did:webs`: **1**
 ## Multiple Implementations
 
 **Yes**, see here:
-<https://link-to-information-about-implementations/>
+Python (reference implementation):
+-   Main repo: https://github.com/GLEIF-IT/did-webs-resolver
+-   PyPi Index: https://pypi.org/project/did-webs-resolver/
+
+Typescript
+-   Main repo: https://github.com/kentbull/keri-ts 
+-   NPM Index:  https://www.npmjs.com/package/keri-ts
+-   Source Package Link: https://github.com/kentbull/keri-ts/tree/master/packages/keri/src/did/webs
+
+Affinidi
+-  https://github.com/affinidi/affinidi-tdk-rs/tree/main/crates/identity/did-methods/did-webs
 
 ## Deployments
 
