@@ -85,11 +85,6 @@ Affinidi
 
 [Recording](https://us02web.zoom.us/rec/share/ydyzACvxwV7xOVom6M8e8mpNTR3tZ8JgetTo16V6HPoJ-GaepIGAUSEZYYkMzcc3.JJTVzqKm4EDqEtQ5)
 
-Main topics and questions by audience:
-
-- (Participant 1) Topic 1
-- (Participant 2) Topic 2
-
 All questions answered and issues addressed? **Yes**
 
 ### Deep Dive 1
@@ -97,11 +92,6 @@ All questions answered and issues addressed? **Yes**
 **Date:** Nov 12, 2025 08:53 AM
 
 [Recording](https://us02web.zoom.us/rec/share/otQIKvhC5YI_Xl0kxCitMEZ6E0J8Ci3vMgSckEl2qOkydi96AVvOvT2WuHZV-gQW.JXurwwK1G7ZLhMFR)
-
-Main topics and questions by audience:
-
-- (Participant 1) Topic 1
-- (Participant 2) Topic 2
 
 All questions answered and issues addressed? **Yes**
 
@@ -111,20 +101,10 @@ All questions answered and issues addressed? **Yes**
 
 [Recording](https://us02web.zoom.us/rec/share/Nazek-3tnfM4r8OwPU2IVfvGtB81SKwe-ZO5qizEMEjyQjm_lplqLftuBqPUGCM.mPbxfe5WgOOpENwT)
 
-Main topics and questions by audience:
-
-- (Participant 1) Topic 1
-- (Participant 2) Topic 2
-
 All questions answered and issues addressed? **Yes**
 
 ## Pull Request for DIF-recommended status
 
 <https://github.com/decentralized-identity/did-methods/pull/00> **(3 comments)**
-
-Main questions and topics:
-
-- (Participant 1) Topic 1
-- (Participant 2) Topic 2
 
 All questions answered and issues addressed? **Yes**
