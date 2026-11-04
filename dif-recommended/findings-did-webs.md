@@ -1,7 +1,6 @@
 # Findings: did:webs DIF-recommended DID method
 
-This "findings" document summarizes the process that led to the status
-of `did:webs` as a DIF-recommended DID method.
+This "findings" document summarizes the process as we evaluate `did:webs` as a possible Recommended method.
 
 This process is documented here: <https://github.com/decentralized-identity/did-methods/tree/main/dif-recommended>
 
