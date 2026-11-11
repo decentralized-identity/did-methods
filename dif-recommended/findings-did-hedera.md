@@ -24,7 +24,7 @@ This process is documented here: [https://github.com/decentralized-identity/did-
 
 ## W3C Tests
 
-**TBD**
+**Yes**, https://github.com/w3c/did-test-suite/blob/939b31d07d5b1699340ac0702ec0fa46ffcdef0a/packages/did-core-test-server/suites/implementations/did-hedera.json
 
 Number of tested implementations : multiple. See hashgraph: https://hedera.com/use-cases/decentralized-identity/
 
