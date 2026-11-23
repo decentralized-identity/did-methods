@@ -1,4 +1,4 @@
-# DID Method Work Item
+# DID Methods Work Item
 
 This is the operating repository for the DID Methods Work Item of the [Identifiers & Discovery Working Group](https://github.com/decentralized-identity/identifiers-discovery/).
 
