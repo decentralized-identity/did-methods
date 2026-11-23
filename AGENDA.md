@@ -1,4 +1,4 @@
-# DID Methods WG - Rolling Agenda & Minutes
+# DID Methods Work Item - Rolling Agenda & Minutes
 
 [![hackmd-github-sync-badge](https://hackmd.io/1aWygeLKT1GRKx-dAeFl3w/badge)](https://hackmd.io/1aWygeLKT1GRKx-dAeFl3w)
 
