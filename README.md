@@ -1,6 +1,6 @@
-# DID Method Working Group
+# DID Method Work Item
 
-This is the operating repository for the DID Method Working Group.
+This is the operating repository for the DID Methods Work Item of the [Identifiers & Discovery Working Group](https://github.com/decentralized-identity/identifiers-discovery/).
 
 ## Resources
 
