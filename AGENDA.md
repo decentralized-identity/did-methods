@@ -2,7 +2,7 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/1aWygeLKT1GRKx-dAeFl3w/badge)](https://hackmd.io/1aWygeLKT1GRKx-dAeFl3w)
 
-[**WG projects**](https://github.com/decentralized-identity?q=wg-methods&type=&language=) | [DIF page](https://identity.foundation/working-groups/did-methods.html) | [Mailing list](https://lists.identity.foundation/g/did-methods-wg) | [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit?gid=242845701#gid=242845701)
+[Mailing list](https://lists.identity.foundation/g/did-methods-wg) | [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit?gid=242845701#gid=242845701)
 
 _For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large group._
 
