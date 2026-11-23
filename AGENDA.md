@@ -2,7 +2,7 @@
 
 [![hackmd-github-sync-badge](https://hackmd.io/1aWygeLKT1GRKx-dAeFl3w/badge)](https://hackmd.io/1aWygeLKT1GRKx-dAeFl3w)
 
-[**WG projects**](https://github.com/decentralized-identity?q=wg-methods&type=&language=) | [DIF page](https://identity.foundation/working-groups/did-methods.html) | [Mailing list and Wiki](https://lists.identity.foundation/g/cc-wg) | [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit?gid=242845701#gid=242845701)
+[**WG projects**](https://github.com/decentralized-identity?q=wg-methods&type=&language=) | [DIF page](https://identity.foundation/working-groups/did-methods.html) | [Mailing list](https://lists.identity.foundation/g/did-methods-wg) | [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit?gid=242845701#gid=242845701)
 
 _For this call, you are encouraged to turn your video on. This is a good way to build rapport given we are a large group._
 
@@ -14,9 +14,26 @@ _You are free to propose agenda items for future meetings via pull requests._
   - **Unaffiliated Individuals**: Sign the [DIF Feedback Agreement](https://bit.ly/DIF-feedback-agreement) and select "DID Methods" WG
   - **Participating on behalf of an Organization**:
     - Ensure your organization has signed the IPR release. See CONTRIBUTING.md, Prerequisites #2 for details.
-- Time: Every Wednesday, 18:00 CEST / CET
+- Time: Every second Monday, 14:00 UTC (15:00 CET / 06:30 PST / 19:30 IST)
 - [Subscribe to DIF&#39;s calendar](https://calendar.google.com/calendar/u/0?cid=ZGVjZW50cmFsaXplZC5pZGVudGl0eUBnbWFpbC5jb20)
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
+
+## Meeting - 16 November 2026 - (1400 UTC / 1500 CET / 0630 PST / 1930 IST) - Sumit
+
+1. Welcome and Introductions
+2. Logistics
+   - [CONTRIBUTING.md](./CONTRIBUTING.md)
+   - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+   - New cadence: every second Monday at 14:00 UTC. Next call: 30 November 2026.
+3. Chair update. Christian Saucier has stepped down; thank you, Christian. Sumit Vekariya (ZKred) and Markus Sabadello (Danube Tech) co-chair. The proposal to run this group as a work item of the Identifiers & Discovery WG goes to the Steering Committee.
+4. did:webs. The 60-day review period reopened on 4 November. The chairs will ask for the evidence behind column 9 (multiple implementations): a conformance suite tied to one spec version, passed by at least two implementations in different languages. Schedule a session for Kent Bull (GLEIF) and Glenn Gore (Affinidi) to present. Open a review PR with a dated end of the period.
+5. did:hedera. Confirm the 60-day review has closed. Finalise the findings document and remove the duplicate row in the status table.
+6. did:content ([PR #112](https://github.com/decentralized-identity/did-methods/pull/112)). Kataru asks for a presentation slot and two supporting WG members.
+7. [PR #109](https://github.com/decentralized-identity/did-methods/pull/109): did:webplus spec version correction. Merge.
+8. did:soul. Proposal PR and a presentation slot.
+9. W3C DID Methods WG: status after the AC review (Juan).
+10. Any other business. Minutes will be added below this agenda after the call.
 
 ## Meeting - 4 November 2026 - (1800 CET) 
 
