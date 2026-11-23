@@ -9,6 +9,7 @@ Note: This work item was previously its own Working Group.
 - [Calendar entry](https://calendar.google.com/event?action=TEMPLATE&tmeid=NmJ1bGxkOGUwdmY0M2ljMmJua29mZDhoMGRfMjAyNjExMzBUMTQwMDAwWiBkZWNlbnRyYWxpemVkLmlkZW50aXR5QG0=&tmsrc=decentralized.identity%40gmail.com&scp=ALL)
 - [Meeting minutes/agenda](https://github.com/decentralized-identity/did-methods/blob/main/AGENDA.md)
 - [Meeting recordings](https://docs.google.com/spreadsheets/d/1wgccmMvIImx30qVE9GhRKWWv3vmL2ZyUauuKx3IfRmA/edit?gid=242845701#gid=242845701)
+- [Mailing List](https://lists.identity.foundation/g/id-wg): Join the mailing list
 
 ## Activities
 
