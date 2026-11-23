@@ -11,7 +11,7 @@ _You are free to propose agenda items for future meetings via pull requests._
 ## Meeting information
 
 - Before you contribute, you must do the following:
-  - **Unaffiliated Individuals**: Sign the [DIF Feedback Agreement](https://bit.ly/DIF-feedback-agreement) and select "DID Methods" WG
+  - **Unaffiliated Individuals**: Sign the [DIF Feedback Agreement](https://bit.ly/DIF-feedback-agreement) and select "Identifiers & Discovery" WG
   - **Participating on behalf of an Organization**:
     - Ensure your organization has signed the IPR release. See CONTRIBUTING.md, Prerequisites #2 for details.
 - Time: Every second Monday, 14:00 UTC (15:00 CET / 06:30 PST / 19:30 IST)
