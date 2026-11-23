@@ -14,7 +14,7 @@ _You are free to propose agenda items for future meetings via pull requests._
   - **Unaffiliated Individuals**: Sign the [DIF Feedback Agreement](https://bit.ly/DIF-feedback-agreement) and select "Identifiers & Discovery" WG
   - **Participating on behalf of an Organization**:
     - Ensure your organization has signed the IPR release. See CONTRIBUTING.md, Prerequisites #2 for details.
-- Time: Every second Monday, 14:00 UTC (15:00 CET / 06:30 PST / 19:30 IST)
+- Time: Every second Monday, 14:00 UTC / 15:00 CET / 06:30 PST / 19:30 IST
 - [Subscribe to DIF&#39;s calendar](https://calendar.google.com/calendar/u/0?cid=ZGVjZW50cmFsaXplZC5pZGVudGl0eUBnbWFpbC5jb20)
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 
