@@ -18,7 +18,7 @@ _You are free to propose agenda items for future meetings via pull requests._
 - [Subscribe to DIF&#39;s calendar](https://calendar.google.com/calendar/u/0?cid=ZGVjZW50cmFsaXplZC5pZGVudGl0eUBnbWFpbC5jb20)
 - [Zoom room](https://us02web.zoom.us/j/88676811119?pwd=YxKNPVRvfeBihnIJQUa9i1uDHrPidH.1), Meeting ID: 886 7681 1119, Passcode: 911881
 
-## Meeting - 16 November 2026 - (1400 UTC / 1500 CET / 0630 PST / 1930 IST) - Sumit
+## Meeting - 30 November 2026 - (1400 UTC / 1500 CET / 0630 PST / 1930 IST) - Sumit
 
 1. Welcome and Introductions
 2. Logistics
@@ -34,6 +34,8 @@ _You are free to propose agenda items for future meetings via pull requests._
 8. did:soul. Proposal PR and a presentation slot.
 9. W3C DID Methods WG: status after the AC review (Juan).
 10. Any other business. Minutes will be added below this agenda after the call.
+
+## ~~Meeting - 16 November 2026 - (1400 UTC / 1500 CET / 0630 PST / 1930 IST)~~ - canceled
 
 ## Meeting - 4 November 2026 - (1800 CET) 
 
