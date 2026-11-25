@@ -24,9 +24,9 @@ _You are free to propose agenda items for future meetings via pull requests._
 2. Logistics
    - [CONTRIBUTING.md](./CONTRIBUTING.md)
    - [Code of Conduct](https://github.com/decentralized-identity/org/blob/main/code-of-conduct.md)
-   - Reminder: [join the mailing list](https://lists.identity.foundation/g/did-methods-wg)
+   - Reminder: [join the mailing list](https://lists.identity.foundation/g/id-wg)
    - New cadence: every second Monday at 14:00 UTC. Next call: 30 November 2026.
-3. Chair update. Christian Saucier has stepped down; thank you, Christian. Sumit Vekariya (ZKred) and Markus Sabadello (Danube Tech) co-chair. The proposal to run this group as a work item of the Identifiers & Discovery WG goes to the Steering Committee.
+3. Chair update. Christian Saucier has stepped down; thank you, Christian. Sumit Vekariya (ZKred) and Markus Sabadello (Danube Tech) co-chair. This group now runs as the DID Methods work item of the [Identifiers & Discovery WG](https://github.com/decentralized-identity/identifiers-discovery/).
 4. did:webs. The 60-day review period reopened on 4 November. The chairs will ask for the evidence behind column 9 (multiple implementations): a conformance suite tied to one spec version, passed by at least two implementations in different languages. Schedule a session for Kent Bull (GLEIF) and Glenn Gore (Affinidi) to present. Open a review PR with a dated end of the period.
 5. did:hedera. Confirm the 60-day review has closed. Finalise the findings document and remove the duplicate row in the status table.
 6. did:content ([PR #112](https://github.com/decentralized-identity/did-methods/pull/112)). Kataru asks for a presentation slot and two supporting WG members.
